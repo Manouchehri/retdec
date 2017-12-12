@@ -57,7 +57,7 @@ fi
 mkdir -p "$INSTALL_PATH"
 
 # Get archive using wget.
-WGET_PARAMS=("https://github.com/avast-tl/retdec-support/releases/download/$VERSION/$ARCH_NAME" -O "$INSTALL_PATH/$ARCH_NAME")
+WGET_PARAMS=("https://github.com/avast-tl/retdec-support/releases/download/$VERSION/$ARCH_NAME" --read-timeout=1 -O "$INSTALL_PATH/$ARCH_NAME")
 echo "RUN: wget ${WGET_PARAMS[@]}"
 wget "${WGET_PARAMS[@]}"
 WGET_RC=$?

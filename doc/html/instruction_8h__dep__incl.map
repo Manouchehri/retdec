@@ -1,0 +1,22 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/utils/instruction.h" name="/home/retdec/retdec/include/bin2llvmir/utils/instruction.h">
+<area shape="rect" id="node2" href="$dsm__generator_8h.html" title="Produce DSM output. " alt="" coords="23,109,240,180"/>
+<area shape="rect" id="node4" href="$indirectly__called__funcs__analysis_8cpp.html" title="Implementation of indirectly called functions analysis. " alt="" coords="264,109,441,180"/>
+<area shape="rect" id="node5" href="$reachable__funcs__analysis_8cpp.html" title="Implementation of reachable functions analysis. " alt="" coords="465,117,685,173"/>
+<area shape="rect" id="node6" href="$reaching__definitions_8cpp.html" title="Reaching definitions analysis builds UD and DU chains. " alt="" coords="710,117,894,173"/>
+<area shape="rect" id="node7" href="$store__load__analysis_8cpp.html" title="Implementation of store&#45;load analysis. " alt="" coords="919,117,1101,173"/>
+<area shape="rect" id="node8" href="$uses__analysis_8cpp.html" title="Implementation of uses analysis. " alt="" coords="1125,117,1303,173"/>
+<area shape="rect" id="node9" href="$constants_8cpp.html" title="Composite type reconstruction analysis. " alt="" coords="1327,117,1535,173"/>
+<area shape="rect" id="node10" href="$global__to__local__and__dead__global__assign_8cpp.html" title="Implementation of GlobalToLocalAndDeadGlobalAssign optimizer. " alt="" coords="1559,109,1767,180"/>
+<area shape="rect" id="node11" href="$idioms__libgcc_8cpp.html" title="Idioms produced by libgcc. " alt="" coords="1791,117,2026,173"/>
+<area shape="rect" id="node12" href="$inst__opt_8cpp.html" title="Instruction optimizations which we want to do ourselves. " alt="" coords="2050,117,2258,173"/>
+<area shape="rect" id="node13" href="$local__vars_8cpp.html" title="Register localization. " alt="" coords="2282,117,2490,173"/>
+<area shape="rect" id="node14" href="$param__return_8cpp.html" title="Detect functions&#39; parameters and returns. " alt="" coords="2515,117,2748,173"/>
+<area shape="rect" id="node15" href="$provider__init_8cpp.html" title="One time providers initialization. " alt="" coords="2773,117,2994,173"/>
+<area shape="rect" id="node16" href="$simple__types_8cpp.html" title="Simple type reconstruction analysis. " alt="" coords="3019,117,3249,173"/>
+<area shape="rect" id="node17" href="$unreachable__funcs_8cpp.html" title="Implementation of UnreachableFuncs optimizer. " alt="" coords="3274,109,3506,180"/>
+<area shape="rect" id="node18" href="$bin2llvmir_2providers_2config_8cpp.html" title="Config DB provider for bin2llvmirl. " alt="" coords="3531,117,3711,173"/>
+<area shape="rect" id="node19" href="$instruction_8cpp.html" title="LLVM instruction utilities. " alt="" coords="3735,117,3888,173"/>
+<area shape="rect" id="node20" href="$ir__modifier_8cpp.html" title="Modify both LLVM IR and config. " alt="" coords="3912,117,4065,173"/>
+<area shape="rect" id="node21" href="$bin2llvmir_2utils_2type_8cpp.html" title="LLVM type utilities. " alt="" coords="4089,117,4243,173"/>
+<area shape="rect" id="node3" href="$dsm__generator_8cpp.html" title="Produce DSM output. " alt="" coords="5,228,257,284"/>
+</map>

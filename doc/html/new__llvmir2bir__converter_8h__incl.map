@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/llvm/llvmir2bir_converters/new_llvmir2bir_converter.h" name="/home/retdec/retdec/include/llvmir2hll/llvm/llvmir2bir_converters/new_llvmir2bir_converter.h">
+<area shape="rect" id="node3" href="$llvmir2bir__converter_8h.html" title="A base class for all converters of LLVM IR to BIR. " alt="" coords="108,124,292,165"/>
+<area shape="rect" id="node4" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="306,213,443,255"/>
+<area shape="rect" id="node8" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="605,124,742,165"/>
+</map>

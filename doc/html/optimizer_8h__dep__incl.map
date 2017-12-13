@@ -1,0 +1,51 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/optimizer/optimizer.h" name="/home/retdec/retdec/include/llvmir2hll/optimizer/optimizer.h">
+<area shape="rect" id="node2" href="$func__optimizer_8h.html" title="A base class of all function optimizers. " alt="" coords="3603,124,3803,180"/>
+<area shape="rect" id="node38" href="$optimizer__manager_8h.html" title="A manager managing optimizations. " alt="" coords="7309,117,7463,187"/>
+<area shape="rect" id="node40" href="$aggressive__global__to__local__optimizer_8h.html" title="Converts all global variables without a name from debug information to local variables. " alt="" coords="7565,109,7729,195"/>
+<area shape="rect" id="node42" href="$deref__to__array__index__optimizer_8h.html" title="Optimizes pointer arithmetic on variables or array accesses or structures to array accesses..." alt="" coords="7811,109,7975,195"/>
+<area shape="rect" id="node44" href="$empty__array__to__string__optimizer_8h.html" title="Optimizes global empty arrays to empty strings. " alt="" coords="7999,109,8173,195"/>
+<area shape="rect" id="node46" href="$global__to__local__optimizer_8h.html" title="Converts global variables to local variables wherever possible. " alt="" coords="8220,117,8424,187"/>
+<area shape="rect" id="node48" href="$unused__global__var__optimizer_8h.html" title="Removes global variables that are not used. " alt="" coords="8464,117,8692,187"/>
+<area shape="rect" id="node50" href="$optimizer_8cpp.html" title="Implementation of Optimizer. " alt="" coords="8716,124,8893,180"/>
+<area shape="rect" id="node3" href="$aggressive__deref__optimizer_8h.html" title="Optimizes dereferences of integer values. " alt="" coords="7066,250,7285,321"/>
+<area shape="rect" id="node6" href="$auxiliary__variables__optimizer_8h.html" title="Elimination of auxiliary variables. " alt="" coords="853,250,1084,321"/>
+<area shape="rect" id="node7" href="$bit__op__to__log__op__optimizer_8h.html" title="Optimizes BitAndExpr to AndOpExpr or BitOrExpr to OrOpExpr if fulfil conditions. " alt="" coords="1109,250,1325,321"/>
+<area shape="rect" id="node8" href="$bit__shift__optimizer_8h.html" title="Change bit shift to division or multiplication. " alt="" coords="1349,250,1511,321"/>
+<area shape="rect" id="node9" href="$break__continue__return__optimizer_8h.html" title="Removes statements following a break, continue, or return statements. " alt="" coords="1535,243,1707,328"/>
+<area shape="rect" id="node10" href="$c__array__arg__optimizer_8h.html" title="Optimizes array arguments of function calls. " alt="" coords="1731,250,1913,321"/>
+<area shape="rect" id="node11" href="$c__cast__optimizer_8h.html" title="Removes useless casts when emitting C code. " alt="" coords="1937,250,2099,321"/>
+<area shape="rect" id="node12" href="$copy__propagation__optimizer_8h.html" title="Copy propagation optimization. " alt="" coords="2123,250,2345,321"/>
+<area shape="rect" id="node13" href="$dead__code__optimizer_8h.html" title="Removes dead code. " alt="" coords="2370,250,2546,321"/>
+<area shape="rect" id="node14" href="$dead__global__assign__optimizer_8h.html" title="Elimination of dead assignments to global variables. " alt="" coords="2570,250,2805,321"/>
+<area shape="rect" id="node15" href="$dead__local__assign__optimizer_8h.html" title="Elimination of dead assignments to local variables. " alt="" coords="2828,250,3053,321"/>
+<area shape="rect" id="node16" href="$deref__address__optimizer_8h.html" title="Optimizes dereferences of addresses. " alt="" coords="3077,250,3276,321"/>
+<area shape="rect" id="node17" href="$empty__stmt__optimizer_8h.html" title="Removes empty statements. " alt="" coords="3300,250,3485,321"/>
+<area shape="rect" id="node18" href="$if__before__loop__optimizer_8h.html" title="Optimizes if statements before loops. " alt="" coords="631,250,829,321"/>
+<area shape="rect" id="node19" href="$if__structure__optimizer_8h.html" title="Optimizes the structure of if statements. " alt="" coords="3509,250,3689,321"/>
+<area shape="rect" id="node20" href="$if__to__switch__optimizer_8h.html" title="Optimizes if statements to switch statements. " alt="" coords="3714,250,3898,321"/>
+<area shape="rect" id="node21" href="$llvm__intrinsics__optimizer_8h.html" title="Optimizes calls to LLVM intrinsic functions. " alt="" coords="3923,250,4124,321"/>
+<area shape="rect" id="node22" href="$loop__last__continue__optimizer_8h.html" title="Optimizes redundant continue statements in loops. " alt="" coords="4148,250,4376,321"/>
+<area shape="rect" id="node23" href="$no__init__var__def__optimizer_8h.html" title="Removes variable&#45;defining statements with no initializer. " alt="" coords="4599,250,4805,321"/>
+<area shape="rect" id="node24" href="$pre__while__true__loop__conv__optimizer_8h.html" title="Optimizes the bodies of while True loops to simplify other optimizations of these loops..." alt="" coords="4830,243,5025,328"/>
+<area shape="rect" id="node25" href="$remove__all__casts__optimizer_8h.html" title="Removes all casts from a module. " alt="" coords="5049,250,5269,321"/>
+<area shape="rect" id="node26" href="$remove__useless__casts__optimizer_8h.html" title="Removes useless casts from a module. " alt="" coords="4401,243,4574,328"/>
+<area shape="rect" id="node27" href="$self__assign__optimizer_8h.html" title="Removes self assignments. " alt="" coords="5495,250,5674,321"/>
+<area shape="rect" id="node28" href="$simple__copy__propagation__optimizer_8h.html" title="A simple version of the copy propagation optimization. " alt="" coords="5699,243,5892,328"/>
+<area shape="rect" id="node29" href="$simplify__arithm__expr__optimizer_8h.html" title="Optimizer that optimizes expressions to a simpler form. " alt="" coords="5917,243,6082,328"/>
+<area shape="rect" id="node30" href="$unreachable__code__optimizer_8h.html" title="Elimination of unreachable code. " alt="" coords="6106,250,6330,321"/>
+<area shape="rect" id="node31" href="$var__def__for__loop__optimizer_8h.html" title="Optimizes VarDefStmts for induction variables of for loops. " alt="" coords="6355,250,6569,321"/>
+<area shape="rect" id="node32" href="$var__def__stmt__optimizer_8h.html" title="Optimizes VarDefStmt to the closest place of it&#39;s variable use. " alt="" coords="6594,250,6786,321"/>
+<area shape="rect" id="node33" href="$void__return__optimizer_8h.html" title="Optimizes redundant void returns. " alt="" coords="6811,250,6991,321"/>
+<area shape="rect" id="node34" href="$while__true__to__for__loop__optimizer_8h.html" title="Optimizes while loops into for loops. " alt="" coords="5,243,180,328"/>
+<area shape="rect" id="node35" href="$while__true__to__ufor__loop__optimizer_8h.html" title="Optimizes while loops into for universal for loops. " alt="" coords="204,243,387,328"/>
+<area shape="rect" id="node36" href="$while__true__to__while__cond__optimizer_8h.html" title="Optimizes &quot;while true&quot; loops into &quot;while cond&quot; loops. " alt="" coords="411,243,606,328"/>
+<area shape="rect" id="node37" href="$func__optimizer_8cpp.html" title="Implementation of FuncOptimizer. " alt="" coords="5293,257,5471,313"/>
+<area shape="rect" id="node4" href="$optimizer__manager_8cpp.html" title="Implementation of OptimizerManager. " alt="" coords="4053,383,4231,439"/>
+<area shape="rect" id="node5" href="$aggressive__deref__optimizer_8cpp.html" title="Implementation of AggressiveDerefOptimizer. " alt="" coords="7070,376,7281,447"/>
+<area shape="rect" id="node39" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="7309,257,7463,313"/>
+<area shape="rect" id="node41" href="$aggressive__global__to__local__optimizer_8cpp.html" title="Implementation of AggressiveGlobalToLocalOptimizer. " alt="" coords="7539,250,7756,321"/>
+<area shape="rect" id="node43" href="$deref__to__array__index__optimizer_8cpp.html" title="Implementation of DerefToArrayIndexOptimizer. " alt="" coords="7831,250,8026,321"/>
+<area shape="rect" id="node45" href="$empty__array__to__string__optimizer_8cpp.html" title="Implementation of EmptyArrayToStringOptimizer. " alt="" coords="8101,250,8284,321"/>
+<area shape="rect" id="node47" href="$global__to__local__optimizer_8cpp.html" title="Implementation of GlobalToLocalOptimizer. " alt="" coords="8359,250,8557,321"/>
+<area shape="rect" id="node49" href="$unused__global__var__optimizer_8cpp.html" title="Implementation of UnusedGlobalVarOptimizer. " alt="" coords="8632,250,8825,321"/>
+</map>

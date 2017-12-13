@@ -1,0 +1,14 @@
+<map id="/home/retdec/retdec/src/debugformat/debugformat.cpp" name="/home/retdec/retdec/src/debugformat/debugformat.cpp">
+<area shape="rect" id="node5" href="$debugformat_2debugformat_8h.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="633,95,839,121"/>
+<area shape="rect" id="node11" href="$dwarf__file_8h.html" title="Declarations of DwarfFile class which provides high&#45;level access to DWARF debugging informations..." alt="" coords="646,169,826,196"/>
+<area shape="rect" id="node16" href="$dwarf__cu_8h.html" title="Declaration of classes representing Compilation Units. " alt="" coords="1585,483,1759,509"/>
+<area shape="rect" id="node22" href="$dwarf__functions_8h.html" title="Declaration of classes representing functions. " alt="" coords="661,251,881,278"/>
+<area shape="rect" id="node23" href="$dwarf__vars_8h.html" title="Declaration of classes representing variables. " alt="" coords="643,333,831,360"/>
+<area shape="rect" id="node24" href="$dwarf__locations_8h.html" title="Declaration of classes representing locations. " alt="" coords="296,483,515,509"/>
+<area shape="rect" id="node25" href="$dwarf__resources_8h.html" title="Declaration of classes representing resources. " alt="" coords="191,557,414,584"/>
+<area shape="rect" id="node26" href="$dwarf__parserdefs_8h.html" title="Definitions globally used in dwarfparser library. " alt="" coords="133,632,363,659"/>
+<area shape="rect" id="node31" href="$dwarf__types_8h.html" title="Declaration of classes representing data types. " alt="" coords="555,408,751,435"/>
+<area shape="rect" id="node32" href="$dwarf__utils_8h.html" title="Declaration of utility functions and classes. " alt="" coords="1059,557,1247,584"/>
+<area shape="rect" id="node33" href="$dwarf__linenumbers_8h.html" title="Declaration of classes representing linenumbers. " alt="" coords="1319,483,1561,509"/>
+<area shape="rect" id="node19" href="$dwarf__base_8h.html" title="Declaration of base classes used in dwarfparser. " alt="" coords="793,557,983,584"/>
+</map>

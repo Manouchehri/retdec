@@ -1,0 +1,36 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/evaluator/arithm_expr_evaluator.h" name="/home/retdec/retdec/include/llvmir2hll/evaluator/arithm_expr_evaluator.h">
+<area shape="rect" id="node2" href="$c__arithm__expr__evaluator_8h.html" title="Evaluates expressions with c language conditions. " alt="" coords="41,124,235,209"/>
+<area shape="rect" id="node4" href="$strict__arithm__expr__evaluator_8h.html" title="Evaluates expressions with strict conditions. " alt="" coords="285,124,471,209"/>
+<area shape="rect" id="node6" href="$dead__code__optimizer_8h.html" title="Removes dead code. " alt="" coords="2783,131,2959,202"/>
+<area shape="rect" id="node8" href="$dead__code__optimizer_8cpp.html" title="Implementation of DeadCodeOptimizer. " alt="" coords="3565,279,3829,335"/>
+<area shape="rect" id="node9" href="$sub__optimizer_8h.html" title="A base class for all simplify arithmetical expression optimizations. " alt="" coords="2087,124,2253,209"/>
+<area shape="rect" id="node13" href="$change__order__of__operands__sub__optimizer_8cpp.html" title="Implementation of ChangeOrderOfOperandsSubOptimizer. " alt="" coords="1498,405,1735,491"/>
+<area shape="rect" id="node15" href="$const__operator__const__sub__optimizer_8cpp.html" title="Implementation of ConstOperatorConstSubOptimizer. " alt="" coords="441,405,643,491"/>
+<area shape="rect" id="node17" href="$equal__operands__sub__optimizer_8cpp.html" title="Implementation of EqualOperandsSubOptimizer. " alt="" coords="707,413,998,483"/>
+<area shape="rect" id="node19" href="$negation__operator__sub__optimizer_8cpp.html" title="Implementation of NegationOperatorSubOptimizer. " alt="" coords="1102,405,1313,491"/>
+<area shape="rect" id="node21" href="$negative__operand__sub__optimizer_8cpp.html" title="Implementation of NegativeOperandSubOptimizer. " alt="" coords="3107,405,3316,491"/>
+<area shape="rect" id="node23" href="$one__sub__optimizer_8cpp.html" title="Implementation of a sub&#45;optimization class that optimize expression with operand which is number one..." alt="" coords="3379,413,3590,483"/>
+<area shape="rect" id="node25" href="$ternary__operator__sub__optimizer_8cpp.html" title="Implementation of TernaryOperatorSubOptimizer. " alt="" coords="3633,405,3835,491"/>
+<area shape="rect" id="node27" href="$three__operands__sub__optimizer_8cpp.html" title="Implementation of ThreeOperandsSubOptimizer. " alt="" coords="3869,413,4157,483"/>
+<area shape="rect" id="node29" href="$zero__sub__optimizer_8cpp.html" title="Implementation of ZeroSubOptimizer. " alt="" coords="2792,413,3007,483"/>
+<area shape="rect" id="node33" href="$arithm__expr__evaluator_8cpp.html" title="Implementation of ArithmExprEvaluator. " alt="" coords="4055,139,4255,195"/>
+<area shape="rect" id="node34" href="$while__true__to__for__loop__optimizer_8cpp.html" title="Implementation of WhileTrueToForLoopOptimizer. " alt="" coords="4279,131,4466,202"/>
+<area shape="rect" id="node35" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="4491,139,4644,195"/>
+<area shape="rect" id="node3" href="$c__arithm__expr__evaluator_8cpp.html" title="Implementation of CArithmExprEvaluator. " alt="" coords="5,272,220,343"/>
+<area shape="rect" id="node5" href="$strict__arithm__expr__evaluator_8cpp.html" title="Implementation of StrictArithmExprEvaluator. " alt="" coords="245,272,485,343"/>
+<area shape="rect" id="node7" href="$optimizer__manager_8cpp.html" title="Implementation of OptimizerManager. " alt="" coords="2486,420,2665,476"/>
+<area shape="rect" id="node10" href="$bool__comparison__optimizer_8h.html" title="Simplification of comparisons with true and false. " alt="" coords="1845,265,2063,350"/>
+<area shape="rect" id="node12" href="$change__order__of__operands__sub__optimizer_8h.html" title="A sub&#45;optimization class that change order of operand. " alt="" coords="1620,257,1821,357"/>
+<area shape="rect" id="node14" href="$const__operator__const__sub__optimizer_8h.html" title="A sub&#45;optimization class that optimize expression like Constant operator constant. " alt="" coords="559,257,754,357"/>
+<area shape="rect" id="node16" href="$equal__operands__sub__optimizer_8h.html" title="A sub&#45;optimization class that optimize expression with equal operands. " alt="" coords="931,265,1169,350"/>
+<area shape="rect" id="node18" href="$negation__operator__sub__optimizer_8h.html" title="A sub&#45;optimization class that optimizes negation operators outside of expressions. " alt="" coords="1193,257,1368,357"/>
+<area shape="rect" id="node20" href="$negative__operand__sub__optimizer_8h.html" title="A sub&#45;optimization class that optimize expression with some negative operand. " alt="" coords="2466,265,2719,350"/>
+<area shape="rect" id="node22" href="$one__sub__optimizer_8h.html" title="A sub&#45;optimization class that optimize expression with number one operand. " alt="" coords="2794,265,2959,350"/>
+<area shape="rect" id="node24" href="$ternary__operator__sub__optimizer_8h.html" title="A sub&#45;optimization class that optimize ternary operator. " alt="" coords="3034,265,3279,350"/>
+<area shape="rect" id="node26" href="$three__operands__sub__optimizer_8h.html" title="A sub&#45;optimization class that optimize expression like (operand operator operand) operator operand or..." alt="" coords="3303,265,3541,350"/>
+<area shape="rect" id="node28" href="$zero__sub__optimizer_8h.html" title="A sub&#45;optimization class that optimize expression with zero operand. " alt="" coords="2277,265,2442,350"/>
+<area shape="rect" id="node30" href="$simplify__arithm__expr__optimizer_8h.html" title="Optimizer that optimizes expressions to a simpler form. " alt="" coords="2087,265,2253,350"/>
+<area shape="rect" id="node32" href="$sub__optimizer_8cpp.html" title="Implementation of SubOptimizer. " alt="" coords="1393,272,1595,343"/>
+<area shape="rect" id="node11" href="$bool__comparison__optimizer_8cpp.html" title="Implementation of BoolComparisonSubOptimizer. " alt="" coords="1781,413,2049,483"/>
+<area shape="rect" id="node31" href="$simplify__arithm__expr__optimizer_8cpp.html" title="Implementation of SimplifyArithmExprOptimizer. " alt="" coords="2074,413,2277,483"/>
+</map>

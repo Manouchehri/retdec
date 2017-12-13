@@ -1,0 +1,28 @@
+<map id="debugformat::DebugFormat" name="debugformat::DebugFormat">
+<area shape="rect" id="node2" title="STL class. " alt="" coords="1392,31,1527,57"/>
+<area shape="rect" id="node6" href="$classdwarfparser_1_1DwarfFile.html" title="Main class containing all DWARF information. " alt="" coords="1375,620,1544,647"/>
+<area shape="rect" id="node8" href="$classdwarfparser_1_1DwarfBaseContainer.html" title="dwarfparser::DwarfBaseContainer\l\&lt; DwarfLine \&gt;" alt="" coords="3321,399,3564,441"/>
+<area shape="rect" id="node14" href="$classdwarfparser_1_1DwarfBaseContainer.html" title="dwarfparser::DwarfBaseContainer\l\&lt; dwarfparser::DwarfBaseElement \&gt;" alt="" coords="1685,1221,1948,1262"/>
+<area shape="rect" id="node21" href="$classdwarfparser_1_1DwarfBaseContainer.html" title="dwarfparser::DwarfBaseContainer\l\&lt; DwarfFunction \&gt;" alt="" coords="5119,1314,5361,1355"/>
+<area shape="rect" id="node32" href="$classdwarfparser_1_1DwarfBaseContainer.html" title="dwarfparser::DwarfBaseContainer\l\&lt; DwarfVar \&gt;" alt="" coords="3697,1395,3940,1437"/>
+<area shape="rect" id="node37" href="$classdwarfparser_1_1DwarfBaseContainer.html" title="dwarfparser::DwarfBaseContainer\l\&lt; DwarfType \&gt;" alt="" coords="3321,997,3564,1038"/>
+<area shape="rect" id="node45" href="$classdwarfparser_1_1DwarfBaseContainer.html" title="dwarfparser::DwarfBaseContainer\l\&lt; DwarfCU \&gt;" alt="" coords="3321,706,3564,747"/>
+<area shape="rect" id="node7" href="$classdwarfparser_1_1DwarfLineContainer.html" title="Line number container. " alt="" coords="3700,305,3937,332"/>
+<area shape="rect" id="node9" href="$classdwarfparser_1_1DwarfBaseElement.html" title="Base element class for all objects used by dwarfparser. " alt="" coords="2096,1183,2329,1209"/>
+<area shape="rect" id="node10" href="$classdwarfparser_1_1DwarfCU.html" title="Compilation unit object. " alt="" coords="2513,595,2679,621"/>
+<area shape="rect" id="node18" href="$classdwarfparser_1_1DwarfLine.html" title="Line number object. " alt="" coords="2509,451,2683,477"/>
+<area shape="rect" id="node24" href="$classdwarfparser_1_1DwarfVar.html" title="Variable object. " alt="" coords="2888,1265,3056,1292"/>
+<area shape="rect" id="node25" href="$classdwarfparser_1_1DwarfLocationDesc.html" title="Class represents location description used by DWARF. " alt="" coords="4777,1209,5012,1236"/>
+<area shape="rect" id="node30" href="$classdwarfparser_1_1DwarfType.html" title="Base data type, others are derived from it. " alt="" coords="2507,1044,2685,1071"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="193,352,280,379"/>
+<area shape="rect" id="node23" href="$classdwarfparser_1_1DwarfFunction.html" title="Function object. " alt="" coords="4418,1335,4619,1361"/>
+<area shape="rect" id="node43" href="$structdwarfparser_1_1DwarfResources_1_1RealReg.html" title="Representation of real architecture register. " alt="" coords="369,457,583,498"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="5,345,144,386"/>
+<area shape="rect" id="node20" href="$classdwarfparser_1_1DwarfFunctionContainer.html" title="Function container. " alt="" coords="5411,437,5612,478"/>
+<area shape="rect" id="node27" href="$classdwarfparser_1_1DwarfLocationDesc_1_1Expression.html" title="DWARF expression. " alt="" coords="4059,798,4262,839"/>
+<area shape="rect" id="node29" href="$structdwarfparser_1_1DwarfLocationDesc_1_1Atom.html" title="Basic unit of location description. " alt="" coords="3341,641,3544,682"/>
+<area shape="rect" id="node36" href="$classdwarfparser_1_1DwarfTypeContainer.html" title="Data type container. " alt="" coords="3699,968,3939,995"/>
+<area shape="rect" id="node31" href="$classdwarfparser_1_1DwarfVarContainer.html" title="Variable container. " alt="" coords="4045,1403,4276,1429"/>
+<area shape="rect" id="node41" href="$classdwarfparser_1_1DwarfResources.html" title="Provide access to local resources. Must be initialized before use. To initialize use initAccess() and..." alt="" coords="1041,595,1255,621"/>
+<area shape="rect" id="node44" href="$classdwarfparser_1_1DwarfCUContainer.html" title="Compilation unit container. " alt="" coords="3704,772,3933,799"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvmir2hll::NonRecursiveCFGBuilder" name="llvmir2hll::NonRecursiveCFGBuilder">
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1CFGBuilder.html" title="A base class for creators of control&#45;flow graphs (CFGs) from functions. " alt="" coords="314,5,478,32"/>
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1VisitorAdapter.html" title="A visitor whose visit methods do nothing by default. " alt="" coords="303,56,489,83"/>
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1Visitor.html" title="A base class of all visitors. " alt="" coords="29,56,163,83"/>
+<area shape="rect" id="node7" href="$structllvmir2hll_1_1NonRecursiveCFGBuilder_1_1Job.html" title="Structure for jobs that have to be performed. " alt="" coords="5,107,187,149"/>
+<area shape="rect" id="node10" href="$structllvmir2hll_1_1NonRecursiveCFGBuilder_1_1EdgeToAdd.html" title="Structure for edges that will be added to CFG. " alt="" coords="5,230,187,271"/>
+</map>

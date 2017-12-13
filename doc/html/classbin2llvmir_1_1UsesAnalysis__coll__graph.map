@@ -1,0 +1,4 @@
+<map id="bin2llvmir::UsesAnalysis" name="bin2llvmir::UsesAnalysis">
+<area shape="rect" id="node3" href="$classbin2llvmir_1_1UsesAnalysis_1_1BBUses.html" title="bin2llvmir::UsesAnalysis\l::BBUses" alt="" coords="15,213,198,255"/>
+<area shape="rect" id="node5" href="$structbin2llvmir_1_1UsesAnalysis_1_1UseInfo.html" title="Structure to save info about use. " alt="" coords="15,5,198,47"/>
+</map>

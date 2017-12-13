@@ -1,0 +1,24 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/semantics/semantics.h" name="/home/retdec/retdec/include/llvmir2hll/semantics/semantics.h">
+<area shape="rect" id="node2" href="$compound__semantics_8h.html" title="A class providing compound semantics from several different semantics. " alt="" coords="361,109,541,180"/>
+<area shape="rect" id="node7" href="$default__semantics_8h.html" title="A default semantics which doesn&#39;t know anything. " alt="" coords="836,109,1000,180"/>
+<area shape="rect" id="node15" href="$semantics__factory_8h.html" title="Factory that creates instances of classes derived from Semantics. " alt="" coords="648,228,812,299"/>
+<area shape="rect" id="node16" href="$c__hll__writer_8cpp.html" title="Implementation of CHLLWriter. " alt="" coords="1024,117,1223,173"/>
+<area shape="rect" id="node17" href="$module_8cpp.html" title="Implementation of Module. " alt="" coords="1247,124,1451,165"/>
+<area shape="rect" id="node18" href="$unreachable__code__optimizer_8cpp.html" title="Implementation of UnreachableCodeOptimizer. " alt="" coords="1475,109,1654,180"/>
+<area shape="rect" id="node19" href="$semantics_8cpp.html" title="Implementation of Semantics. " alt="" coords="1679,117,1861,173"/>
+<area shape="rect" id="node20" href="$const__symbol__converter_8cpp.html" title="Implementation of ConstSymbolConverter. " alt="" coords="1886,117,2097,173"/>
+<area shape="rect" id="node21" href="$headers__for__declared__funcs_8cpp.html" title="Implementation of HeadersForDeclaredFuncs. " alt="" coords="2121,117,2355,173"/>
+<area shape="rect" id="node22" href="$library__funcs__remover_8cpp.html" title="Implementation of LibraryFuncsRemover. " alt="" coords="2379,117,2577,173"/>
+<area shape="rect" id="node23" href="$readable__var__renamer_8cpp.html" title="Implementation of ReadableVarRenamer. " alt="" coords="2601,109,2800,180"/>
+<area shape="rect" id="node3" href="$compound__semantics__builder_8h.html" title="A class providing an easy construction of compound semantics from several different semantics..." alt="" coords="229,228,460,299"/>
+<area shape="rect" id="node4" href="$compound__semantics__builder_8cpp.html" title="Implementation of CompoundSemanticsBuilder. " alt="" coords="5,347,244,417"/>
+<area shape="rect" id="node6" href="$compound__semantics_8cpp.html" title="Implementation of CompoundSemantics. " alt="" coords="446,354,713,410"/>
+<area shape="rect" id="node5" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="268,354,421,410"/>
+<area shape="rect" id="node8" href="$gcc__general__semantics_8h.html" title="A general semantics for the GCC compiler. " alt="" coords="1452,228,1643,299"/>
+<area shape="rect" id="node10" href="$libc__semantics_8h.html" title="Semantics for the standard C library. " alt="" coords="836,228,1000,299"/>
+<area shape="rect" id="node12" href="$win__api__semantics_8h.html" title="Semantics for Windows API. " alt="" coords="1024,228,1188,299"/>
+<area shape="rect" id="node14" href="$default__semantics_8cpp.html" title="Implementation of DefaultSemantics. " alt="" coords="1255,354,1499,410"/>
+<area shape="rect" id="node9" href="$gcc__general__semantics_8cpp.html" title="Implementation of GCCGeneralSemantics. " alt="" coords="1523,354,1799,410"/>
+<area shape="rect" id="node11" href="$libc__semantics_8cpp.html" title="Implementation of LibcSemantics. " alt="" coords="737,354,958,410"/>
+<area shape="rect" id="node13" href="$win__api__semantics_8cpp.html" title="Implementation of WinAPISemantics. " alt="" coords="982,354,1230,410"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="bin2llvmir::ClassHierarchyAnalysis" name="bin2llvmir::ClassHierarchyAnalysis">
+<area shape="rect" id="node3" href="$classbin2llvmir_1_1ClassHierarchy.html" title="bin2llvmir::ClassHierarchy" alt="" coords="1964,210,2159,237"/>
+<area shape="rect" id="node5" href="$classbin2llvmir_1_1Class.html" title="bin2llvmir::Class" alt="" coords="1443,126,1573,153"/>
+<area shape="rect" id="node7" href="$classbin2llvmir_1_1ClassTypeInfo.html" title="bin2llvmir::ClassTypeInfo" alt="" coords="1065,251,1251,278"/>
+<area shape="rect" id="node8" href="$classbin2llvmir_1_1TypeInfo.html" title="bin2llvmir::TypeInfo" alt="" coords="643,239,793,266"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="329,195,416,222"/>
+<area shape="rect" id="node16" href="$classbin2llvmir_1_1RTTITypeDescriptor.html" title="bin2llvmir::RTTITypeDescriptor" alt="" coords="817,161,1039,187"/>
+<area shape="rect" id="node17" href="$classbin2llvmir_1_1Config.html" title="bin2llvmir::Config" alt="" coords="1279,297,1417,323"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="20,188,159,229"/>
+<area shape="rect" id="node12" href="$classbin2llvmir_1_1Vtable.html" title="bin2llvmir::Vtable" alt="" coords="649,13,787,39"/>
+<area shape="rect" id="node14" href="$classbin2llvmir_1_1VtableItem.html" title="bin2llvmir::VtableItem" alt="" coords="5,13,173,39"/>
+</map>

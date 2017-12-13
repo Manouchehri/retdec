@@ -1,0 +1,5 @@
+<map id="dwarfparser::DwarfReferenceType" name="dwarfparser::DwarfReferenceType">
+<area shape="rect" id="node2" href="$classdwarfparser_1_1DwarfModifierType.html" title="Base class for all data type modifier classes. " alt="" coords="12,155,241,181"/>
+<area shape="rect" id="node3" href="$classdwarfparser_1_1DwarfType.html" title="Base data type, others are derived from it. " alt="" coords="38,80,215,107"/>
+<area shape="rect" id="node4" href="$classdwarfparser_1_1DwarfBaseElement.html" title="Base element class for all objects used by dwarfparser. " alt="" coords="10,5,243,32"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/auxiliary_variables_optimizer.cpp" name="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/auxiliary_variables_optimizer.cpp">
+<area shape="rect" id="node2" href="$value__analysis_8h.html" title="An analysis for obtaining information about a value. " alt="" coords="373,332,516,373"/>
+<area shape="rect" id="node9" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="919,525,1056,567"/>
+<area shape="rect" id="node19" href="$auxiliary__variables__cfg__traversal_8h.html" title="A CFG traversal for computing auxiliary variables. " alt="" coords="1059,228,1252,284"/>
+<area shape="rect" id="node22" href="$cg__builder_8h.html" title="A creator of call graphs (CGs) from modules. " alt="" coords="865,332,1016,373"/>
+<area shape="rect" id="node24" href="$assign__stmt_8h.html" title="An assignment statement. " alt="" coords="2147,235,2289,277"/>
+<area shape="rect" id="node25" href="$statement_8h.html" title="A representation of a program statement. " alt="" coords="2128,339,2308,366"/>
+<area shape="rect" id="node34" href="$function_8h.html" title="A representation of a function. " alt="" coords="2612,339,2779,366"/>
+<area shape="rect" id="node35" href="$var__def__stmt_8h.html" title="A variable definition statement. " alt="" coords="2313,235,2464,277"/>
+<area shape="rect" id="node36" href="$variable_8h.html" title="A representation of a variable. " alt="" coords="3575,243,3741,269"/>
+<area shape="rect" id="node38" href="$call__info__obtainer_8h.html" title="A base class of all obtainers of information about functions and function calls. " alt="" coords="1876,332,2029,373"/>
+<area shape="rect" id="node40" href="$auxiliary__variables__optimizer_8h.html" title="Elimination of auxiliary variables. " alt="" coords="1696,124,1865,180"/>
+<area shape="rect" id="node43" href="$debug_8h.html" title="Debugging support. " alt="" coords="3477,131,3615,173"/>
+<area shape="rect" id="node5" href="$caching_8h.html" title="A mixin for enabling caching of computed results. " alt="" coords="269,429,407,470"/>
+<area shape="rect" id="node7" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1700,615,1837,656"/>
+<area shape="rect" id="node15" href="$valid__state_8h.html" title="A mixin providing support for keeping the validity of an object. " alt="" coords="5,429,143,470"/>
+<area shape="rect" id="node16" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="685,421,836,477"/>
+<area shape="rect" id="node17" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="604,525,741,567"/>
+<area shape="rect" id="node20" href="$cfg_8h.html" title="A representation of a control&#45;flow graph (CFG). " alt="" coords="860,429,1016,470"/>
+<area shape="rect" id="node21" href="$cfg__traversal_8h.html" title="A base class of all CFG traversals. " alt="" coords="1193,332,1349,373"/>
+<area shape="rect" id="node23" href="$cg_8h.html" title="A representation of a call graph (CG). " alt="" coords="1345,436,1528,463"/>
+<area shape="rect" id="node26" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="2785,436,2934,463"/>
+<area shape="rect" id="node29" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="3173,525,3311,567"/>
+<area shape="rect" id="node30" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="2548,525,2685,567"/>
+<area shape="rect" id="node31" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="2871,525,3008,567"/>
+<area shape="rect" id="node33" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="2709,525,2847,567"/>
+<area shape="rect" id="node37" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="3511,339,3695,366"/>
+<area shape="rect" id="node41" href="$func__optimizer_8h.html" title="A base class of all function optimizers. " alt="" coords="1592,235,1743,277"/>
+<area shape="rect" id="node42" href="$optimizer_8h.html" title="A base class of all optimizers. " alt="" coords="1592,332,1743,373"/>
+</map>

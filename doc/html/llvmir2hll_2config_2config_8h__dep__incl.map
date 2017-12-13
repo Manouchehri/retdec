@@ -1,0 +1,7 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/config/config.h" name="/home/retdec/retdec/include/llvmir2hll/config/config.h">
+<area shape="rect" id="node2" href="$json__config_8h.html" title="Config in the JSON format. " alt="" coords="111,109,265,180"/>
+<area shape="rect" id="node5" href="$llvmir2hll_2config_2config_8cpp.html" title="Implementation of the base class for all configs. " alt="" coords="289,117,444,173"/>
+<area shape="rect" id="node6" href="$module_8cpp.html" title="Implementation of Module. " alt="" coords="469,124,673,165"/>
+<area shape="rect" id="node3" href="$json__config_8cpp.html" title="Implementation of the base class for all configs. " alt="" coords="5,228,181,284"/>
+<area shape="rect" id="node4" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="206,228,359,284"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/semantics/semantics/impl_support/get_symbolic_names_for_param.h" name="/home/retdec/retdec/include/llvmir2hll/semantics/semantics/impl_support/get_symbolic_names_for_param.h">
+<area shape="rect" id="node2" href="$gcc__general__semantics_2get__symbolic__names__for__param_8cpp.html" title="Implementation of semantics::gcc_general::getSymbolicNamesForParam() for GCCGeneralSemantics. " alt="" coords="5,139,271,209"/>
+<area shape="rect" id="node3" href="$impl__support_2get__symbolic__names__for__param_8cpp.html" title="Implementation of functions from getSymbolicNamesForParam.h. " alt="" coords="295,139,560,209"/>
+<area shape="rect" id="node4" href="$libc__semantics_2get__symbolic__names__for__param_8cpp.html" title="Implementation of semantics::libc::getSymbolicNamesForParam() for LibcSemantics. " alt="" coords="584,139,849,209"/>
+<area shape="rect" id="node5" href="$win__api__semantics_2get__symbolic__names__for__param_8cpp.html" title="Implementation of semantics::win_api::getSymbolicNamesForParam() for WinAPISemantics. " alt="" coords="873,139,1139,209"/>
+</map>

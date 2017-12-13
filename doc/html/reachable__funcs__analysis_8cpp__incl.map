@@ -1,0 +1,7 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/analyses/reachable_funcs_analysis.cpp" name="/home/retdec/retdec/src/bin2llvmir/analyses/reachable_funcs_analysis.cpp">
+<area shape="rect" id="node4" href="$indirectly__called__funcs__analysis_8h.html" title="Indirect calls analysis. " alt="" coords="465,109,640,165"/>
+<area shape="rect" id="node16" href="$reachable__funcs__analysis_8h.html" title="Reachable functions analysis. " alt="" coords="665,117,870,158"/>
+<area shape="rect" id="node18" href="$instruction_8h.html" title="LLVM instruction utilities. " alt="" coords="1122,124,1327,151"/>
+<area shape="rect" id="node8" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="517,221,681,247"/>
+<area shape="rect" id="node24" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1205,213,1359,255"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvmir2hll::CallInfoObtainer" name="llvmir2hll::CallInfoObtainer">
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1OptimCallInfoObtainer.html" title="Obtainer of information about functions and function calls that assumes it has access to complete inf..." alt="" coords="7,259,190,300"/>
+<area shape="rect" id="node6" href="$classllvmir2hll_1_1PessimCallInfoObtainer.html" title="Obtainer of information about functions and function calls that assumes nothing. " alt="" coords="215,259,404,300"/>
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1SharableFromThis.html" title="llvmir2hll::SharableFrom\lThis\&lt; CallInfoObtainer \&gt;" alt="" coords="26,95,211,136"/>
+</map>

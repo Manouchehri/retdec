@@ -1,0 +1,9 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/ir/string_type.h" name="/home/retdec/retdec/include/llvmir2hll/ir/string_type.h">
+<area shape="rect" id="node4" href="$llvmir2hll_2ir_2type_8h.html" title="A base class of all types. " alt="" coords="425,109,567,136"/>
+<area shape="rect" id="node11" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="877,348,1014,389"/>
+<area shape="rect" id="node5" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="687,184,836,211"/>
+<area shape="rect" id="node9" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="453,259,590,300"/>
+<area shape="rect" id="node10" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="1218,259,1355,300"/>
+<area shape="rect" id="node14" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="1379,259,1517,300"/>
+<area shape="rect" id="node17" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="755,259,893,300"/>
+</map>

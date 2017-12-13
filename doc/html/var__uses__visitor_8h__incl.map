@@ -1,0 +1,9 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/analysis/var_uses_visitor.h" name="/home/retdec/retdec/include/llvmir2hll/analysis/var_uses_visitor.h">
+<area shape="rect" id="node3" href="$value__analysis_8h.html" title="An analysis for obtaining information about a value. " alt="" coords="325,109,467,151"/>
+<area shape="rect" id="node7" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="747,392,885,433"/>
+<area shape="rect" id="node9" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="317,303,454,344"/>
+<area shape="rect" id="node16" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="543,199,694,255"/>
+<area shape="rect" id="node5" href="$caching_8h.html" title="A mixin for enabling caching of computed results. " alt="" coords="131,303,269,344"/>
+<area shape="rect" id="node15" href="$valid__state_8h.html" title="A mixin providing support for keeping the validity of an object. " alt="" coords="229,206,366,247"/>
+<area shape="rect" id="node17" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="566,303,703,344"/>
+</map>

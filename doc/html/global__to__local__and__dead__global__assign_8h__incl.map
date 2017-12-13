@@ -1,0 +1,9 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/optimizations/globals/global_to_local_and_dead_global_assign.h" name="/home/retdec/retdec/include/bin2llvmir/optimizations/globals/global_to_local_and_dead_global_assign.h">
+<area shape="rect" id="node5" href="$store__load__analysis_8h.html" title="Analysis that find out relations between load and store instructions. " alt="" coords="644,139,810,180"/>
+<area shape="rect" id="node9" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="709,436,873,463"/>
+<area shape="rect" id="node22" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1136,139,1289,180"/>
+<area shape="rect" id="node6" href="$bb__traversal__analysis_8h.html" title="Post&#45;order traversal analysis for basic blocks. " alt="" coords="197,228,366,284"/>
+<area shape="rect" id="node18" href="$func__traversal__analysis_8h.html" title="Post&#45;order traversal analysis for functions. " alt="" coords="414,228,595,284"/>
+<area shape="rect" id="node20" href="$uses__analysis_8h.html" title="Uses analysis. " alt="" coords="716,235,866,277"/>
+<area shape="rect" id="node8" href="$traversal__analysis_8h.html" title="Base class for traversal analyses. " alt="" coords="206,332,357,388"/>
+</map>

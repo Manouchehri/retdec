@@ -1,0 +1,8 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/semantics/semantics/win_api_semantics/get_name_of_var_storing_result.cpp" name="/home/retdec/retdec/src/llvmir2hll/semantics/semantics/win_api_semantics/get_name_of_var_storing_result.cpp">
+<area shape="rect" id="node2" href="$impl__support_2get__name__of__var__storing__result_8h.html" title="Support for implementing the getNameOfVarStoringResult semantics. " alt="" coords="519,124,710,195"/>
+<area shape="rect" id="node19" href="$win__api__semantics_2get__name__of__var__storing__result_8h.html" title="Provides function getNameOfVarStoringResult() for WinAPISemantics in the semantics::win_api namespace..." alt="" coords="734,131,981,187"/>
+<area shape="rect" id="node3" href="$maybe_8h.html" title="A simple implementation of the Maybe monad from Haskell. " alt="" coords="842,243,979,284"/>
+<area shape="rect" id="node9" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="447,243,585,284"/>
+<area shape="rect" id="node6" href="$debug_8h.html" title="Debugging support. " alt="" coords="994,332,1131,373"/>
+<area shape="rect" id="node17" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="447,332,585,373"/>
+</map>

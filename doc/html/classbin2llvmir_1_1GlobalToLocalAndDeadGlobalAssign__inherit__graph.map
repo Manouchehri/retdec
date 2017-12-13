@@ -1,0 +1,4 @@
+<map id="bin2llvmir::GlobalToLocalAndDeadGlobalAssign" name="bin2llvmir::GlobalToLocalAndDeadGlobalAssign">
+<area shape="rect" id="node3" href="$classbin2llvmir_1_1DeadGlobalAssign.html" title="Optimization that removes dead global assigns. " alt="" coords="5,169,220,196"/>
+<area shape="rect" id="node4" href="$classbin2llvmir_1_1GlobalToLocal.html" title="Optimization that converts global variables to local variables. Also replaces uses of global variable..." alt="" coords="245,169,431,196"/>
+</map>

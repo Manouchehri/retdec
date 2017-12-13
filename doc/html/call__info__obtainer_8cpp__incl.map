@@ -1,0 +1,27 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/obtainer/call_info_obtainer.cpp" name="/home/retdec/retdec/src/llvmir2hll/obtainer/call_info_obtainer.cpp">
+<area shape="rect" id="node3" href="$value__analysis_8h.html" title="An analysis for obtaining information about a value. " alt="" coords="401,206,543,247"/>
+<area shape="rect" id="node19" href="$non__recursive__cfg__builder_8h.html" title="A non&#45;recursive creator of control&#45;flow graphs (CFGs) from functions. " alt="" coords="949,199,1149,255"/>
+<area shape="rect" id="node24" href="$call__expr_8h.html" title="A call expression. " alt="" coords="1602,109,1726,151"/>
+<area shape="rect" id="node34" href="$function_8h.html" title="A representation of a function. " alt="" coords="3006,213,3173,240"/>
+<area shape="rect" id="node35" href="$module_8h.html" title="A representation of a complete module. " alt="" coords="1960,317,2123,344"/>
+<area shape="rect" id="node38" href="$variable_8h.html" title="A representation of a variable. " alt="" coords="2314,117,2481,143"/>
+<area shape="rect" id="node39" href="$call__info__obtainer_8h.html" title="A base class of all obtainers of information about functions and function calls. " alt="" coords="2063,206,2217,247"/>
+<area shape="rect" id="node42" href="$debug_8h.html" title="Debugging support. " alt="" coords="3494,109,3631,151"/>
+<area shape="rect" id="node44" href="$diagnostics_8h.html" title="Functions concerning emission of diagnostics messages, like error or warning messages. " alt="" coords="3443,317,3637,344"/>
+<area shape="rect" id="node5" href="$caching_8h.html" title="A mixin for enabling caching of computed results. " alt="" coords="171,407,309,448"/>
+<area shape="rect" id="node7" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1425,496,1562,537"/>
+<area shape="rect" id="node9" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="1054,407,1191,448"/>
+<area shape="rect" id="node15" href="$valid__state_8h.html" title="A mixin providing support for keeping the validity of an object. " alt="" coords="145,310,282,351"/>
+<area shape="rect" id="node16" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="690,303,841,359"/>
+<area shape="rect" id="node17" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="841,407,978,448"/>
+<area shape="rect" id="node21" href="$cfg_8h.html" title="A representation of a control&#45;flow graph (CFG). " alt="" coords="510,310,666,351"/>
+<area shape="rect" id="node22" href="$cfg__builder_8h.html" title="A base class for creators of control&#45;flow graphs (CFGs) from functions. " alt="" coords="1470,310,1626,351"/>
+<area shape="rect" id="node23" href="$visitor__adapter_8h.html" title="A visitor whose visit methods do nothing. " alt="" coords="1105,310,1242,351"/>
+<area shape="rect" id="node25" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="2241,213,2425,240"/>
+<area shape="rect" id="node26" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="2771,317,2920,344"/>
+<area shape="rect" id="node29" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="2777,407,2914,448"/>
+<area shape="rect" id="node30" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="2462,407,2599,448"/>
+<area shape="rect" id="node31" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="2301,407,2438,448"/>
+<area shape="rect" id="node33" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="2938,407,3075,448"/>
+<area shape="rect" id="node41" href="$cg_8h.html" title="A representation of a call graph (CG). " alt="" coords="1753,317,1935,344"/>
+</map>

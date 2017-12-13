@@ -1,0 +1,15 @@
+<map id="bin2llvmir::Idioms" name="bin2llvmir::Idioms">
+<area shape="rect" id="node3" href="$classbin2llvmir_1_1IdiomsAnalysis.html" title="bin2llvmir::IdiomsAnalysis" alt="" coords="1176,269,1371,296"/>
+<area shape="rect" id="node4" href="$classbin2llvmir_1_1IdiomsBorland.html" title="Borland C/C++ instruction idioms. " alt="" coords="918,117,1109,144"/>
+<area shape="rect" id="node5" href="$classbin2llvmir_1_1IdiomsAbstract.html" title="Instruction idiom analysis abstract class. " alt="" coords="656,269,851,296"/>
+<area shape="rect" id="node9" href="$classbin2llvmir_1_1IdiomsCommon.html" title="Common compiler instruction idioms. " alt="" coords="914,168,1113,195"/>
+<area shape="rect" id="node10" href="$classbin2llvmir_1_1IdiomsGCC.html" title="GNU/GCC instruction idioms. " alt="" coords="929,219,1097,245"/>
+<area shape="rect" id="node11" href="$classbin2llvmir_1_1IdiomsIntel.html" title="Intel compiler instruction idioms. " alt="" coords="929,269,1098,296"/>
+<area shape="rect" id="node12" href="$classbin2llvmir_1_1IdiomsLLVM.html" title="clang/LLVM instruction idioms " alt="" coords="927,320,1100,347"/>
+<area shape="rect" id="node13" href="$classbin2llvmir_1_1IdiomsMagicDivMod.html" title="Division and modulo using magic number. " alt="" coords="900,371,1127,397"/>
+<area shape="rect" id="node14" href="$classbin2llvmir_1_1IdiomsOWatcom.html" title="Open Watcom instruction idioms. " alt="" coords="912,421,1115,448"/>
+<area shape="rect" id="node15" href="$classbin2llvmir_1_1IdiomsVStudio.html" title="Visual Studio instruction idioms. " alt="" coords="918,472,1109,499"/>
+<area shape="rect" id="node6" href="$classbin2llvmir_1_1Config.html" title="bin2llvmir::Config" alt="" coords="407,109,544,136"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="193,109,280,136"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="5,102,144,143"/>
+</map>

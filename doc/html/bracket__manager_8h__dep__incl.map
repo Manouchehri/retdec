@@ -1,0 +1,12 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/hll/bracket_manager.h" name="/home/retdec/retdec/include/llvmir2hll/hll/bracket_manager.h">
+<area shape="rect" id="node2" href="$c__bracket__manager_8h.html" title="A brackets manager of redundant brackets for the C language. " alt="" coords="260,109,427,180"/>
+<area shape="rect" id="node5" href="$no__bracket__manager_8h.html" title="A brackets manager that turns off eleminating redundant brackets. " alt="" coords="468,109,643,180"/>
+<area shape="rect" id="node8" href="$py__bracket__manager_8h.html" title="A brackets manager of redundant brackets for the Python&#39; language. " alt="" coords="673,109,848,180"/>
+<area shape="rect" id="node10" href="$bracket__manager_8cpp.html" title="Implementation of BracketManager. " alt="" coords="872,117,1039,173"/>
+<area shape="rect" id="node11" href="$hll__writer_8cpp.html" title="Implementation of HLLWriter. " alt="" coords="1063,117,1216,173"/>
+<area shape="rect" id="node3" href="$c__bracket__manager_8cpp.html" title="A subclass from BracketManager that contains precedence table and methods which decide of elimination..." alt="" coords="5,228,220,299"/>
+<area shape="rect" id="node4" href="$c__hll__writer_8cpp.html" title="Implementation of CHLLWriter. " alt="" coords="244,235,443,291"/>
+<area shape="rect" id="node6" href="$no__bracket__manager_8cpp.html" title="A brackets manager that turns off eleminating redundant brackets. " alt="" coords="467,228,636,299"/>
+<area shape="rect" id="node7" href="$py__hll__writer_8cpp.html" title="Implementation of PyHLLWriter. " alt="" coords="661,235,869,291"/>
+<area shape="rect" id="node9" href="$py__bracket__manager_8cpp.html" title="A subclass from BracketManager that contains precedence table and methods which decide of elimination..." alt="" coords="893,228,1063,299"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/analyses/reaching_definitions.h" name="/home/retdec/retdec/include/bin2llvmir/analyses/reaching_definitions.h">
+<area shape="rect" id="node2" href="$symbolic__tree_8h.html" title="Construction of symbolic tree from the given node. " alt="" coords="1169,117,1361,173"/>
+<area shape="rect" id="node3" href="$control__flow_8h.html" title="Reconstruct control flow. " alt="" coords="615,228,779,299"/>
+<area shape="rect" id="node12" href="$stack_8cpp.html" title="Reconstruct stack. " alt="" coords="1555,347,1763,403"/>
+<area shape="rect" id="node16" href="$constants_8h.html" title="Composite type reconstruction analysis. " alt="" coords="1698,109,1881,180"/>
+<area shape="rect" id="node17" href="$local__vars_8h.html" title="Register localization. " alt="" coords="1963,109,2117,180"/>
+<area shape="rect" id="node19" href="$param__return_8h.html" title="Detect functions&#39; parameters and returns. " alt="" coords="2141,109,2313,180"/>
+<area shape="rect" id="node21" href="$reaching__definitions_8cpp.html" title="Reaching definitions analysis builds UD and DU chains. " alt="" coords="2337,117,2521,173"/>
+<area shape="rect" id="node22" href="$idioms__libgcc_8cpp.html" title="Idioms produced by libgcc. " alt="" coords="2545,117,2780,173"/>
+<area shape="rect" id="node23" href="$simple__types_8cpp.html" title="Simple type reconstruction analysis. " alt="" coords="2805,117,3035,173"/>
+<area shape="rect" id="node24" href="$instruction_8cpp.html" title="LLVM instruction utilities. " alt="" coords="3059,117,3213,173"/>
+<area shape="rect" id="node9" href="$register_8h.html" title="Solve register pseudo functions. " alt="" coords="803,228,973,299"/>
+<area shape="rect" id="node11" href="$stack_8h.html" title="Reconstruct stack. " alt="" coords="997,228,1152,299"/>
+<area shape="rect" id="node13" href="$symbolic__tree_8cpp.html" title="Construction of symbolic tree from the given node. " alt="" coords="1177,235,1354,291"/>
+<area shape="rect" id="node14" href="$cond__branch__opt_8cpp.html" title="Conditional branch optimization. " alt="" coords="1379,235,1656,291"/>
+<area shape="rect" id="node15" href="$constants_8cpp.html" title="Composite type reconstruction analysis. " alt="" coords="1680,235,1888,291"/>
+<area shape="rect" id="node4" href="$control__flow_2arm_8cpp.html" title="Reconstruct control flow – ARM specific module. " alt="" coords="5,347,213,403"/>
+<area shape="rect" id="node5" href="$control__flow_8cpp.html" title="Reconstruct control flow. " alt="" coords="238,347,453,403"/>
+<area shape="rect" id="node6" href="$control__flow_2mips_8cpp.html" title="Reconstruct control flow – MIPS specific module. " alt="" coords="477,347,685,403"/>
+<area shape="rect" id="node7" href="$powerpc_8cpp.html" title="Reconstruct control flow – PowerPC specific module. " alt="" coords="709,347,917,403"/>
+<area shape="rect" id="node8" href="$control__flow_2x86_8cpp.html" title="Reconstruct control flow – x86 specific module. " alt="" coords="941,347,1149,403"/>
+<area shape="rect" id="node10" href="$register_8cpp.html" title="Solve register pseudo functions. " alt="" coords="1173,347,1381,403"/>
+<area shape="rect" id="node18" href="$local__vars_8cpp.html" title="Register localization. " alt="" coords="1963,235,2171,291"/>
+<area shape="rect" id="node20" href="$param__return_8cpp.html" title="Detect functions&#39; parameters and returns. " alt="" coords="2195,235,2429,291"/>
+</map>

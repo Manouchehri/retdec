@@ -1,0 +1,19 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/unused_global_var_optimizer.cpp" name="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/unused_global_var_optimizer.cpp">
+<area shape="rect" id="node2" href="$function_8h.html" title="A representation of a function. " alt="" coords="437,235,604,262"/>
+<area shape="rect" id="node23" href="$global__var__def_8h.html" title="A definition of a global variable. " alt="" coords="2238,228,2379,269"/>
+<area shape="rect" id="node24" href="$module_8h.html" title="A representation of a complete module. " alt="" coords="197,332,359,359"/>
+<area shape="rect" id="node27" href="$variable_8h.html" title="A representation of a variable. " alt="" coords="1809,139,1976,165"/>
+<area shape="rect" id="node29" href="$unused__global__var__optimizer_8h.html" title="Removes global variables that are not used. " alt="" coords="1137,124,1331,180"/>
+<area shape="rect" id="node33" href="$debug_8h.html" title="Debugging support. " alt="" coords="2343,131,2480,173"/>
+<area shape="rect" id="node5" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="1770,332,1919,359"/>
+<area shape="rect" id="node10" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1232,511,1369,552"/>
+<area shape="rect" id="node17" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="416,421,553,463"/>
+<area shape="rect" id="node8" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="1877,421,2015,463"/>
+<area shape="rect" id="node9" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="1627,421,1764,463"/>
+<area shape="rect" id="node12" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="1465,421,1603,463"/>
+<area shape="rect" id="node15" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="2039,421,2176,463"/>
+<area shape="rect" id="node28" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="1801,235,1985,262"/>
+<area shape="rect" id="node30" href="$optimizer_8h.html" title="A base class of all optimizers. " alt="" coords="1065,228,1216,269"/>
+<area shape="rect" id="node31" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="853,317,1004,373"/>
+<area shape="rect" id="node32" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="883,421,1020,463"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/support/unreachable_funcs_remover.cpp" name="/home/retdec/retdec/src/llvmir2hll/support/unreachable_funcs_remover.cpp">
+<area shape="rect" id="node2" href="$cg_8h.html" title="A representation of a call graph (CG). " alt="" coords="1017,303,1200,329"/>
+<area shape="rect" id="node15" href="$cg__builder_8h.html" title="A creator of call graphs (CGs) from modules. " alt="" coords="1438,199,1589,240"/>
+<area shape="rect" id="node16" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="1521,288,1672,344"/>
+<area shape="rect" id="node18" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="2368,206,2552,233"/>
+<area shape="rect" id="node27" href="$function_8h.html" title="A representation of a function. " alt="" coords="845,206,1012,233"/>
+<area shape="rect" id="node28" href="$global__var__def_8h.html" title="A definition of a global variable. " alt="" coords="1879,199,2020,240"/>
+<area shape="rect" id="node29" href="$module_8h.html" title="A representation of a complete module. " alt="" coords="355,303,518,329"/>
+<area shape="rect" id="node32" href="$statement_8h.html" title="A representation of a program statement. " alt="" coords="641,206,821,233"/>
+<area shape="rect" id="node33" href="$variable_8h.html" title="A representation of a variable. " alt="" coords="2070,117,2237,143"/>
+<area shape="rect" id="node34" href="$debug_8h.html" title="Debugging support. " alt="" coords="2462,109,2600,151"/>
+<area shape="rect" id="node36" href="$unreachable__funcs__remover_8h.html" title="llvmir2hll/support\l/unreachable_funcs_remover.h" alt="" coords="1224,295,1446,337"/>
+<area shape="rect" id="node4" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1478,481,1616,523"/>
+<area shape="rect" id="node7" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="745,392,882,433"/>
+<area shape="rect" id="node17" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="1532,392,1669,433"/>
+<area shape="rect" id="node19" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="1875,303,2024,329"/>
+<area shape="rect" id="node22" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="1944,392,2081,433"/>
+<area shape="rect" id="node23" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="2318,392,2456,433"/>
+<area shape="rect" id="node24" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="2105,392,2242,433"/>
+<area shape="rect" id="node26" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="1693,392,1830,433"/>
+</map>

@@ -1,0 +1,277 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvmir2hll_1_1Caching.html" title="llvmir2hll::Caching\l\&lt; ShPtr\&lt; Value \&gt;, ShPtr\l\&lt; UsedVars \&gt; \&gt;" alt="" coords="252,587,431,643"/>
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1UsedVarsVisitor.html" title="A visitor for obtaining the used variables in a value. " alt="" coords="515,587,709,613"/>
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1Caching.html" title="llvmir2hll::Caching\l\&lt; ShPtr\&lt; Value \&gt;, ShPtr\l\&lt; ValueData \&gt; \&gt;" alt="" coords="252,89,431,145"/>
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1ValueAnalysis.html" title="An analysis for obtaining information about a value. " alt="" coords="521,136,703,163"/>
+<area shape="rect" id="node6" href="$classllvmir2hll_1_1SharableFromThis.html" title="Enables shared_from_this() in the inheriting class. " alt="" coords="251,4594,432,4635"/>
+<area shape="rect" id="node7" href="$classllvmir2hll_1_1SharableFromThis.html" title="llvmir2hll::SharableFrom\lThis\&lt; CallInfoObtainer \&gt;" alt="" coords="249,4659,434,4701"/>
+<area shape="rect" id="node11" href="$classllvmir2hll_1_1SharableFromThis.html" title="llvmir2hll::SharableFrom\lThis\&lt; CFGNode \&gt;" alt="" coords="251,4725,432,4766"/>
+<area shape="rect" id="node13" href="$classllvmir2hll_1_1SharableFromThis.html" title="llvmir2hll::SharableFrom\lThis\&lt; Value \&gt;" alt="" coords="251,4973,432,5014"/>
+<area shape="rect" id="node8" href="$classllvmir2hll_1_1CallInfoObtainer.html" title="A base class of all obtainers of information about functions and function calls. " alt="" coords="513,4671,711,4697"/>
+<area shape="rect" id="node9" href="$classllvmir2hll_1_1OptimCallInfoObtainer.html" title="Obtainer of information about functions and function calls that assumes it has access to complete inf..." alt="" coords="820,4729,1003,4770"/>
+<area shape="rect" id="node10" href="$classllvmir2hll_1_1PessimCallInfoObtainer.html" title="Obtainer of information about functions and function calls that assumes nothing. " alt="" coords="817,4663,1006,4705"/>
+<area shape="rect" id="node12" href="$classllvmir2hll_1_1CFGNode.html" title="A representation of a control&#45;flow graph node. " alt="" coords="536,4728,688,4755"/>
+<area shape="rect" id="node14" href="$classllvmir2hll_1_1Value.html" title="A base class of all objects a module can contain. " alt="" coords="548,4921,676,4948"/>
+<area shape="rect" id="node15" href="$classllvmir2hll_1_1Expression.html" title="A base class of all expressions. " alt="" coords="830,6061,993,6088"/>
+<area shape="rect" id="node64" href="$classllvmir2hll_1_1Function.html" title="A representation of a function. " alt="" coords="838,6112,985,6139"/>
+<area shape="rect" id="node65" href="$classllvmir2hll_1_1GlobalVarDef.html" title="A definition of a global variable. " alt="" coords="822,4795,1001,4821"/>
+<area shape="rect" id="node66" href="$classllvmir2hll_1_1Statement.html" title="A representation of a program statement. " alt="" coords="831,4845,991,4872"/>
+<area shape="rect" id="node81" href="$classllvmir2hll_1_1Type.html" title="A base class of all types. " alt="" coords="850,5327,973,5353"/>
+<area shape="rect" id="node16" href="$classllvmir2hll_1_1BinaryOpExpr.html" title="A base class for all binary operators. " alt="" coords="1123,6821,1304,6848"/>
+<area shape="rect" id="node39" href="$classllvmir2hll_1_1CallExpr.html" title="A call expression. " alt="" coords="1140,6872,1287,6899"/>
+<area shape="rect" id="node40" href="$classllvmir2hll_1_1CastExpr.html" title="Base class for cast instructions. " alt="" coords="1138,5605,1289,5632"/>
+<area shape="rect" id="node48" href="$classllvmir2hll_1_1Constant.html" title="A base class for all constants. " alt="" coords="1138,5935,1289,5961"/>
+<area shape="rect" id="node57" href="$classllvmir2hll_1_1TernaryOpExpr.html" title="A ternary operator. " alt="" coords="1120,6061,1307,6088"/>
+<area shape="rect" id="node58" href="$classllvmir2hll_1_1UnaryOpExpr.html" title="A base class for all unary operators. " alt="" coords="1124,6163,1303,6189"/>
+<area shape="rect" id="node63" href="$classllvmir2hll_1_1Variable.html" title="A representation of a variable. " alt="" coords="1141,6213,1286,6240"/>
+<area shape="rect" id="node17" href="$classllvmir2hll_1_1AddOpExpr.html" title="An addition operator. " alt="" coords="1410,6847,1574,6873"/>
+<area shape="rect" id="node18" href="$classllvmir2hll_1_1AndOpExpr.html" title="A logical &quot;and&quot; operator. " alt="" coords="1410,6897,1574,6924"/>
+<area shape="rect" id="node19" href="$classllvmir2hll_1_1ArrayIndexOpExpr.html" title="An array subscript operator. " alt="" coords="1387,6948,1597,6975"/>
+<area shape="rect" id="node20" href="$classllvmir2hll_1_1AssignOpExpr.html" title="An assignment operator. " alt="" coords="1401,6999,1583,7025"/>
+<area shape="rect" id="node21" href="$classllvmir2hll_1_1BitAndOpExpr.html" title="A bit&#45;and operator. " alt="" coords="1401,7049,1583,7076"/>
+<area shape="rect" id="node22" href="$classllvmir2hll_1_1BitOrOpExpr.html" title="A bit&#45;or operator. " alt="" coords="1406,7100,1578,7127"/>
+<area shape="rect" id="node23" href="$classllvmir2hll_1_1BitShlOpExpr.html" title="A bit left shift operator. " alt="" coords="1403,7151,1581,7177"/>
+<area shape="rect" id="node24" href="$classllvmir2hll_1_1BitShrOpExpr.html" title="A bit right shift operator. " alt="" coords="1403,7201,1581,7228"/>
+<area shape="rect" id="node25" href="$classllvmir2hll_1_1BitXorOpExpr.html" title="A bit&#45;xor operator. " alt="" coords="1403,7252,1581,7279"/>
+<area shape="rect" id="node26" href="$classllvmir2hll_1_1CommaOpExpr.html" title="A comma operator. " alt="" coords="1397,7303,1587,7329"/>
+<area shape="rect" id="node27" href="$classllvmir2hll_1_1DivOpExpr.html" title="A division operator. " alt="" coords="1411,7353,1573,7380"/>
+<area shape="rect" id="node28" href="$classllvmir2hll_1_1EqOpExpr.html" title="An equality operator. " alt="" coords="1415,7404,1569,7431"/>
+<area shape="rect" id="node29" href="$classllvmir2hll_1_1GtEqOpExpr.html" title="A greater&#45;than&#45;or&#45;equal operator. " alt="" coords="1407,6340,1577,6367"/>
+<area shape="rect" id="node30" href="$classllvmir2hll_1_1GtOpExpr.html" title="A greater&#45;than operator. " alt="" coords="1415,6391,1569,6417"/>
+<area shape="rect" id="node31" href="$classllvmir2hll_1_1LtEqOpExpr.html" title="A less&#45;than&#45;or&#45;equal operator. " alt="" coords="1409,6441,1575,6468"/>
+<area shape="rect" id="node32" href="$classllvmir2hll_1_1LtOpExpr.html" title="A less&#45;than operator. " alt="" coords="1417,6492,1567,6519"/>
+<area shape="rect" id="node33" href="$classllvmir2hll_1_1ModOpExpr.html" title="A modulo operator. " alt="" coords="1409,6543,1575,6569"/>
+<area shape="rect" id="node34" href="$classllvmir2hll_1_1MulOpExpr.html" title="A multiplication operator. " alt="" coords="1411,6593,1573,6620"/>
+<area shape="rect" id="node35" href="$classllvmir2hll_1_1NeqOpExpr.html" title="A non&#45;equality operator. " alt="" coords="1409,6644,1575,6671"/>
+<area shape="rect" id="node36" href="$classllvmir2hll_1_1OrOpExpr.html" title="A logical &quot;or&quot; operator. " alt="" coords="1415,6695,1569,6721"/>
+<area shape="rect" id="node37" href="$classllvmir2hll_1_1StructIndexOpExpr.html" title="A struct index operator. " alt="" coords="1385,6745,1599,6772"/>
+<area shape="rect" id="node38" href="$classllvmir2hll_1_1SubOpExpr.html" title="A subtraction operator. " alt="" coords="1411,6796,1573,6823"/>
+<area shape="rect" id="node41" href="$classllvmir2hll_1_1BitCastExpr.html" title="Cast of LLVM instruction BitCast. " alt="" coords="1408,5479,1576,5505"/>
+<area shape="rect" id="node42" href="$classllvmir2hll_1_1ExtCastExpr.html" title="Cast of LLVM Ext instructions. " alt="" coords="1407,5529,1577,5556"/>
+<area shape="rect" id="node43" href="$classllvmir2hll_1_1FPToIntCastExpr.html" title="Cast of LLVM instructions FPtoSI/FPtoUI. " alt="" coords="1394,5580,1590,5607"/>
+<area shape="rect" id="node44" href="$classllvmir2hll_1_1IntToFPCastExpr.html" title="Cast of LLVM instruction SItoFP/UItoFP. " alt="" coords="1394,5631,1590,5657"/>
+<area shape="rect" id="node45" href="$classllvmir2hll_1_1IntToPtrCastExpr.html" title="Cast of LLVM instruction IntToPtr. " alt="" coords="1393,5681,1591,5708"/>
+<area shape="rect" id="node46" href="$classllvmir2hll_1_1PtrToIntCastExpr.html" title="Cast of LLVM instruction PtrToInt. " alt="" coords="1393,5377,1591,5404"/>
+<area shape="rect" id="node47" href="$classllvmir2hll_1_1TruncCastExpr.html" title="Cast of LLVM instructions FPTrunc/Trunc. " alt="" coords="1400,5428,1584,5455"/>
+<area shape="rect" id="node49" href="$classllvmir2hll_1_1ConstArray.html" title="An array constant. " alt="" coords="1410,5985,1574,6012"/>
+<area shape="rect" id="node50" href="$classllvmir2hll_1_1ConstBool.html" title="A bool constant. " alt="" coords="1413,6036,1571,6063"/>
+<area shape="rect" id="node51" href="$classllvmir2hll_1_1ConstFloat.html" title="A float constant. " alt="" coords="1411,6087,1573,6113"/>
+<area shape="rect" id="node52" href="$classllvmir2hll_1_1ConstInt.html" title="An integer constant. " alt="" coords="1419,5732,1565,5759"/>
+<area shape="rect" id="node53" href="$classllvmir2hll_1_1ConstNullPointer.html" title="A null pointer constant. " alt="" coords="1391,5783,1593,5809"/>
+<area shape="rect" id="node54" href="$classllvmir2hll_1_1ConstString.html" title="A generic string constant. " alt="" coords="1409,5833,1575,5860"/>
+<area shape="rect" id="node55" href="$classllvmir2hll_1_1ConstStruct.html" title="A struct constant. " alt="" coords="1409,5884,1575,5911"/>
+<area shape="rect" id="node56" href="$classllvmir2hll_1_1ConstSymbol.html" title="A symbolic constant. " alt="" coords="1403,5935,1581,5961"/>
+<area shape="rect" id="node59" href="$classllvmir2hll_1_1AddressOpExpr.html" title="An address operator. " alt="" coords="1397,6188,1587,6215"/>
+<area shape="rect" id="node60" href="$classllvmir2hll_1_1DerefOpExpr.html" title="A dereference operator. " alt="" coords="1405,6239,1579,6265"/>
+<area shape="rect" id="node61" href="$classllvmir2hll_1_1NegOpExpr.html" title="An arithmetic negation operator. " alt="" coords="1409,6289,1575,6316"/>
+<area shape="rect" id="node62" href="$classllvmir2hll_1_1NotOpExpr.html" title="A logical negation operator. " alt="" coords="1411,6137,1573,6164"/>
+<area shape="rect" id="node67" href="$classllvmir2hll_1_1AssignStmt.html" title="An assignment statement. " alt="" coords="1130,4440,1297,4467"/>
+<area shape="rect" id="node68" href="$classllvmir2hll_1_1BreakStmt.html" title="A break statement to exit a loop or a switch case. " alt="" coords="1133,4491,1294,4517"/>
+<area shape="rect" id="node69" href="$classllvmir2hll_1_1CallStmt.html" title="A statement wrapping a call expression. " alt="" coords="1139,4541,1287,4568"/>
+<area shape="rect" id="node70" href="$classllvmir2hll_1_1ContinueStmt.html" title="A continue statement to continue looping. " alt="" coords="1123,4592,1304,4619"/>
+<area shape="rect" id="node71" href="$classllvmir2hll_1_1EmptyStmt.html" title="An empty statement (like NOP). " alt="" coords="1131,4643,1296,4669"/>
+<area shape="rect" id="node72" href="$classllvmir2hll_1_1ForLoopStmt.html" title="A for loop statement. " alt="" coords="1126,4693,1301,4720"/>
+<area shape="rect" id="node73" href="$classllvmir2hll_1_1GotoStmt.html" title="A goto statement for unconditional transfer of control. " alt="" coords="1136,4744,1291,4771"/>
+<area shape="rect" id="node74" href="$classllvmir2hll_1_1IfStmt.html" title="An if/else&#45;if/else statement. " alt="" coords="1147,4795,1279,4821"/>
+<area shape="rect" id="node75" href="$classllvmir2hll_1_1ReturnStmt.html" title="A return statement. " alt="" coords="1131,4845,1296,4872"/>
+<area shape="rect" id="node76" href="$classllvmir2hll_1_1SwitchStmt.html" title="A switch statement. " alt="" coords="1130,4896,1297,4923"/>
+<area shape="rect" id="node77" href="$classllvmir2hll_1_1UForLoopStmt.html" title="A universal for loop statement. " alt="" coords="1121,4947,1305,4973"/>
+<area shape="rect" id="node78" href="$classllvmir2hll_1_1UnreachableStmt.html" title="An unreachable statement. " alt="" coords="1111,4997,1316,5024"/>
+<area shape="rect" id="node79" href="$classllvmir2hll_1_1VarDefStmt.html" title="A variable definition statement. " alt="" coords="1130,5048,1297,5075"/>
+<area shape="rect" id="node80" href="$classllvmir2hll_1_1WhileLoopStmt.html" title="A while loop statement. " alt="" coords="1118,5099,1309,5125"/>
+<area shape="rect" id="node82" href="$classllvmir2hll_1_1ArrayType.html" title="A representation of an array type. " alt="" coords="1135,5149,1292,5176"/>
+<area shape="rect" id="node83" href="$classllvmir2hll_1_1FloatType.html" title="A representation of an float point type. " alt="" coords="1136,5200,1291,5227"/>
+<area shape="rect" id="node84" href="$classllvmir2hll_1_1FunctionType.html" title="A representation of a function type. " alt="" coords="1125,5251,1301,5277"/>
+<area shape="rect" id="node85" href="$classllvmir2hll_1_1IntType.html" title="A representation of an integer type. " alt="" coords="1144,5301,1283,5328"/>
+<area shape="rect" id="node86" href="$classllvmir2hll_1_1PointerType.html" title="A representation of a pointer type. " alt="" coords="1129,5352,1297,5379"/>
+<area shape="rect" id="node87" href="$classllvmir2hll_1_1StringType.html" title="A representation of a string type. " alt="" coords="1133,5403,1293,5429"/>
+<area shape="rect" id="node88" href="$classllvmir2hll_1_1StructType.html" title="A representation of a structured type. " alt="" coords="1133,5453,1293,5480"/>
+<area shape="rect" id="node89" href="$classllvmir2hll_1_1UnknownType.html" title="A representation of an Unknown type. " alt="" coords="1122,5504,1305,5531"/>
+<area shape="rect" id="node90" href="$classllvmir2hll_1_1VoidType.html" title="A representation of an void type. " alt="" coords="1138,5555,1289,5581"/>
+<area shape="rect" id="node92" href="$classbin2llvmir_1_1AdapterMethods.html" title="bin2llvmir::AdapterMethods" alt="" coords="511,5053,713,5080"/>
+<area shape="rect" id="node93" href="$classbin2llvmir_1_1Idioms.html" title="Instruction idiom analysis. " alt="" coords="542,5104,682,5131"/>
+<area shape="rect" id="node94" href="$classbin2llvmir_1_1NeverReturningFuncs.html" title="Adds unreachable instruction after functions that never return. " alt="" coords="513,4981,711,5022"/>
+<area shape="rect" id="node95" href="$classbin2llvmir_1_1PHI2Seq.html" title="Optimization that solves the problem of parallel processing of PHI nodes. " alt="" coords="537,5155,687,5181"/>
+<area shape="rect" id="node97" href="$classllvmir2hll_1_1BasicBlockConverter.html" title="A converter of LLVM basic blocks. " alt="" coords="499,4519,725,4545"/>
+<area shape="rect" id="node98" href="$classllvmir2hll_1_1LLVMConverter.html" title="A converter from LLVM values to values in the backend IR. " alt="" coords="517,4569,707,4596"/>
+<area shape="rect" id="node99" href="$classllvmir2hll_1_1LLVMInstructionConverter.html" title="A converter from LLVM instruction to expression in BIR. " alt="" coords="515,4453,709,4494"/>
+<area shape="rect" id="node100" href="$classllvmir2hll_1_1OrigLLVMIR2BIRConverter.html" title="The original converter of LLVM IR into BIR. " alt="" coords="782,3629,1041,3656"/>
+<area shape="rect" id="node101" href="$classllvmir2hll_1_1Metadatable.html" title="llvmir2hll::Metadatable\l\&lt; std::string \&gt;" alt="" coords="255,5038,428,5079"/>
+<area shape="rect" id="node103" href="$classllvmir2hll_1_1AliasAnalysis.html" title="A base class for all alias analyses. " alt="" coords="523,2183,701,2209"/>
+<area shape="rect" id="node106" href="$classllvmir2hll_1_1APICallInfoSeqParser.html" title="A parser of textual representation of API call sequences. " alt="" coords="519,2538,705,2579"/>
+<area shape="rect" id="node107" href="$classllvmir2hll_1_1APICallSeqFinder.html" title="A base class for all API calls finders. " alt="" coords="511,4351,713,4377"/>
+<area shape="rect" id="node109" href="$classllvmir2hll_1_1ArithmExprEvaluator.html" title="A base class for all evaluators. " alt="" coords="499,1241,725,1268"/>
+<area shape="rect" id="node112" href="$classllvmir2hll_1_1BreakInIfAnalysis.html" title="Analysis of a break statement in an if statement. " alt="" coords="509,1964,715,1991"/>
+<area shape="rect" id="node113" href="$classllvmir2hll_1_1CallInfo.html" title="Base class for all classes storing information about a function call. " alt="" coords="541,2823,683,2849"/>
+<area shape="rect" id="node116" href="$classllvmir2hll_1_1CallInfoObtainer_1_1SCCComputer.html" title="A computation of strongly connected components (SCCs) from a call graph. " alt="" coords="513,2655,711,2697"/>
+<area shape="rect" id="node117" href="$classllvmir2hll_1_1CallsInModuleObtainer.html" title="An obtainer of information about function calls in a module. " alt="" coords="521,2015,703,2057"/>
+<area shape="rect" id="node118" href="$classllvmir2hll_1_1CallsObtainer.html" title="An obtainer of information about function calls. " alt="" coords="522,840,702,867"/>
+<area shape="rect" id="node119" href="$classllvmir2hll_1_1CFG.html" title="A representation of a control&#45;flow graph (CFG). " alt="" coords="553,2721,671,2748"/>
+<area shape="rect" id="node120" href="$classllvmir2hll_1_1CFG_1_1Edge.html" title="An edge of a CFG (represents program flow). " alt="" coords="533,2772,691,2799"/>
+<area shape="rect" id="node121" href="$classllvmir2hll_1_1CFG_1_1Node.html" title="A node of a CFG (represents a basic block). " alt="" coords="532,3076,692,3103"/>
+<area shape="rect" id="node122" href="$classllvmir2hll_1_1CFGBuilder.html" title="A base class for creators of control&#45;flow graphs (CFGs) from functions. " alt="" coords="530,637,694,664"/>
+<area shape="rect" id="node125" href="$classllvmir2hll_1_1CFGNode_1_1CFGEdge.html" title="A representation of a control&#45;flow graph edge. " alt="" coords="536,3178,688,3219"/>
+<area shape="rect" id="node126" href="$classllvmir2hll_1_1CFGTraversal.html" title="A base class of all CFG traversals. " alt="" coords="523,2873,701,2900"/>
+<area shape="rect" id="node136" href="$classllvmir2hll_1_1CFGWriter.html" title="A base class of all control&#45;flow graph (CFG) writers. " alt="" coords="533,2924,691,2951"/>
+<area shape="rect" id="node138" href="$classllvmir2hll_1_1CG.html" title="A representation of a call graph (CG). " alt="" coords="557,3244,667,3271"/>
+<area shape="rect" id="node139" href="$classllvmir2hll_1_1CGBuilder.html" title="A creator of call graphs (CGs) from modules. " alt="" coords="533,891,691,917"/>
+<area shape="rect" id="node140" href="$classllvmir2hll_1_1CGWriter.html" title="A base class of all call graph (CG) writers. " alt="" coords="537,2975,687,3001"/>
+<area shape="rect" id="node142" href="$classllvmir2hll_1_1CompoundOpManager.html" title="A base class for compound operator managers. " alt="" coords="494,1292,730,1319"/>
+<area shape="rect" id="node146" href="$classllvmir2hll_1_1CompoundSemanticsBuilder.html" title="A class providing an easy construction of compound semantics from several different semantics..." alt="" coords="497,3295,727,3337"/>
+<area shape="rect" id="node147" href="$classllvmir2hll_1_1Config.html" title="Base class for all configs. " alt="" coords="545,3127,679,3153"/>
+<area shape="rect" id="node149" href="$classllvmir2hll_1_1ConstSymbolConverter.html" title="Converter of constants into their symbolic names. " alt="" coords="491,1460,733,1487"/>
+<area shape="rect" id="node150" href="$classllvmir2hll_1_1DefUseAnalysis.html" title="An analysis providing def&#45;use chains. " alt="" coords="515,3629,709,3656"/>
+<area shape="rect" id="node151" href="$classllvmir2hll_1_1ExpressionNegater.html" title="Negation of expressions. " alt="" coords="505,4401,719,4428"/>
+<area shape="rect" id="node152" href="$classllvmir2hll_1_1ExprTypesAnalysis.html" title="A visitor for analyzing the types in BIR. " alt="" coords="505,1073,719,1100"/>
+<area shape="rect" id="node153" href="$classllvmir2hll_1_1ExprTypesFixer.html" title="A visitor for fixing the types in the IR. " alt="" coords="517,1124,707,1151"/>
+<area shape="rect" id="node154" href="$classllvmir2hll_1_1FuncInfo.html" title="Base class for all classes storing information about a function. " alt="" coords="539,3731,685,3757"/>
+<area shape="rect" id="node157" href="$classllvmir2hll_1_1FuncsWithPrefixRemover.html" title="Removes functions whose name starts with a prefix from the given set. " alt="" coords="515,1175,709,1217"/>
+<area shape="rect" id="node158" href="$classllvmir2hll_1_1FunctionBuilder.html" title="A builder providing a simple way of creating functions. " alt="" coords="516,3680,708,3707"/>
+<area shape="rect" id="node159" href="$classllvmir2hll_1_1GotoTargetAnalysis.html" title="Analysis of goto targets. " alt="" coords="503,1511,721,1537"/>
+<area shape="rect" id="node160" href="$classllvmir2hll_1_1HeadersForDeclaredFuncs.html" title="Retrieval of header files for all the declared functions in a module. " alt="" coords="500,3883,724,3925"/>
+<area shape="rect" id="node161" href="$classllvmir2hll_1_1HLLWriter.html" title="A base class of all HLL writers. " alt="" coords="535,4620,689,4647"/>
+<area shape="rect" id="node164" href="$classllvmir2hll_1_1IndirectFuncRefAnalysis.html" title="Analysis of functions that are referenced outside of direct calls. " alt="" coords="527,942,697,983"/>
+<area shape="rect" id="node165" href="$classllvmir2hll_1_1LabelsHandler.html" title="Handler of labels during conversion of LLVM IR to BIR. " alt="" coords="519,3949,705,3976"/>
+<area shape="rect" id="node166" href="$classllvmir2hll_1_1LibraryFuncsRemover.html" title="Removes defined functions which are from some standard library whose header file has to be included b..." alt="" coords="525,4001,699,4042"/>
+<area shape="rect" id="node167" href="$classllvmir2hll_1_1LLVMBranchInfo.html" title="Supportive information about LLVM branches and loops. " alt="" coords="515,4067,709,4093"/>
+<area shape="rect" id="node168" href="$classllvmir2hll_1_1LLVMConstantConverter.html" title="A converter from LLVM constant to constant in BIR. " alt="" coords="521,4118,703,4159"/>
+<area shape="rect" id="node169" href="$classllvmir2hll_1_1LLVMDebugInfoObtainer.html" title="Obtainer of debug information from an LLVM module. " alt="" coords="516,4183,708,4225"/>
+<area shape="rect" id="node170" href="$classllvmir2hll_1_1LLVMFCmpConverter.html" title="A converter from LLVM fcmp instruction to expression in BIR. " alt="" coords="499,2233,725,2260"/>
+<area shape="rect" id="node171" href="$classllvmir2hll_1_1LLVMIntrinsicConverter.html" title="Conversion of LLVM intrinsic functions into functions from the standard C library. " alt="" coords="523,1007,701,1049"/>
+<area shape="rect" id="node172" href="$classllvmir2hll_1_1LLVMIR2BIRConverter.html" title="A base class for all converters of LLVM IR to BIR. " alt="" coords="497,3579,727,3605"/>
+<area shape="rect" id="node174" href="$classllvmir2hll_1_1LLVMTypeConverter.html" title="A converter from LLVM type to type in BIR. " alt="" coords="503,2284,721,2311"/>
+<area shape="rect" id="node175" href="$classllvmir2hll_1_1LLVMValueConverter.html" title="A converter from LLVM values to values in BIR. " alt="" coords="499,2335,725,2361"/>
+<area shape="rect" id="node176" href="$classllvmir2hll_1_1Module.html" title="A representation of a complete module. " alt="" coords="543,2385,681,2412"/>
+<area shape="rect" id="node177" href="$classllvmir2hll_1_1NoInitVarDefAnalysis.html" title="llvmir2hll::NoInitVarDef\lAnalysis" alt="" coords="525,1394,699,1435"/>
+<area shape="rect" id="node178" href="$classllvmir2hll_1_1NullPointerAnalysis.html" title="Analysis of the use of null pointers. " alt="" coords="503,2081,721,2108"/>
+<area shape="rect" id="node179" href="$classllvmir2hll_1_1Optimizer.html" title="A base class of all optimizers. " alt="" coords="534,1343,690,1369"/>
+<area shape="rect" id="node218" href="$classllvmir2hll_1_1OptimizerManager.html" title="A manager managing optimizations. " alt="" coords="506,2436,718,2463"/>
+<area shape="rect" id="node219" href="$classllvmir2hll_1_1Pattern.html" title="A base class for representing code patterns. " alt="" coords="543,3781,681,3808"/>
+<area shape="rect" id="node221" href="$classllvmir2hll_1_1PatternFinder.html" title="A base class for all pattern finders. " alt="" coords="523,3832,701,3859"/>
+<area shape="rect" id="node224" href="$classllvmir2hll_1_1Semantics.html" title="A base class for all descriptions of function semantics. " alt="" coords="532,4300,692,4327"/>
+<area shape="rect" id="node230" href="$classllvmir2hll_1_1SpecialFPAnalysis.html" title="A visitor for obtaining information whether a special floating&#45;point value is used in a module..." alt="" coords="508,2132,716,2159"/>
+<area shape="rect" id="node231" href="$classllvmir2hll_1_1StatementsCounter.html" title="Counter of the number of statements in a block. " alt="" coords="503,789,721,816"/>
+<area shape="rect" id="node232" href="$classllvmir2hll_1_1StructTypesSorter.html" title="Sorts structured types according to their names and dependencies. " alt="" coords="509,2487,715,2513"/>
+<area shape="rect" id="node233" href="$classllvmir2hll_1_1StructureConverter.html" title="A converter of the LLVM function structure. " alt="" coords="505,2604,719,2631"/>
+<area shape="rect" id="node234" href="$classllvmir2hll_1_1SubOptimizer.html" title="A base class for all simplify arithmetical expression optimizations. " alt="" coords="522,1561,702,1588"/>
+<area shape="rect" id="node245" href="$classllvmir2hll_1_1UnreachableCodeInCFGRemover.html" title="Removes code that is unreachable in a CFG. " alt="" coords="509,1613,715,1654"/>
+<area shape="rect" id="node246" href="$classllvmir2hll_1_1UnreachableFuncsRemover.html" title="Removes functions that are not reachable from the main function. " alt="" coords="507,3361,717,3402"/>
+<area shape="rect" id="node247" href="$classllvmir2hll_1_1UseDefAnalysis.html" title="An analysis providing use&#45;def chains. " alt="" coords="515,3427,709,3453"/>
+<area shape="rect" id="node248" href="$classllvmir2hll_1_1UsedTypesVisitor.html" title="A visitor for obtaining the used types in the IR. " alt="" coords="510,1679,714,1705"/>
+<area shape="rect" id="node249" href="$classllvmir2hll_1_1ValueTextReprVisitor.html" title="A visitor for obtaining a textual representation of a value. " alt="" coords="520,1730,704,1771"/>
+<area shape="rect" id="node250" href="$classllvmir2hll_1_1VariableReplacer.html" title="A replacer of variables in functions. " alt="" coords="511,1796,713,1823"/>
+<area shape="rect" id="node251" href="$classllvmir2hll_1_1VariablesManager.html" title="Managing of local variables created during conversion of LLVM functions to BIR. " alt="" coords="508,3477,716,3504"/>
+<area shape="rect" id="node252" href="$classllvmir2hll_1_1VarNameGen.html" title="A base class for all generators of variable names. " alt="" coords="523,3025,701,3052"/>
+<area shape="rect" id="node256" href="$classllvmir2hll_1_1VarsHandler.html" title="Handler of variables created during decompilation. " alt="" coords="527,3528,697,3555"/>
+<area shape="rect" id="node257" href="$classllvmir2hll_1_1VarUsesVisitor.html" title="A visitor for obtaining the uses of variables in a function. " alt="" coords="519,1847,705,1873"/>
+<area shape="rect" id="node258" href="$classllvmir2hll_1_1WrittenIntoGlobalsVisitor.html" title="A visitor for obtaining written&#45;into global variables in functions. " alt="" coords="505,1898,719,1939"/>
+<area shape="rect" id="node104" href="$classllvmir2hll_1_1BasicAliasAnalysis.html" title="A basic alias analysis. " alt="" coords="804,2200,1019,2227"/>
+<area shape="rect" id="node105" href="$classllvmir2hll_1_1SimpleAliasAnalysis.html" title="A very simple alias analysis. " alt="" coords="799,1157,1023,1184"/>
+<area shape="rect" id="node108" href="$classllvmir2hll_1_1BasicBlockAPICallSeqFinder.html" title="API call finder which searches only in a basic block. " alt="" coords="807,4351,1016,4393"/>
+<area shape="rect" id="node110" href="$classllvmir2hll_1_1CArithmExprEvaluator.html" title="Evaluates expressions with c language conditions. " alt="" coords="793,792,1029,819"/>
+<area shape="rect" id="node111" href="$classllvmir2hll_1_1StrictArithmExprEvaluator.html" title="Evaluates expressions with strict conditions. " alt="" coords="826,726,997,767"/>
+<area shape="rect" id="node114" href="$classllvmir2hll_1_1OptimCallInfo.html" title="Optimistic information about a function call. " alt="" coords="820,2464,1003,2491"/>
+<area shape="rect" id="node115" href="$classllvmir2hll_1_1PessimCallInfo.html" title="Pessimistic information about a function call. " alt="" coords="817,2413,1006,2440"/>
+<area shape="rect" id="node123" href="$classllvmir2hll_1_1NonRecursiveCFGBuilder.html" title="A non&#45;recursive creator of control&#45;flow graphs (CFGs) from functions. " alt="" coords="821,609,1002,650"/>
+<area shape="rect" id="node124" href="$classllvmir2hll_1_1RecursiveCFGBuilder.html" title="A recursive creator of control&#45;flow graphs (CFGs) from functions. " alt="" coords="798,675,1025,701"/>
+<area shape="rect" id="node127" href="$classllvmir2hll_1_1AuxiliaryVariablesCFGTraversal.html" title="A CFG traversal for computing auxiliary variables. " alt="" coords="806,2683,1017,2725"/>
+<area shape="rect" id="node128" href="$classllvmir2hll_1_1LhsRhsUsesCFGTraversal.html" title="A CFG traversal that for an assign statement S returns the uses of its left&#45;hand side such that there..." alt="" coords="784,2749,1039,2776"/>
+<area shape="rect" id="node129" href="$classllvmir2hll_1_1ModifiedBeforeReadCFGTraversal.html" title="A CFG traversal that checks whether a variable is modified prior to every read access to it starting ..." alt="" coords="816,2801,1007,2842"/>
+<area shape="rect" id="node130" href="$classllvmir2hll_1_1NodesOfVarUseCFGTraversal.html" title="A CFG traversal that returns all nodes where the variables from VarDefStms are used. " alt="" coords="814,2866,1009,2907"/>
+<area shape="rect" id="node131" href="$classllvmir2hll_1_1NoVarDefCFGTraversal.html" title="A CFG traversal that checks whether no variable in a given set is defined/modified between a start st..." alt="" coords="792,2932,1031,2959"/>
+<area shape="rect" id="node132" href="$classllvmir2hll_1_1OptimFuncInfoCFGTraversal.html" title="A CFG traversal for computing OptimFuncInfos. " alt="" coords="818,2983,1005,3025"/>
+<area shape="rect" id="node133" href="$classllvmir2hll_1_1UnneededGlobalVarsCFGTraversal.html" title="A CFG traversal that obtains the set of ``unneeded&#39;&#39; global variables in a function. " alt="" coords="811,2515,1011,2557"/>
+<area shape="rect" id="node134" href="$classllvmir2hll_1_1VarDefCFGTraversal.html" title="A CFG traversal that checks whether a variable is defined/modified between two statements. " alt="" coords="801,2581,1022,2608"/>
+<area shape="rect" id="node135" href="$classllvmir2hll_1_1VarUseCFGTraversal.html" title="A CFG traversal that checks whether a variable is defined/modified prior to every read access to it i..." alt="" coords="800,2632,1023,2659"/>
+<area shape="rect" id="node137" href="$classllvmir2hll_1_1GraphvizCFGWriter.html" title="A CFG writer in the dot format (graphviz). " alt="" coords="804,3049,1019,3076"/>
+<area shape="rect" id="node141" href="$classllvmir2hll_1_1GraphvizCGWriter.html" title="A CG writer in the dot format (graphviz). " alt="" coords="807,3100,1015,3127"/>
+<area shape="rect" id="node143" href="$classllvmir2hll_1_1CCompoundOpManager.html" title="Compound operator manager for the C language. " alt="" coords="789,909,1034,936"/>
+<area shape="rect" id="node144" href="$classllvmir2hll_1_1NoCompoundOpManager.html" title="Compound operator manager that turns off all compound optimizations. " alt="" coords="812,961,1011,1002"/>
+<area shape="rect" id="node145" href="$classllvmir2hll_1_1PyCompoundOpManager.html" title="Compound operator manager for the Python&#39; language. " alt="" coords="813,843,1009,885"/>
+<area shape="rect" id="node148" href="$classllvmir2hll_1_1JSONConfig.html" title="Config in the JSON format. " alt="" coords="829,3303,994,3329"/>
+<area shape="rect" id="node155" href="$classllvmir2hll_1_1OptimFuncInfo.html" title="Optimistic information about a function. " alt="" coords="818,3680,1005,3707"/>
+<area shape="rect" id="node156" href="$classllvmir2hll_1_1PessimFuncInfo.html" title="Pessimistic information about a function. " alt="" coords="815,3731,1008,3757"/>
+<area shape="rect" id="node162" href="$classllvmir2hll_1_1CHLLWriter.html" title="A HLL writer for the C language (C99). " alt="" coords="830,4612,993,4639"/>
+<area shape="rect" id="node163" href="$classllvmir2hll_1_1PyHLLWriter.html" title="A HLL writer for the Python&#39; language. " alt="" coords="826,4561,997,4588"/>
+<area shape="rect" id="node173" href="$classllvmir2hll_1_1NewLLVMIR2BIRConverter.html" title="New converter of LLVM IR into BIR. " alt="" coords="781,3579,1041,3605"/>
+<area shape="rect" id="node180" href="$classllvmir2hll_1_1AggressiveGlobalToLocalOptimizer.html" title="Converts all global variables without a name from debug information to local variables. " alt="" coords="808,1091,1015,1133"/>
+<area shape="rect" id="node181" href="$classllvmir2hll_1_1BitShiftOptimizer.html" title="Change bit shift to division or multiplication. " alt="" coords="809,1208,1013,1235"/>
+<area shape="rect" id="node182" href="$classllvmir2hll_1_1DerefToArrayIndexOptimizer.html" title="Optimizes pointer arithmetic on variables to array accesses. " alt="" coords="823,1026,1000,1067"/>
+<area shape="rect" id="node183" href="$classllvmir2hll_1_1EmptyArrayToStringOptimizer.html" title="Optimizes global empty arrays to empty strings. " alt="" coords="820,1259,1003,1301"/>
+<area shape="rect" id="node184" href="$classllvmir2hll_1_1FuncOptimizer.html" title="A base class of all function optimizers. " alt="" coords="819,1325,1004,1352"/>
+<area shape="rect" id="node215" href="$classllvmir2hll_1_1GlobalToLocalOptimizer.html" title="Converts global variables to local variables wherever possible. " alt="" coords="820,1377,1003,1418"/>
+<area shape="rect" id="node216" href="$classllvmir2hll_1_1SimplifyArithmExprOptimizer.html" title="Optimizer that optimizes expressions to a simpler form. " alt="" coords="816,1442,1007,1483"/>
+<area shape="rect" id="node217" href="$classllvmir2hll_1_1UnusedGlobalVarOptimizer.html" title="Removes global variables that are not used. " alt="" coords="820,1507,1003,1549"/>
+<area shape="rect" id="node185" href="$classllvmir2hll_1_1AggressiveDerefOptimizer.html" title="Optimizes dereferences of integer values. " alt="" coords="1113,983,1313,1025"/>
+<area shape="rect" id="node186" href="$classllvmir2hll_1_1AuxiliaryVariablesOptimizer.html" title="Elimination of auxiliary variables. " alt="" coords="1108,1049,1319,1090"/>
+<area shape="rect" id="node187" href="$classllvmir2hll_1_1BitOpToLogOpOptimizer.html" title="Optimizes Optimizes BitAndExpr to AndOpExpr or BitOrExpr to OrOpExpr if fulfil conditions. " alt="" coords="1122,1114,1305,1155"/>
+<area shape="rect" id="node188" href="$classllvmir2hll_1_1BreakContinueReturnOptimizer.html" title="Removes statements following a break, continue, or return statements. " alt="" coords="1119,1179,1307,1221"/>
+<area shape="rect" id="node189" href="$classllvmir2hll_1_1CArrayArgOptimizer.html" title="Optimizes array arguments of function calls. " alt="" coords="1102,1245,1325,1272"/>
+<area shape="rect" id="node190" href="$classllvmir2hll_1_1CCastOptimizer.html" title="Removes casts that are in the C language implicit. " alt="" coords="1116,1296,1311,1323"/>
+<area shape="rect" id="node191" href="$classllvmir2hll_1_1CopyPropagationOptimizer.html" title="Copy propagation optimization. " alt="" coords="1112,1347,1315,1389"/>
+<area shape="rect" id="node192" href="$classllvmir2hll_1_1DeadCodeOptimizer.html" title="Removes dead code. Examples are mentioned below. " alt="" coords="1102,1413,1325,1440"/>
+<area shape="rect" id="node193" href="$classllvmir2hll_1_1DeadGlobalAssignOptimizer.html" title="Elimination of dead assignments to global variables. " alt="" coords="1108,1465,1319,1506"/>
+<area shape="rect" id="node194" href="$classllvmir2hll_1_1DeadLocalAssignOptimizer.html" title="Elimination of dead assignments to local variables. " alt="" coords="1112,1530,1315,1571"/>
+<area shape="rect" id="node195" href="$classllvmir2hll_1_1DerefAddressOptimizer.html" title="Optimizes dereferences of addresses. " alt="" coords="1123,1595,1303,1637"/>
+<area shape="rect" id="node196" href="$classllvmir2hll_1_1EmptyStmtOptimizer.html" title="Removes empty statements. " alt="" coords="1099,1661,1328,1688"/>
+<area shape="rect" id="node197" href="$classllvmir2hll_1_1IfBeforeLoopOptimizer.html" title="Optimizes if statements before loops. " alt="" coords="1126,1713,1301,1754"/>
+<area shape="rect" id="node198" href="$classllvmir2hll_1_1IfStructureOptimizer.html" title="Optimizes the structure of if statements. " alt="" coords="1101,1779,1325,1805"/>
+<area shape="rect" id="node199" href="$classllvmir2hll_1_1IfToSwitchOptimizer.html" title="Optimizes if statements to switch statements. " alt="" coords="1102,1829,1325,1856"/>
+<area shape="rect" id="node200" href="$classllvmir2hll_1_1LLVMIntrinsicsOptimizer.html" title="Optimizes calls to LLVM intrinsic functions. " alt="" coords="1121,1881,1305,1922"/>
+<area shape="rect" id="node201" href="$classllvmir2hll_1_1LoopLastContinueOptimizer.html" title="Optimizes redundant continue statements in loops. " alt="" coords="1109,1946,1317,1987"/>
+<area shape="rect" id="node202" href="$classllvmir2hll_1_1NoInitVarDefOptimizer.html" title="Removes variable&#45;defining statements with no initializer. " alt="" coords="1126,2011,1301,2053"/>
+<area shape="rect" id="node203" href="$classllvmir2hll_1_1PreWhileTrueLoopConvOptimizer.html" title="Optimizes the bodies of while True loops to simplify other optimizations of these loops..." alt="" coords="1125,2077,1302,2118"/>
+<area shape="rect" id="node204" href="$classllvmir2hll_1_1RemoveAllCastsOptimizer.html" title="Removes all casts from a module. " alt="" coords="1114,2142,1313,2183"/>
+<area shape="rect" id="node205" href="$classllvmir2hll_1_1RemoveUselessCastsOptimizer.html" title="Removes useless casts from a module. " alt="" coords="1115,2207,1311,2249"/>
+<area shape="rect" id="node206" href="$classllvmir2hll_1_1SelfAssignOptimizer.html" title="Removes self assignments. " alt="" coords="1101,437,1325,464"/>
+<area shape="rect" id="node207" href="$classllvmir2hll_1_1SimpleCopyPropagationOptimizer.html" title="A simple version of the copy propagation optimization. " alt="" coords="1089,489,1337,530"/>
+<area shape="rect" id="node208" href="$classllvmir2hll_1_1UnreachableCodeOptimizer.html" title="Elimination of unreachable code. " alt="" coords="1110,554,1317,595"/>
+<area shape="rect" id="node209" href="$classllvmir2hll_1_1VarDefForLoopOptimizer.html" title="Optimizes VarDefStmts for induction variables of for loops. " alt="" coords="1120,619,1307,661"/>
+<area shape="rect" id="node210" href="$classllvmir2hll_1_1VarDefStmtOptimizer.html" title="Optimizes VarDefStmt to closest place of it&#39;s variable use. " alt="" coords="1098,685,1329,712"/>
+<area shape="rect" id="node211" href="$classllvmir2hll_1_1VoidReturnOptimizer.html" title="Optimizes redundant void returns. " alt="" coords="1100,736,1327,763"/>
+<area shape="rect" id="node212" href="$classllvmir2hll_1_1WhileTrueToForLoopOptimizer.html" title="Optimizes while loops into for loops. " alt="" coords="1118,787,1309,829"/>
+<area shape="rect" id="node213" href="$classllvmir2hll_1_1WhileTrueToUForLoopOptimizer.html" title="Optimizes while loops into universal for loops. " alt="" coords="1113,853,1313,894"/>
+<area shape="rect" id="node214" href="$classllvmir2hll_1_1WhileTrueToWhileCondOptimizer.html" title="Optimizes &quot;while true&quot; loops into &quot;while cond&quot; loops. " alt="" coords="1110,918,1317,959"/>
+<area shape="rect" id="node220" href="$classllvmir2hll_1_1StmtsPattern.html" title="A pattern that is composed of zero or more statements. " alt="" coords="823,3781,999,3808"/>
+<area shape="rect" id="node222" href="$classllvmir2hll_1_1APICallPatternFinder.html" title="Finds interesting API calls in a module. " alt="" coords="819,3898,1003,3939"/>
+<area shape="rect" id="node223" href="$classllvmir2hll_1_1APICallSeqPatternFinder.html" title="Finds sequences of interesting API calls in a module. " alt="" coords="807,3833,1015,3874"/>
+<area shape="rect" id="node225" href="$classllvmir2hll_1_1CompoundSemantics.html" title="A class providing compound semantics from several different semantics. " alt="" coords="796,4249,1027,4276"/>
+<area shape="rect" id="node226" href="$classllvmir2hll_1_1DefaultSemantics.html" title="A default semantics which doesn&#39;t know anything. " alt="" coords="807,4300,1015,4327"/>
+<area shape="rect" id="node227" href="$classllvmir2hll_1_1GCCGeneralSemantics.html" title="A general semantics for the GCC compiler. " alt="" coords="1094,4249,1333,4276"/>
+<area shape="rect" id="node228" href="$classllvmir2hll_1_1LibcSemantics.html" title="Semantics for the standard C library. " alt="" coords="1120,4300,1307,4327"/>
+<area shape="rect" id="node229" href="$classllvmir2hll_1_1WinAPISemantics.html" title="Semantics for Windows API. " alt="" coords="1110,4351,1317,4377"/>
+<area shape="rect" id="node235" href="$classllvmir2hll_1_1BoolComparisonSubOptimizer.html" title="Simplification of comparisons with true and false. " alt="" coords="812,2069,1011,2110"/>
+<area shape="rect" id="node236" href="$classllvmir2hll_1_1ChangeOrderOfOperandsSubOptimizer.html" title="This optimizer changes order of operands. Examples are mentioned below. " alt="" coords="815,2134,1007,2175"/>
+<area shape="rect" id="node237" href="$classllvmir2hll_1_1ConstOperatorConstSubOptimizer.html" title="This optimizer optimizes expressions where the first and the second operand is a constant. Examples are mentioned below. " alt="" coords="818,1573,1005,1614"/>
+<area shape="rect" id="node238" href="$classllvmir2hll_1_1EqualOperandsSubOptimizer.html" title="This optimizer changes expressions where the first and the second operand is same one..." alt="" coords="816,1638,1007,1679"/>
+<area shape="rect" id="node239" href="$classllvmir2hll_1_1NegationOperatorSubOptimizer.html" title="This optimizer optimizes negation operators outside of expressions. " alt="" coords="807,1703,1015,1745"/>
+<area shape="rect" id="node240" href="$classllvmir2hll_1_1NegativeOperandSubOptimizer.html" title="This optimizer changes expressions where one of the operands is negative. Examples are mentioned belo..." alt="" coords="808,1769,1015,1810"/>
+<area shape="rect" id="node241" href="$classllvmir2hll_1_1OneSubOptimizer.html" title="This optimizer changes expressions where one of the operands is a number one. Examples are mentioned ..." alt="" coords="808,1835,1015,1861"/>
+<area shape="rect" id="node242" href="$classllvmir2hll_1_1TernaryOperatorSubOptimizer.html" title="This optimizer optimizes ternary operator. Examples are mentioned below. " alt="" coords="813,1886,1010,1927"/>
+<area shape="rect" id="node243" href="$classllvmir2hll_1_1ThreeOperandsSubOptimizer.html" title="This optimizer changes expressions which have two operators and at least two operands are constants..." alt="" coords="816,1951,1007,1993"/>
+<area shape="rect" id="node244" href="$classllvmir2hll_1_1ZeroSubOptimizer.html" title="This optimizer changes expressions where one of the operands is a zero. Examples are mentioned below..." alt="" coords="806,2017,1017,2044"/>
+<area shape="rect" id="node253" href="$classllvmir2hll_1_1FruitVarNameGen.html" title="A generator of fruit names as variable names. " alt="" coords="808,3151,1015,3177"/>
+<area shape="rect" id="node254" href="$classllvmir2hll_1_1NumVarNameGen.html" title="A generator of variable names of the form prefixN, where N is a number. " alt="" coords="807,3201,1016,3228"/>
+<area shape="rect" id="node255" href="$classllvmir2hll_1_1WordVarNameGen.html" title="A generator of words as variable names. " alt="" coords="806,3252,1017,3279"/>
+<area shape="rect" id="node259" href="$classllvmir2hll_1_1Observer.html" title="llvmir2hll::Observer\l\&lt; Value \&gt;" alt="" coords="266,4790,417,4831"/>
+<area shape="rect" id="node260" href="$classllvmir2hll_1_1Subject.html" title="llvmir2hll::Subject\l\&lt; Value \&gt;" alt="" coords="271,4855,411,4897"/>
+<area shape="rect" id="node261" href="$classllvmir2hll_1_1ValidState.html" title="A mixin providing support for keeping the validity of an object. " alt="" coords="262,169,421,196"/>
+<area shape="rect" id="node262" href="$classllvmir2hll_1_1Visitable.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="267,4921,416,4948"/>
+<area shape="rect" id="node263" href="$classllvmir2hll_1_1Visitor.html" title="A base class of all visitors. " alt="" coords="31,2440,166,2467"/>
+<area shape="rect" id="node264" href="$classllvmir2hll_1_1OrderedAllVisitor.html" title="A visitor that visits everything in an ordered way. " alt="" coords="240,1292,443,1319"/>
+<area shape="rect" id="node279" href="$classllvmir2hll_1_1VisitorAdapter.html" title="A visitor whose visit methods do nothing by default. " alt="" coords="249,536,434,563"/>
+<area shape="rect" id="node265" href="$classllvmir2hll_1_1BracketManager.html" title="A base class of all brackets managers. " alt="" coords="513,351,711,377"/>
+<area shape="rect" id="node269" href="$classllvmir2hll_1_1Validator.html" title="A base class for all validators. " alt="" coords="537,485,687,512"/>
+<area shape="rect" id="node273" href="$classllvmir2hll_1_1VarRenamer.html" title="A base class for all variable renamers. " alt="" coords="527,187,697,213"/>
+<area shape="rect" id="node266" href="$classllvmir2hll_1_1CBracketManager.html" title="A class that contains precedence table and overrided methods which decide of elimination redundant br..." alt="" coords="808,325,1015,352"/>
+<area shape="rect" id="node267" href="$classllvmir2hll_1_1NoBracketManager.html" title="A class that that turns off eleminating redundant brackets. " alt="" coords="803,376,1019,403"/>
+<area shape="rect" id="node268" href="$classllvmir2hll_1_1PyBracketManager.html" title="A class that contains precedence table and overrided methods which decide of elimination redundant br..." alt="" coords="804,275,1019,301"/>
+<area shape="rect" id="node270" href="$classllvmir2hll_1_1BreakOutsideLoopValidator.html" title="A validator which checks that no break or continue statement appears where it should not appear..." alt="" coords="821,478,1001,519"/>
+<area shape="rect" id="node271" href="$classllvmir2hll_1_1NoGlobalVarDefValidator.html" title="A validator which checks that no global variable is defined in a VarDefStmt. " alt="" coords="813,543,1009,585"/>
+<area shape="rect" id="node272" href="$classllvmir2hll_1_1ReturnValidator.html" title="A validator which checks returns from functions. " alt="" coords="815,427,1007,453"/>
+<area shape="rect" id="node274" href="$classllvmir2hll_1_1AddressVarRenamer.html" title="A renamer of variable names which extracts and uses the original addresses of the variables..." alt="" coords="800,157,1023,184"/>
+<area shape="rect" id="node275" href="$classllvmir2hll_1_1HungarianVarRenamer.html" title="A renamer of variable names by using the Hungarian notation. " alt="" coords="821,209,1001,250"/>
+<area shape="rect" id="node276" href="$classllvmir2hll_1_1ReadableVarRenamer.html" title="A renamer of variable names which names them to make the code as readable as possible. " alt="" coords="796,5,1027,32"/>
+<area shape="rect" id="node277" href="$classllvmir2hll_1_1SimpleVarRenamer.html" title="A renamer of variable names which names them simply by using the given variable name generator..." alt="" coords="803,56,1019,83"/>
+<area shape="rect" id="node278" href="$classllvmir2hll_1_1UnifiedVarRenamer.html" title="A renamer of variable names which names the variables gX (global variables), aX (parameters), and vX (local variables). " alt="" coords="803,107,1020,133"/>
+</map>

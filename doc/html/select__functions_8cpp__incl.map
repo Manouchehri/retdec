@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/select_functions/select_functions.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/select_functions/select_functions.cpp">
+<area shape="rect" id="node7" href="$select__functions_8h.html" title="If ranges or functions are selected in config, remove bodies of all functions that are not selected..." alt="" coords="829,109,1011,165"/>
+<area shape="rect" id="node14" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="1246,124,1410,151"/>
+<area shape="rect" id="node21" href="$utils_8h.html" title="LLVM Utility functions. " alt="" coords="403,124,552,151"/>
+<area shape="rect" id="node11" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="843,213,997,255"/>
+</map>

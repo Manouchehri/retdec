@@ -1,0 +1,11 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/graphs/cg/cg_builder.h" name="/home/retdec/retdec/include/llvmir2hll/graphs/cg/cg_builder.h">
+<area shape="rect" id="node2" href="$cg__builder_8cpp.html" title="Implementation of CGBuilder. " alt="" coords="5,117,164,173"/>
+<area shape="rect" id="node3" href="$optimizer__manager_8cpp.html" title="Implementation of OptimizerManager. " alt="" coords="189,117,367,173"/>
+<area shape="rect" id="node4" href="$auxiliary__variables__optimizer_8cpp.html" title="Implementation of AuxiliaryVariablesOptimizer. " alt="" coords="392,109,615,180"/>
+<area shape="rect" id="node5" href="$copy__propagation__optimizer_8cpp.html" title="Implementation of CopyPropagationOptimizer. " alt="" coords="639,109,853,180"/>
+<area shape="rect" id="node6" href="$dead__global__assign__optimizer_8cpp.html" title="Implementation of DeadGlobalAssignOptimizer. " alt="" coords="878,109,1057,180"/>
+<area shape="rect" id="node7" href="$global__to__local__optimizer_8cpp.html" title="Implementation of GlobalToLocalOptimizer. " alt="" coords="1081,109,1278,180"/>
+<area shape="rect" id="node8" href="$simple__copy__propagation__optimizer_8cpp.html" title="Implementation of SimpleCopyPropagationOptimizer. " alt="" coords="1302,109,1505,180"/>
+<area shape="rect" id="node9" href="$unreachable__funcs__remover_8cpp.html" title="Implementation of UnreachableFuncsRemover. " alt="" coords="1529,117,1765,173"/>
+<area shape="rect" id="node10" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="1789,117,1943,173"/>
+</map>

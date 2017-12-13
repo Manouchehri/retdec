@@ -1,0 +1,11 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/optimizations/vtable/rtti_analysis.h" name="/home/retdec/retdec/include/bin2llvmir/optimizations/vtable/rtti_analysis.h">
+<area shape="rect" id="node2" href="$vtable_8h.html" title="Search for vtables in input file. " alt="" coords="343,124,503,195"/>
+<area shape="rect" id="node10" href="$rtti__analysis_8cpp.html" title="Search for RTTI in input file. " alt="" coords="527,131,735,187"/>
+<area shape="rect" id="node3" href="$hierarchy_8h.html" title="Represents class hierarchy. " alt="" coords="158,243,323,313"/>
+<area shape="rect" id="node4" href="$hierarchy__analysis_8h.html" title="Analyse results of other analyses to reconstruct class hierarchy. " alt="" coords="247,361,475,432"/>
+<area shape="rect" id="node7" href="$ctor__dtor_8h.html" title="Constructor and destructor detection analysis. " alt="" coords="399,243,576,313"/>
+<area shape="rect" id="node9" href="$vtable_8cpp.html" title="Search for vtables in input file. " alt="" coords="601,250,809,306"/>
+<area shape="rect" id="node6" href="$hierarchy_8cpp.html" title="Represents class hierarchy. " alt="" coords="5,369,223,425"/>
+<area shape="rect" id="node5" href="$hierarchy__analysis_8cpp.html" title="Analyse results of other analyses to reconstruct class hierarchy. " alt="" coords="257,480,465,551"/>
+<area shape="rect" id="node8" href="$ctor__dtor_8cpp.html" title="Constructor and destructor detection analysis. " alt="" coords="499,369,707,425"/>
+</map>

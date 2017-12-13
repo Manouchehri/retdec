@@ -1,0 +1,9 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/analysis/var_uses_visitor.h" name="/home/retdec/retdec/include/llvmir2hll/analysis/var_uses_visitor.h">
+<area shape="rect" id="node2" href="$def__use__analysis_8cpp.html" title="Implementation of DefUseAnalysis. " alt="" coords="5,117,175,173"/>
+<area shape="rect" id="node3" href="$var__uses__visitor_8cpp.html" title="Implementation of VarUsesVisitor. " alt="" coords="199,117,368,173"/>
+<area shape="rect" id="node4" href="$copy__propagation__optimizer_8cpp.html" title="Implementation of CopyPropagationOptimizer. " alt="" coords="392,109,607,180"/>
+<area shape="rect" id="node5" href="$dead__local__assign__optimizer_8cpp.html" title="Implementation of DeadLocalAssignOptimizer. " alt="" coords="631,109,850,180"/>
+<area shape="rect" id="node6" href="$global__to__local__optimizer_8cpp.html" title="Implementation of GlobalToLocalOptimizer. " alt="" coords="874,109,1071,180"/>
+<area shape="rect" id="node7" href="$pre__while__true__loop__conv__optimizer_8cpp.html" title="Implementation of PreWhileTrueLoopConvOptimizer. " alt="" coords="1095,109,1290,180"/>
+<area shape="rect" id="node8" href="$simple__copy__propagation__optimizer_8cpp.html" title="Implementation of SimpleCopyPropagationOptimizer. " alt="" coords="1314,109,1517,180"/>
+</map>

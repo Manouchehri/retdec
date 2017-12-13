@@ -1,0 +1,10 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/ir/const_null_pointer.h" name="/home/retdec/retdec/include/llvmir2hll/ir/const_null_pointer.h">
+<area shape="rect" id="node2" href="$constant_8h.html" title="A base class for all constants. " alt="" coords="68,109,237,136"/>
+<area shape="rect" id="node10" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="577,423,715,464"/>
+<area shape="rect" id="node3" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="65,184,249,211"/>
+<area shape="rect" id="node4" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="669,259,818,285"/>
+<area shape="rect" id="node8" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="1183,333,1320,375"/>
+<area shape="rect" id="node9" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="577,333,715,375"/>
+<area shape="rect" id="node13" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="1021,333,1159,375"/>
+<area shape="rect" id="node16" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="199,333,336,375"/>
+</map>

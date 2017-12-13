@@ -1,0 +1,14 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/graphs/cfg/cfg_traversal.cpp" name="/home/retdec/retdec/src/llvmir2hll/graphs/cfg/cfg_traversal.cpp">
+<area shape="rect" id="node2" href="$cfg__traversal_8h.html" title="A base class of all CFG traversals. " alt="" coords="500,199,656,240"/>
+<area shape="rect" id="node16" href="$empty__stmt_8h.html" title="An empty statement (like NOP). " alt="" coords="983,109,1126,151"/>
+<area shape="rect" id="node26" href="$debug_8h.html" title="Debugging support. " alt="" coords="1631,109,1768,151"/>
+<area shape="rect" id="node3" href="$cfg_8h.html" title="A representation of a control&#45;flow graph (CFG). " alt="" coords="320,288,476,329"/>
+<area shape="rect" id="node8" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1010,467,1147,508"/>
+<area shape="rect" id="node10" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="167,377,304,419"/>
+<area shape="rect" id="node17" href="$statement_8h.html" title="A representation of a program statement. " alt="" coords="724,206,904,233"/>
+<area shape="rect" id="node18" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="1158,295,1308,322"/>
+<area shape="rect" id="node21" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="1206,377,1343,419"/>
+<area shape="rect" id="node22" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="1528,377,1666,419"/>
+<area shape="rect" id="node23" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="903,377,1040,419"/>
+<area shape="rect" id="node25" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="1367,377,1504,419"/>
+</map>

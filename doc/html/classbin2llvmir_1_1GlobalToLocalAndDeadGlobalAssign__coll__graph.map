@@ -1,0 +1,19 @@
+<map id="bin2llvmir::GlobalToLocalAndDeadGlobalAssign" name="bin2llvmir::GlobalToLocalAndDeadGlobalAssign">
+<area shape="rect" id="node3" href="$classbin2llvmir_1_1StoreLoadAnalysis.html" title="Analysis that finds out relations between load and store instructions. " alt="" coords="2592,416,2808,443"/>
+<area shape="rect" id="node24" href="$classbin2llvmir_1_1GlobalToLocalAndDeadGlobalAssign_1_1FuncInfo.html" title="Class for function info. " alt="" coords="2999,539,3227,581"/>
+<area shape="rect" id="node5" href="$classbin2llvmir_1_1StoreLoadAnalysis_1_1BBInfo.html" title="Class for basic block info. " alt="" coords="1699,246,1915,287"/>
+<area shape="rect" id="node6" href="$classbin2llvmir_1_1AnalysisInfo.html" title="Contains some support for info that is contained by analysis. " alt="" coords="1217,167,1393,193"/>
+<area shape="rect" id="node16" href="$classbin2llvmir_1_1StoreLoadAnalysis_1_1FuncInfo.html" title="Class for function info. " alt="" coords="1699,50,1915,91"/>
+<area shape="rect" id="node7" href="$classbin2llvmir_1_1AnalysisInfo_1_1ValInstSetMap.html" title="Class that has one storage which is map where instruction set is mapped by value. This class implemen..." alt="" coords="793,221,969,262"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="128,120,237,147"/>
+<area shape="rect" id="node13" href="$classbin2llvmir_1_1FuncTraversalAnalysis.html" title="Post&#45;order traversal analysis for functions. " alt="" coords="2153,415,2337,457"/>
+<area shape="rect" id="node14" href="$classbin2llvmir_1_1TraversalAnalysis.html" title="Base class for traversal analyses. " alt="" coords="1701,423,1912,449"/>
+<area shape="rect" id="node21" href="$classbin2llvmir_1_1BBTraversalAnalysis.html" title="Post&#45;order traversal analysis for basic blocks. " alt="" coords="2131,364,2359,391"/>
+<area shape="rect" id="node15" href="$structbin2llvmir_1_1TraversalAnalysis_1_1Node.html" title="One node in linked list. " alt="" coords="1200,421,1411,462"/>
+<area shape="rect" id="node26" title="STL class. " alt="" coords="2202,813,2289,840"/>
+<area shape="rect" id="node34" href="$classbin2llvmir_1_1Config.html" title="bin2llvmir::Config" alt="" coords="2835,825,2972,852"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="1737,806,1876,847"/>
+<area shape="rect" id="node28" href="$classbin2llvmir_1_1UsesAnalysis.html" title="Analysis that provides support for getting information about uses of LLVM IR values. " alt="" coords="2154,600,2337,627"/>
+<area shape="rect" id="node30" href="$classbin2llvmir_1_1UsesAnalysis_1_1BBUses.html" title="bin2llvmir::UsesAnalysis\l::BBUses" alt="" coords="1214,598,1397,639"/>
+<area shape="rect" id="node32" href="$structbin2llvmir_1_1UsesAnalysis_1_1UseInfo.html" title="Structure to save info about use. " alt="" coords="351,598,533,639"/>
+</map>

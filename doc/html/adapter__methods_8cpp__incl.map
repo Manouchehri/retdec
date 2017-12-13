@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/adapter_methods/adapter_methods.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/adapter_methods/adapter_methods.cpp">
+<area shape="rect" id="node11" href="$adapter__methods_8h.html" title="Detection of C++ adapter metods created by compiler. " alt="" coords="1449,109,1643,165"/>
+<area shape="rect" id="node18" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="1013,124,1177,151"/>
+<area shape="rect" id="node25" href="$utils_8h.html" title="LLVM Utility functions. " alt="" coords="249,124,398,151"/>
+<area shape="rect" id="node15" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1944,213,2097,255"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/semantics/semantics/default_semantics.h" name="/home/retdec/retdec/include/llvmir2hll/semantics/semantics/default_semantics.h">
+<area shape="rect" id="node2" href="$gcc__general__semantics_8h.html" title="A general semantics for the GCC compiler. " alt="" coords="84,124,275,195"/>
+<area shape="rect" id="node4" href="$libc__semantics_8h.html" title="Semantics for the standard C library. " alt="" coords="335,124,499,195"/>
+<area shape="rect" id="node6" href="$win__api__semantics_8h.html" title="Semantics for Windows API. " alt="" coords="523,124,687,195"/>
+<area shape="rect" id="node8" href="$default__semantics_8cpp.html" title="Implementation of DefaultSemantics. " alt="" coords="711,131,955,187"/>
+<area shape="rect" id="node9" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="979,131,1132,187"/>
+<area shape="rect" id="node3" href="$gcc__general__semantics_8cpp.html" title="Implementation of GCCGeneralSemantics. " alt="" coords="5,243,281,299"/>
+<area shape="rect" id="node5" href="$libc__semantics_8cpp.html" title="Implementation of LibcSemantics. " alt="" coords="306,243,527,299"/>
+<area shape="rect" id="node7" href="$win__api__semantics_8cpp.html" title="Implementation of WinAPISemantics. " alt="" coords="551,243,799,299"/>
+</map>

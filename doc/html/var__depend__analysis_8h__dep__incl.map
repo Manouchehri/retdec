@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/analyses/var_depend_analysis.h" name="/home/retdec/retdec/include/bin2llvmir/analyses/var_depend_analysis.h">
+<area shape="rect" id="node2" href="$phi2seq_8h.html" title="Solves parallel processing of PHI nodes. " alt="" coords="24,124,195,195"/>
+<area shape="rect" id="node4" href="$var__depend__analysis_8cpp.html" title="Implementation of VarDependAnalysis. " alt="" coords="219,131,410,187"/>
+<area shape="rect" id="node3" href="$phi2seq_8cpp.html" title="Implementation of PHI2seq. " alt="" coords="5,243,213,299"/>
+</map>

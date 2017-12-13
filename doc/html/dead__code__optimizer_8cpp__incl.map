@@ -1,0 +1,32 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/dead_code_optimizer.cpp" name="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/dead_code_optimizer.cpp">
+<area shape="rect" id="node2" href="$goto__target__analysis_8h.html" title="Analysis of goto targets. " alt="" coords="2798,392,2973,433"/>
+<area shape="rect" id="node17" href="$arithm__expr__evaluator_8h.html" title="A base class for all evaluators. " alt="" coords="1493,213,1678,255"/>
+<area shape="rect" id="node21" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="1239,593,1388,619"/>
+<area shape="rect" id="node31" href="$const__float_8h.html" title="A float constant. " alt="" coords="943,303,1079,344"/>
+<area shape="rect" id="node34" href="$const__int_8h.html" title="An integer constant. " alt="" coords="2272,303,2408,344"/>
+<area shape="rect" id="node38" href="$debug_8h.html" title="Debugging support. " alt="" coords="43,392,181,433"/>
+<area shape="rect" id="node40" href="$break__stmt_8h.html" title="A break statement to exit a loop or a switch case. " alt="" coords="2709,213,2848,255"/>
+<area shape="rect" id="node42" href="$continue__stmt_8h.html" title="A continue statement to continue looping. " alt="" coords="2235,117,2392,158"/>
+<area shape="rect" id="node43" href="$for__loop__stmt_8h.html" title="A for loop statement. " alt="" coords="1783,392,1937,433"/>
+<area shape="rect" id="node44" href="$return__stmt_8h.html" title="A return statement. " alt="" coords="358,392,498,433"/>
+<area shape="rect" id="node45" href="$switch__stmt_8h.html" title="A switch statement. " alt="" coords="654,303,797,344"/>
+<area shape="rect" id="node47" href="$while__loop__stmt_8h.html" title="A while loop statement. " alt="" coords="1961,392,2097,433"/>
+<area shape="rect" id="node48" href="$dead__code__optimizer_8h.html" title="Removes dead code. " alt="" coords="458,109,627,165"/>
+<area shape="rect" id="node3" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1415,764,1553,805"/>
+<area shape="rect" id="node6" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="2401,585,2538,627"/>
+<area shape="rect" id="node14" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="2739,481,2890,537"/>
+<area shape="rect" id="node15" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="2746,585,2883,627"/>
+<area shape="rect" id="node19" href="$cast__expr_8h.html" title="Base class for cast instructions. " alt="" coords="1529,392,1657,433"/>
+<area shape="rect" id="node29" href="$const__bool_8h.html" title="A bool constant. " alt="" coords="1312,303,1448,344"/>
+<area shape="rect" id="node30" href="$constant_8h.html" title="A base class for all constants. " alt="" coords="1335,399,1505,426"/>
+<area shape="rect" id="node37" href="$maybe_8h.html" title="A simple implementation of the Maybe monad from Haskell. " alt="" coords="201,303,338,344"/>
+<area shape="rect" id="node20" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="1204,496,1388,523"/>
+<area shape="rect" id="node28" href="$llvmir2hll_2ir_2type_8h.html" title="A base class of all types. " alt="" coords="1463,496,1606,523"/>
+<area shape="rect" id="node24" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="1094,675,1231,716"/>
+<area shape="rect" id="node25" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="1255,675,1393,716"/>
+<area shape="rect" id="node26" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="1469,675,1606,716"/>
+<area shape="rect" id="node27" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="843,675,981,716"/>
+<area shape="rect" id="node41" href="$statement_8h.html" title="A representation of a program statement. " alt="" coords="1939,496,2119,523"/>
+<area shape="rect" id="node49" href="$if__stmt_8h.html" title="An if/else&#45;if/else statement. " alt="" coords="463,310,622,337"/>
+<area shape="rect" id="node50" href="$func__optimizer_8h.html" title="A base class of all function optimizers. " alt="" coords="334,213,485,255"/>
+</map>

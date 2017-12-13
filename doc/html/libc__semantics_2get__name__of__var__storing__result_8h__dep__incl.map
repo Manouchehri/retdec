@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/semantics/semantics/libc_semantics/get_name_of_var_storing_result.h" name="/home/retdec/retdec/include/llvmir2hll/semantics/semantics/libc_semantics/get_name_of_var_storing_result.h">
+<area shape="rect" id="node2" href="$gcc__general__semantics_2get__name__of__var__storing__result_8cpp.html" title="Implementation of semantics::gcc_general::getNameOfVarStoringResult() for GCCGeneralSemantics. " alt="" coords="5,139,268,209"/>
+<area shape="rect" id="node3" href="$libc__semantics_2get__name__of__var__storing__result_8cpp.html" title="Implementation of semantics::libc::getNameOfVarStoringResult() for LibcSemantics. ..." alt="" coords="292,139,555,209"/>
+<area shape="rect" id="node4" href="$libc__semantics_8cpp.html" title="Implementation of LibcSemantics. " alt="" coords="579,146,801,202"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvmir2hll::StructType" name="llvmir2hll::StructType">
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1Type.html" title="A base class of all types. " alt="" coords="926,112,1049,139"/>
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1Value.html" title="A base class of all objects a module can contain. " alt="" coords="740,167,868,193"/>
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1Visitable.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="525,57,675,84"/>
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1Metadatable.html" title="llvmir2hll::Metadatable\l\&lt; std::string \&gt;" alt="" coords="513,159,687,201"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="249,47,336,73"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="5,39,144,81"/>
+<area shape="rect" id="node8" href="$classllvmir2hll_1_1SharableFromThis.html" title="llvmir2hll::SharableFrom\lThis\&lt; Value \&gt;" alt="" coords="509,225,691,266"/>
+<area shape="rect" id="node10" href="$classllvmir2hll_1_1Observer.html" title="llvmir2hll::Observer\l\&lt; Value \&gt;" alt="" coords="525,290,675,331"/>
+<area shape="rect" id="node11" href="$classllvmir2hll_1_1Subject.html" title="llvmir2hll::Subject\l\&lt; Value \&gt;" alt="" coords="530,355,670,397"/>
+</map>

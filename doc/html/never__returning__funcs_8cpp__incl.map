@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/never_returning_funcs/never_returning_funcs.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/never_returning_funcs/never_returning_funcs.cpp">
+<area shape="rect" id="node6" href="$never__returning__funcs_8h.html" title="Adds unreachable instruction after function that never returns. " alt="" coords="721,124,904,180"/>
+<area shape="rect" id="node19" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1092,131,1245,173"/>
+<area shape="rect" id="node10" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="731,228,895,255"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/support/singleton.h" name="/home/retdec/retdec/include/llvmir2hll/support/singleton.h">
+<area shape="rect" id="node2" href="$alias__analysis__factory_8h.html" title="Factory that creates instances of classes derived from AliasAnalysis. " alt="" coords="540,117,721,187"/>
+<area shape="rect" id="node6" href="$arithm__expr__evaluator__factory_8h.html" title="Factory that creates instances of classes derived from ArithmExprEvaluator. " alt="" coords="1291,117,1461,187"/>
+<area shape="rect" id="node9" href="$cfg__writer__factory_8h.html" title="Factory that creates instances of classes derived from CFGWriter. " alt="" coords="1757,117,1920,187"/>
+<area shape="rect" id="node11" href="$cg__writer__factory_8h.html" title="Factory that creates instances of classes derived from CGWriter. " alt="" coords="1945,117,2098,187"/>
+<area shape="rect" id="node13" href="$hll__writer__factory_8h.html" title="Factory that creates instances of classes derived from HLLWriter. " alt="" coords="2123,124,2293,180"/>
+<area shape="rect" id="node16" href="$llvmir2bir__converter__factory_8h.html" title="Factory that creates instances of classes derived from LLVMIR2BIRConverter. " alt="" coords="2318,117,2509,187"/>
+<area shape="rect" id="node19" href="$call__info__obtainer__factory_8h.html" title="Factory that creates instances of classes derived from CallInfoObtainer. " alt="" coords="2533,117,2733,187"/>
+<area shape="rect" id="node22" href="$sub__optimizer__factory_8h.html" title="Factory that creates instances of classes derived from SubOptimizer. " alt="" coords="7371,109,7552,195"/>
+<area shape="rect" id="node27" href="$pattern__finder__factory_8h.html" title="Factory that creates instances of classes derived from PatternFinder. " alt="" coords="2859,117,3027,187"/>
+<area shape="rect" id="node30" href="$semantics__factory_8h.html" title="Factory that creates instances of classes derived from Semantics. " alt="" coords="3819,117,3983,187"/>
+<area shape="rect" id="node37" href="$validator__factory_8h.html" title="Factory that creates instances of classes derived from Validator. " alt="" coords="5015,117,5169,187"/>
+<area shape="rect" id="node41" href="$var__name__gen__factory_8h.html" title="Factory that creates instances of classes derived from VarNameGen. " alt="" coords="5677,117,5867,187"/>
+<area shape="rect" id="node45" href="$var__renamer__factory_8h.html" title="Factory that creates instances of classes derived from VarRenamer. " alt="" coords="6573,117,6769,187"/>
+<area shape="rect" id="node3" href="$basic__alias__analysis_8cpp.html" title="Implementation of BasicAliasAnalysis. " alt="" coords="5,250,224,321"/>
+<area shape="rect" id="node4" href="$simple__alias__analysis_8cpp.html" title="Implementation SimpleAliasAnalysis. " alt="" coords="248,250,467,321"/>
+<area shape="rect" id="node5" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="2337,257,2490,313"/>
+<area shape="rect" id="node7" href="$c__arithm__expr__evaluator_8cpp.html" title="Implementation of CArithmExprEvaluator. " alt="" coords="491,250,706,321"/>
+<area shape="rect" id="node8" href="$strict__arithm__expr__evaluator_8cpp.html" title="Implementation of StrictArithmExprEvaluator. " alt="" coords="731,250,971,321"/>
+<area shape="rect" id="node10" href="$graphviz__cfg__writer_8cpp.html" title="Implementation of GraphvizCFGWriter. " alt="" coords="995,250,1178,321"/>
+<area shape="rect" id="node12" href="$graphviz__cg__writer_8cpp.html" title="Implementation of GraphvizCGWriter. " alt="" coords="1202,250,1374,321"/>
+<area shape="rect" id="node14" href="$c__hll__writer_8cpp.html" title="Implementation of CHLLWriter. " alt="" coords="1398,257,1597,313"/>
+<area shape="rect" id="node15" href="$py__hll__writer_8cpp.html" title="Implementation of PyHLLWriter. " alt="" coords="1621,257,1829,313"/>
+<area shape="rect" id="node17" href="$new__llvmir2bir__converter_8cpp.html" title="Implementation of NewLLVMIR2BIRConverter. " alt="" coords="1853,250,2072,321"/>
+<area shape="rect" id="node18" href="$orig__llvmir2bir__converter_8cpp.html" title="Implementation of OrigLLVMIR2BIRConverter. " alt="" coords="2096,250,2312,321"/>
+<area shape="rect" id="node20" href="$optim__call__info__obtainer_8cpp.html" title="Implementation of OptimCallInfoObtainer. " alt="" coords="2514,250,2705,321"/>
+<area shape="rect" id="node21" href="$pessim__call__info__obtainer_8cpp.html" title="Implementation of PessimCallInfoObtainer. " alt="" coords="2729,250,2929,321"/>
+<area shape="rect" id="node23" href="$sub__optimizer_8h.html" title="A base class for all simplify arithmetical expression optimizations. " alt="" coords="7517,243,7683,328"/>
+<area shape="rect" id="node25" href="$bool__comparison__optimizer_8cpp.html" title="Implementation of BoolComparisonSubOptimizer. " alt="" coords="7513,524,7781,595"/>
+<area shape="rect" id="node24" href="$bool__comparison__optimizer_8h.html" title="Simplification of comparisons with true and false. " alt="" coords="7725,383,7942,469"/>
+<area shape="rect" id="node26" href="$change__order__of__operands__sub__optimizer_8h.html" title="A sub&#45;optimization class that change order of operand. " alt="" coords="7499,376,7701,476"/>
+<area shape="rect" id="node28" href="$api__call__pattern__finder_8cpp.html" title="Implementation of APICallPatternFinder. " alt="" coords="2953,250,3132,321"/>
+<area shape="rect" id="node29" href="$api__call__seq__pattern__finder_8cpp.html" title="Implementation of APICallSeqPatternFinder. " alt="" coords="3156,250,3335,321"/>
+<area shape="rect" id="node31" href="$compound__semantics_8cpp.html" title="Implementation of CompoundSemantics. " alt="" coords="3359,257,3625,313"/>
+<area shape="rect" id="node32" href="$compound__semantics__builder_8cpp.html" title="Implementation of CompoundSemanticsBuilder. " alt="" coords="3650,250,3889,321"/>
+<area shape="rect" id="node33" href="$default__semantics_8cpp.html" title="Implementation of DefaultSemantics. " alt="" coords="3913,257,4157,313"/>
+<area shape="rect" id="node34" href="$gcc__general__semantics_8cpp.html" title="Implementation of GCCGeneralSemantics. " alt="" coords="4181,257,4457,313"/>
+<area shape="rect" id="node35" href="$libc__semantics_8cpp.html" title="Implementation of LibcSemantics. " alt="" coords="4481,257,4703,313"/>
+<area shape="rect" id="node36" href="$win__api__semantics_8cpp.html" title="Implementation of WinAPISemantics. " alt="" coords="4727,257,4975,313"/>
+<area shape="rect" id="node38" href="$break__outside__loop__validator_8cpp.html" title="An implementation of the validator which checks that no break or continue statement appears where it ..." alt="" coords="4999,250,5185,321"/>
+<area shape="rect" id="node39" href="$no__global__var__def__validator_8cpp.html" title="Implementation of NoGlobalVarDefValidator. " alt="" coords="5209,250,5396,321"/>
+<area shape="rect" id="node40" href="$return__validator_8cpp.html" title="An implementation of the validator which checks returns from functions. " alt="" coords="5421,257,5646,313"/>
+<area shape="rect" id="node42" href="$fruit__var__name__gen_8cpp.html" title="Implementation of FruitVarNameGen. " alt="" coords="5670,250,5874,321"/>
+<area shape="rect" id="node43" href="$num__var__name__gen_8cpp.html" title="Implementation of NumVarNameGen. " alt="" coords="5898,250,6102,321"/>
+<area shape="rect" id="node44" href="$word__var__name__gen_8cpp.html" title="Implementation of WordVarNameGen. " alt="" coords="6126,250,6330,321"/>
+<area shape="rect" id="node46" href="$address__var__renamer_8cpp.html" title="Implementation of AddressVarRenamer. " alt="" coords="6999,250,7193,321"/>
+<area shape="rect" id="node47" href="$hungarian__var__renamer_8cpp.html" title="Implementation of HungarianVarRenamer. " alt="" coords="7217,250,7423,321"/>
+<area shape="rect" id="node48" href="$readable__var__renamer_8cpp.html" title="Implementation of ReadableVarRenamer. " alt="" coords="6354,250,6553,321"/>
+<area shape="rect" id="node49" href="$simple__var__renamer_8cpp.html" title="Implementation of SimpleVarRenamer. " alt="" coords="6577,250,6764,321"/>
+<area shape="rect" id="node50" href="$unified__var__renamer_8cpp.html" title="Implementation of UnifiedVarRenamer. " alt="" coords="6788,250,6975,321"/>
+</map>

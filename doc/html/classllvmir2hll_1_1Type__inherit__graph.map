@@ -1,0 +1,17 @@
+<map id="llvmir2hll::Type" name="llvmir2hll::Type">
+<area shape="rect" id="node10" href="$classllvmir2hll_1_1ArrayType.html" title="A representation of an array type. " alt="" coords="799,5,957,32"/>
+<area shape="rect" id="node11" href="$classllvmir2hll_1_1FloatType.html" title="A representation of an float point type. " alt="" coords="801,56,955,83"/>
+<area shape="rect" id="node12" href="$classllvmir2hll_1_1FunctionType.html" title="A representation of a function type. " alt="" coords="790,107,966,133"/>
+<area shape="rect" id="node13" href="$classllvmir2hll_1_1IntType.html" title="A representation of an integer type. " alt="" coords="809,157,947,184"/>
+<area shape="rect" id="node14" href="$classllvmir2hll_1_1PointerType.html" title="A representation of a pointer type. " alt="" coords="794,208,962,235"/>
+<area shape="rect" id="node15" href="$classllvmir2hll_1_1StringType.html" title="A representation of a string type. " alt="" coords="798,259,958,285"/>
+<area shape="rect" id="node16" href="$classllvmir2hll_1_1StructType.html" title="A representation of a structured type. " alt="" coords="798,309,958,336"/>
+<area shape="rect" id="node17" href="$classllvmir2hll_1_1UnknownType.html" title="A representation of an Unknown type. " alt="" coords="787,360,969,387"/>
+<area shape="rect" id="node18" href="$classllvmir2hll_1_1VoidType.html" title="A representation of an void type. " alt="" coords="803,411,953,437"/>
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1Value.html" title="A base class of all objects a module can contain. " alt="" coords="440,208,568,235"/>
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1Visitable.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="227,51,376,77"/>
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1Metadatable.html" title="llvmir2hll::Metadatable\l\&lt; std::string \&gt;" alt="" coords="215,102,388,143"/>
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1SharableFromThis.html" title="llvmir2hll::SharableFrom\lThis\&lt; Value \&gt;" alt="" coords="211,167,392,209"/>
+<area shape="rect" id="node7" href="$classllvmir2hll_1_1Observer.html" title="llvmir2hll::Observer\l\&lt; Value \&gt;" alt="" coords="226,233,377,274"/>
+<area shape="rect" id="node8" href="$classllvmir2hll_1_1Subject.html" title="llvmir2hll::Subject\l\&lt; Value \&gt;" alt="" coords="231,298,371,339"/>
+</map>

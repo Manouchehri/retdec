@@ -1,0 +1,4 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/optimizations/globals/dead_global_assign.h" name="/home/retdec/retdec/include/bin2llvmir/optimizations/globals/dead_global_assign.h">
+<area shape="rect" id="node2" href="$dead__global__assign_8cpp.html" title="Implementation of DeadGlobalAssign optimizer. " alt="" coords="5,131,237,187"/>
+<area shape="rect" id="node3" href="$global__to__local__and__dead__global__assign_8cpp.html" title="Implementation of GlobalToLocalAndDeadGlobalAssign optimizer. " alt="" coords="261,124,469,195"/>
+</map>

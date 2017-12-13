@@ -1,0 +1,5 @@
+<map id="llvmir2hll::UsedVarsVisitor" name="llvmir2hll::UsedVarsVisitor">
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1OrderedAllVisitor.html" title="A visitor that visits everything in an ordered way. " alt="" coords="188,5,391,32"/>
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1Visitor.html" title="A base class of all visitors. " alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1Caching.html" title="llvmir2hll::Caching\l\&lt; ShPtr\&lt; Value \&gt;, ShPtr\l\&lt; UsedVars \&gt; \&gt;" alt="" coords="200,107,379,163"/>
+</map>

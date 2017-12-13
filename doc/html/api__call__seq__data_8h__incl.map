@@ -1,0 +1,8 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/pattern/pattern_finders/api_call/api_call_seq_data.h" name="/home/retdec/retdec/include/llvmir2hll/pattern/pattern_finders/api_call/api_call_seq_data.h">
+<area shape="rect" id="node2" href="$api__call__info_8h.html" title="A representation of information about an API call. " alt="" coords="175,228,326,284"/>
+<area shape="rect" id="node19" href="$api__call__info__seq_8h.html" title="A sequence of information about API calls. " alt="" coords="225,124,405,180"/>
+<area shape="rect" id="node5" href="$maybe_8h.html" title="A simple implementation of the Maybe monad from Haskell. " alt="" coords="837,332,974,373"/>
+<area shape="rect" id="node11" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="265,332,402,373"/>
+<area shape="rect" id="node8" href="$debug_8h.html" title="Debugging support. " alt="" coords="994,421,1131,463"/>
+<area shape="rect" id="node17" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="481,421,618,463"/>
+</map>

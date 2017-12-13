@@ -1,0 +1,15 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/analyses/symbolic_tree.h" name="/home/retdec/retdec/include/bin2llvmir/analyses/symbolic_tree.h">
+<area shape="rect" id="node2" href="$control__flow_8h.html" title="Reconstruct control flow. " alt="" coords="615,109,779,180"/>
+<area shape="rect" id="node8" href="$register_8h.html" title="Solve register pseudo functions. " alt="" coords="1193,109,1362,180"/>
+<area shape="rect" id="node10" href="$stack_8h.html" title="Reconstruct stack. " alt="" coords="1387,109,1541,180"/>
+<area shape="rect" id="node12" href="$symbolic__tree_8cpp.html" title="Construction of symbolic tree from the given node. " alt="" coords="1566,117,1743,173"/>
+<area shape="rect" id="node13" href="$cond__branch__opt_8cpp.html" title="Conditional branch optimization. " alt="" coords="1768,117,2045,173"/>
+<area shape="rect" id="node14" href="$constants_8cpp.html" title="Composite type reconstruction analysis. " alt="" coords="2069,117,2277,173"/>
+<area shape="rect" id="node3" href="$control__flow_2arm_8cpp.html" title="Reconstruct control flow – ARM specific module. " alt="" coords="5,228,213,284"/>
+<area shape="rect" id="node4" href="$control__flow_8cpp.html" title="Reconstruct control flow. " alt="" coords="238,228,453,284"/>
+<area shape="rect" id="node5" href="$control__flow_2mips_8cpp.html" title="Reconstruct control flow – MIPS specific module. " alt="" coords="477,228,685,284"/>
+<area shape="rect" id="node6" href="$powerpc_8cpp.html" title="Reconstruct control flow – PowerPC specific module. " alt="" coords="709,228,917,284"/>
+<area shape="rect" id="node7" href="$control__flow_2x86_8cpp.html" title="Reconstruct control flow – x86 specific module. " alt="" coords="941,228,1149,284"/>
+<area shape="rect" id="node9" href="$register_8cpp.html" title="Solve register pseudo functions. " alt="" coords="1173,228,1381,284"/>
+<area shape="rect" id="node11" href="$stack_8cpp.html" title="Reconstruct stack. " alt="" coords="1405,228,1613,284"/>
+</map>

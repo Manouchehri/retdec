@@ -1,0 +1,15 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/var_renamer/var_renamer.h" name="/home/retdec/retdec/include/llvmir2hll/var_renamer/var_renamer.h">
+<area shape="rect" id="node2" href="$var__renamer__factory_8h.html" title="Factory that creates instances of classes derived from VarRenamer. " alt="" coords="686,109,882,180"/>
+<area shape="rect" id="node8" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="1273,235,1426,291"/>
+<area shape="rect" id="node9" href="$address__var__renamer_8h.html" title="A renamer of variable names which extracts and uses the original addresses of the variables..." alt="" coords="5,109,208,180"/>
+<area shape="rect" id="node10" href="$hungarian__var__renamer_8h.html" title="A renamer of variable names by using the Hungarian notation. " alt="" coords="232,109,435,180"/>
+<area shape="rect" id="node11" href="$readable__var__renamer_8h.html" title="A renamer of variable names which names them to make the code as readable as possible. " alt="" coords="459,109,661,180"/>
+<area shape="rect" id="node12" href="$simple__var__renamer_8h.html" title="A renamer of variable names which names them simply by using the given variable name generator..." alt="" coords="907,109,1109,180"/>
+<area shape="rect" id="node13" href="$unified__var__renamer_8h.html" title="A renamer of variable names which names the variables gX (global variables), aX (parameters), and vX (local variables). " alt="" coords="1133,109,1336,180"/>
+<area shape="rect" id="node14" href="$var__renamer_8cpp.html" title="Implementation of VarRenamer. " alt="" coords="1411,117,1608,173"/>
+<area shape="rect" id="node3" href="$address__var__renamer_8cpp.html" title="Implementation of AddressVarRenamer. " alt="" coords="11,228,205,299"/>
+<area shape="rect" id="node4" href="$hungarian__var__renamer_8cpp.html" title="Implementation of HungarianVarRenamer. " alt="" coords="230,228,437,299"/>
+<area shape="rect" id="node5" href="$readable__var__renamer_8cpp.html" title="Implementation of ReadableVarRenamer. " alt="" coords="463,228,662,299"/>
+<area shape="rect" id="node6" href="$simple__var__renamer_8cpp.html" title="Implementation of SimpleVarRenamer. " alt="" coords="713,228,900,299"/>
+<area shape="rect" id="node7" href="$unified__var__renamer_8cpp.html" title="Implementation of UnifiedVarRenamer. " alt="" coords="969,228,1156,299"/>
+</map>

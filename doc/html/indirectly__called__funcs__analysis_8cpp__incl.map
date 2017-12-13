@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/analyses/indirectly_called_funcs_analysis.cpp" name="/home/retdec/retdec/src/bin2llvmir/analyses/indirectly_called_funcs_analysis.cpp">
+<area shape="rect" id="node3" href="$indirectly__called__funcs__analysis_8h.html" title="Indirect calls analysis. " alt="" coords="567,124,741,180"/>
+<area shape="rect" id="node15" href="$instruction_8h.html" title="LLVM instruction utilities. " alt="" coords="1141,139,1346,165"/>
+<area shape="rect" id="node7" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="572,235,736,262"/>
+<area shape="rect" id="node21" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1307,228,1460,269"/>
+</map>

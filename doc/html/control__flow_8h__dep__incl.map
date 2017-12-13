@@ -1,0 +1,7 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/optimizations/control_flow/control_flow.h" name="/home/retdec/retdec/include/bin2llvmir/optimizations/control_flow/control_flow.h">
+<area shape="rect" id="node2" href="$control__flow_2arm_8cpp.html" title="Reconstruct control flow – ARM specific module. " alt="" coords="5,124,213,180"/>
+<area shape="rect" id="node3" href="$control__flow_8cpp.html" title="Reconstruct control flow. " alt="" coords="238,124,453,180"/>
+<area shape="rect" id="node4" href="$control__flow_2mips_8cpp.html" title="Reconstruct control flow – MIPS specific module. " alt="" coords="477,124,685,180"/>
+<area shape="rect" id="node5" href="$powerpc_8cpp.html" title="Reconstruct control flow – PowerPC specific module. " alt="" coords="709,124,917,180"/>
+<area shape="rect" id="node6" href="$control__flow_2x86_8cpp.html" title="Reconstruct control flow – x86 specific module. " alt="" coords="941,124,1149,180"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/idioms/idioms.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/idioms/idioms.cpp">
+<area shape="rect" id="node3" href="$idioms_8h.html" title="Instruction idioms analysis. " alt="" coords="177,109,358,151"/>
+<area shape="rect" id="node22" href="$idioms__borland_8h.html" title="Borland C/C++ instruction idioms. " alt="" coords="2409,288,2596,329"/>
+<area shape="rect" id="node23" href="$idioms__common_8h.html" title="Common compiler instruction idioms. " alt="" coords="1558,288,1753,329"/>
+<area shape="rect" id="node24" href="$idioms__gcc_8h.html" title="GNU/GCC instruction idioms. " alt="" coords="2620,288,2801,329"/>
+<area shape="rect" id="node25" href="$idioms__intel_8h.html" title="Intel compiler instruction idioms. " alt="" coords="1777,288,1958,329"/>
+<area shape="rect" id="node26" href="$idioms__llvm_8h.html" title="clang/LLVM instruction idioms " alt="" coords="1982,288,2164,329"/>
+<area shape="rect" id="node28" href="$idioms__owatcom_8h.html" title="Open Watcom instruction idioms. " alt="" coords="2188,288,2385,329"/>
+<area shape="rect" id="node29" href="$idioms__vstudio_8h.html" title="Visual Studio instruction idioms. " alt="" coords="2826,288,3011,329"/>
+<area shape="rect" id="node7" href="$idioms__abstract_8h.html" title="Instruction idioms analysis abstract class. " alt="" coords="1666,377,1856,419"/>
+<area shape="rect" id="node11" href="$idioms__types_8h.html" title="Instruction idioms analysis types. " alt="" coords="537,467,718,508"/>
+<area shape="rect" id="node12" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="804,467,958,508"/>
+<area shape="rect" id="node16" href="$idioms__analysis_8h.html" title="Instruction idioms analysis. " alt="" coords="1199,199,1390,240"/>
+<area shape="rect" id="node27" href="$idioms__magicdivmod_8h.html" title="Magic div and modulo exchangers. " alt="" coords="1257,288,1484,329"/>
+</map>

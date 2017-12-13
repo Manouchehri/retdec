@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['ud',['ud',['../classllvmir2hll_1_1UseDefChains.html#af7e1cb93e0ccbba683f15b2f76c8278e',1,'llvmir2hll::UseDefChains']]],
+  ['uda',['uda',['../classllvmir2hll_1_1CopyPropagationOptimizer.html#a8b8fdc71ac94c947efc9137a2594bca8',1,'llvmir2hll::CopyPropagationOptimizer']]],
+  ['udcs',['udcs',['../classllvmir2hll_1_1CopyPropagationOptimizer.html#a6d16d48fc241255945748888814cc5fb',1,'llvmir2hll::CopyPropagationOptimizer']]],
+  ['unnamedstructcounter',['unnamedStructCounter',['../classllvmir2hll_1_1CHLLWriter.html#a6379bb213d01aa8acff4b86bfb205e44',1,'llvmir2hll::CHLLWriter']]],
+  ['unneededstmts',['unneededStmts',['../classllvmir2hll_1_1UnneededGlobalVarsCFGTraversal.html#ae6508a2018f79bd48dbd981303c94878',1,'llvmir2hll::UnneededGlobalVarsCFGTraversal']]],
+  ['unsignedinttypes',['unsignedIntTypes',['../classllvmir2hll_1_1UsedTypes.html#a6086d714aa76dd07e3d0e7cd89729a73',1,'llvmir2hll::UsedTypes']]],
+  ['updatestmt',['updateStmt',['../structllvmir2hll_1_1IndVarInfo.html#a88dc5b056e5bbb1046b570f9c503b9a9',1,'llvmir2hll::IndVarInfo']]],
+  ['use',['use',['../classbin2llvmir_1_1Use.html#aa70907169f9bfaa42872a62c669afd10',1,'bin2llvmir::Use']]],
+  ['usedbool',['usedBool',['../classllvmir2hll_1_1UsedTypes.html#adf03c224ef9c6ace2bfc5c2b368ed7e4',1,'llvmir2hll::UsedTypes']]],
+  ['usedebugnames',['useDebugNames',['../classllvmir2hll_1_1VarRenamer.html#ad95a2a039c597b4d868e3a8f256c1590',1,'llvmir2hll::VarRenamer']]],
+  ['usedglobalvars',['usedGlobalVars',['../classllvmir2hll_1_1UnusedGlobalVarOptimizer.html#af8d73fc25c98bcd5c886e6cbfa292048',1,'llvmir2hll::UnusedGlobalVarOptimizer']]],
+  ['usedlabels',['usedLabels',['../classllvmir2hll_1_1LabelsHandler.html#a25de2513f31b977c995b084532c7de47',1,'llvmir2hll::LabelsHandler']]],
+  ['usedtypes',['usedTypes',['../classllvmir2hll_1_1UsedTypesVisitor.html#af538c99aca891fa7d447f29dfdf1ff7b',1,'llvmir2hll::UsedTypesVisitor']]],
+  ['usedvars',['usedVars',['../classllvmir2hll_1_1UsedVarsVisitor.html#a36b26c4fbe7570e5c878dd4488688353',1,'llvmir2hll::UsedVarsVisitor']]],
+  ['usedvarsinlastinit',['usedVarsInLastInit',['../global__vars__sorter_8cpp.html#a1b9cb0dec39a56140975e6757595a47b',1,'global_vars_sorter.cpp']]],
+  ['usefulglobalvars',['usefulGlobalVars',['../classllvmir2hll_1_1GlobalToLocalOptimizer.html#a0285befab04a661a53e08786b5fb7301',1,'llvmir2hll::GlobalToLocalOptimizer']]],
+  ['useinfomap',['useInfoMap',['../classbin2llvmir_1_1UsesAnalysis_1_1BBUses.html#ae7563b605b0ec57485ba81d6b08271ea',1,'bin2llvmir::UsesAnalysis::BBUses']]],
+  ['uselessglobalvars',['uselessGlobalVars',['../classllvmir2hll_1_1GlobalToLocalOptimizer.html#afecf403c4b26db18c4b5f42448867cfa',1,'llvmir2hll::GlobalToLocalOptimizer']]],
+  ['user',['user',['../classbin2llvmir_1_1SymbolicTree.html#abd41bc0362b2df25950c7c295d062cdd',1,'bin2llvmir::SymbolicTree']]],
+  ['uses',['uses',['../classbin2llvmir_1_1Definition.html#a0676b80da55d58ccc4d930d04eda0a2e',1,'bin2llvmir::Definition::uses()'],['../classbin2llvmir_1_1BasicBlockEntry.html#a701b4c41f29c26ed5eb19bc44e9c0880',1,'bin2llvmir::BasicBlockEntry::uses()'],['../classllvmir2hll_1_1LhsRhsUsesCFGTraversal.html#adeef3c5295f8c65a61b9a970e4cb0cf4',1,'llvmir2hll::LhsRhsUsesCFGTraversal::uses()']]],
+  ['usesanalysis',['usesAnalysis',['../classbin2llvmir_1_1StoreLoadAnalysis.html#a9c828278a58216fc4ae221daeb74c729',1,'bin2llvmir::StoreLoadAnalysis']]]
+];

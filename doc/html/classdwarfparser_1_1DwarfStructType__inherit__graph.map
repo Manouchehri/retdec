@@ -1,0 +1,6 @@
+<map id="dwarfparser::DwarfStructType" name="dwarfparser::DwarfStructType">
+<area shape="rect" id="node4" href="$classdwarfparser_1_1DwarfClassType.html" title="dwarfparser::DwarfClassType" alt="" coords="5,229,217,256"/>
+<area shape="rect" id="node5" href="$classdwarfparser_1_1DwarfUnionType.html" title="dwarfparser::DwarfUnionType" alt="" coords="241,229,456,256"/>
+<area shape="rect" id="node2" href="$classdwarfparser_1_1DwarfType.html" title="Base data type, others are derived from it. " alt="" coords="141,80,319,107"/>
+<area shape="rect" id="node3" href="$classdwarfparser_1_1DwarfBaseElement.html" title="Base element class for all objects used by dwarfparser. " alt="" coords="113,5,347,32"/>
+</map>

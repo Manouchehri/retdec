@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/utils/global_var.h" name="/home/retdec/retdec/include/bin2llvmir/utils/global_var.h">
+<area shape="rect" id="node2" href="$constants_8cpp.html" title="Composite type reconstruction analysis. " alt="" coords="5,109,213,165"/>
+<area shape="rect" id="node3" href="$control__flow_8cpp.html" title="Reconstruct control flow. " alt="" coords="238,109,453,165"/>
+<area shape="rect" id="node4" href="$fileimage_8cpp.html" title="File image provider for bin2llvmirl. " alt="" coords="477,109,657,165"/>
+<area shape="rect" id="node5" href="$global__var_8cpp.html" title="LLVM global variable utilities. " alt="" coords="681,109,834,165"/>
+</map>

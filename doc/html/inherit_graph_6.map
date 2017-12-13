@@ -1,0 +1,35 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classbin2llvmir_1_1AsmInstructionRemover.html" title="bin2llvmir::AsmInstruction\lRemover" alt="" coords="172,5,367,47"/>
+<area shape="rect" id="node3" href="$classbin2llvmir_1_1CfgFunctionDetection.html" title="bin2llvmir::CfgFunctionDetection" alt="" coords="152,71,387,98"/>
+<area shape="rect" id="node4" href="$classbin2llvmir_1_1ClassHierarchyAnalysis.html" title="bin2llvmir::ClassHierarchy\lAnalysis" alt="" coords="172,123,367,164"/>
+<area shape="rect" id="node5" href="$classbin2llvmir_1_1CondBranchOpt.html" title="bin2llvmir::CondBranchOpt" alt="" coords="171,189,368,215"/>
+<area shape="rect" id="node6" href="$classbin2llvmir_1_1ConstantsAnalysis.html" title="bin2llvmir::ConstantsAnalysis" alt="" coords="161,239,377,266"/>
+<area shape="rect" id="node7" href="$classbin2llvmir_1_1ControlFlow.html" title="bin2llvmir::ControlFlow" alt="" coords="183,290,356,317"/>
+<area shape="rect" id="node8" href="$classbin2llvmir_1_1CtorDtor.html" title="bin2llvmir::CtorDtor" alt="" coords="194,341,345,367"/>
+<area shape="rect" id="node9" href="$classbin2llvmir_1_1DataReferences.html" title="bin2llvmir::DataReferences" alt="" coords="170,391,369,418"/>
+<area shape="rect" id="node10" href="$classbin2llvmir_1_1Decoder.html" title="bin2llvmir::Decoder" alt="" coords="194,442,345,469"/>
+<area shape="rect" id="node11" href="$classbin2llvmir_1_1DsmGenerator.html" title="bin2llvmir::DsmGenerator" alt="" coords="174,493,365,519"/>
+<area shape="rect" id="node12" href="$classbin2llvmir_1_1DumpModule.html" title="bin2llvmir::DumpModule" alt="" coords="178,543,361,570"/>
+<area shape="rect" id="node13" href="$classbin2llvmir_1_1GlobalToLocalAndDeadGlobalAssign.html" title="Global to local and dead global assign optimization. " alt="" coords="176,595,363,636"/>
+<area shape="rect" id="node16" href="$classbin2llvmir_1_1IdiomsLibgcc.html" title="bin2llvmir::IdiomsLibgcc" alt="" coords="179,661,360,687"/>
+<area shape="rect" id="node17" href="$classbin2llvmir_1_1InstOpt.html" title="bin2llvmir::InstOpt" alt="" coords="198,711,341,738"/>
+<area shape="rect" id="node18" href="$classbin2llvmir_1_1LocalVars.html" title="bin2llvmir::LocalVars" alt="" coords="190,762,349,789"/>
+<area shape="rect" id="node19" href="$classbin2llvmir_1_1MainDetection.html" title="bin2llvmir::MainDetection" alt="" coords="174,813,365,839"/>
+<area shape="rect" id="node20" href="$classbin2llvmir_1_1ParamReturn.html" title="bin2llvmir::ParamReturn" alt="" coords="180,863,359,890"/>
+<area shape="rect" id="node21" href="$classbin2llvmir_1_1ProviderInitialization.html" title="bin2llvmir::ProviderInitialization" alt="" coords="154,914,385,941"/>
+<area shape="rect" id="node22" href="$classbin2llvmir_1_1RegisterAnalysis.html" title="bin2llvmir::RegisterAnalysis" alt="" coords="167,965,371,991"/>
+<area shape="rect" id="node23" href="$classbin2llvmir_1_1SelectFunctions.html" title="bin2llvmir::SelectFunctions" alt="" coords="171,1015,368,1042"/>
+<area shape="rect" id="node24" href="$classbin2llvmir_1_1SimpleTypesAnalysis.html" title="bin2llvmir::SimpleTypesAnalysis" alt="" coords="153,1066,386,1093"/>
+<area shape="rect" id="node25" href="$classbin2llvmir_1_1StackAnalysis.html" title="bin2llvmir::StackAnalysis" alt="" coords="176,1117,363,1143"/>
+<area shape="rect" id="node26" href="$classbin2llvmir_1_1StackPointerOpsRemove.html" title="bin2llvmir::StackPointer\lOpsRemove" alt="" coords="180,1168,359,1209"/>
+<area shape="rect" id="node27" href="$classbin2llvmir_1_1StackProtect.html" title="bin2llvmir::StackProtect" alt="" coords="180,1234,359,1261"/>
+<area shape="rect" id="node28" href="$classbin2llvmir_1_1SyscallFixer.html" title="bin2llvmir::SyscallFixer" alt="" coords="183,1285,356,1311"/>
+<area shape="rect" id="node29" href="$classbin2llvmir_1_1TypeConversions.html" title="bin2llvmir::TypeConversions" alt="" coords="166,1335,373,1362"/>
+<area shape="rect" id="node30" href="$classbin2llvmir_1_1UnreachableFuncs.html" title="Removes unreachable functions from main. " alt="" coords="162,1386,377,1413"/>
+<area shape="rect" id="node31" href="$classbin2llvmir_1_1Volatilize.html" title="bin2llvmir::Volatilize" alt="" coords="191,1437,347,1463"/>
+<area shape="rect" id="node32" href="$classbin2llvmir_1_1VtableAnalysis.html" title="bin2llvmir::VtableAnalysis" alt="" coords="173,1487,366,1514"/>
+<area shape="rect" id="node33" href="$classllvmir2hlltool_1_1Decompiler.html" title="This class is the main chunk of code that converts an LLVM module to the specified high&#45;level languag..." alt="" coords="173,1538,365,1565"/>
+<area shape="rect" id="node34" href="$classModulePassPrinter.html" title="ModulePassPrinter" alt="" coords="199,1589,340,1615"/>
+<area shape="rect" id="node14" href="$classbin2llvmir_1_1DeadGlobalAssign.html" title="Optimization that removes dead global assigns. " alt="" coords="435,577,649,603"/>
+<area shape="rect" id="node15" href="$classbin2llvmir_1_1GlobalToLocal.html" title="Optimization that converts global variables to local variables. Also replaces uses of global variable..." alt="" coords="449,627,635,654"/>
+</map>

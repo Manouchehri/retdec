@@ -1,0 +1,19 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/deref_address_optimizer.cpp" name="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/deref_address_optimizer.cpp">
+<area shape="rect" id="node2" href="$address__op__expr_8h.html" title="An address operator. " alt="" coords="1217,131,1369,173"/>
+<area shape="rect" id="node19" href="$deref__op__expr_8h.html" title="A dereference operator. " alt="" coords="1901,131,2036,173"/>
+<area shape="rect" id="node20" href="$deref__address__optimizer_8h.html" title="Optimizes dereferences of addresses. " alt="" coords="593,124,784,180"/>
+<area shape="rect" id="node31" href="$debug_8h.html" title="Debugging support. " alt="" coords="1055,131,1192,173"/>
+<area shape="rect" id="node3" href="$unary__op__expr_8h.html" title="A base class for all unary operators. " alt="" coords="1899,228,2038,269"/>
+<area shape="rect" id="node11" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1040,600,1177,641"/>
+<area shape="rect" id="node4" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="1877,325,2061,351"/>
+<area shape="rect" id="node5" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="1647,421,1797,448"/>
+<area shape="rect" id="node9" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="1429,511,1567,552"/>
+<area shape="rect" id="node10" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="1893,511,2031,552"/>
+<area shape="rect" id="node14" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="2055,511,2192,552"/>
+<area shape="rect" id="node17" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="1591,511,1728,552"/>
+<area shape="rect" id="node21" href="$func__optimizer_8h.html" title="A base class of all function optimizers. " alt="" coords="613,228,764,269"/>
+<area shape="rect" id="node22" href="$optimizer_8h.html" title="A base class of all optimizers. " alt="" coords="664,317,815,359"/>
+<area shape="rect" id="node23" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="664,407,815,463"/>
+<area shape="rect" id="node24" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="299,511,436,552"/>
+<area shape="rect" id="node30" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="613,511,751,552"/>
+</map>

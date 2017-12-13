@@ -1,0 +1,51 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/ir/const_int.h" name="/home/retdec/retdec/include/llvmir2hll/ir/const_int.h">
+<area shape="rect" id="node2" href="$arithm__expr__evaluator_8h.html" title="A base class for all evaluators. " alt="" coords="1893,117,2064,187"/>
+<area shape="rect" id="node8" href="$dead__code__optimizer_8cpp.html" title="Implementation of DeadCodeOptimizer. " alt="" coords="2085,383,2349,439"/>
+<area shape="rect" id="node10" href="$sub__optimizer_8cpp.html" title="Implementation of SubOptimizer. " alt="" coords="68,376,271,447"/>
+<area shape="rect" id="node13" href="$const__operator__const__sub__optimizer_8cpp.html" title="Implementation of ConstOperatorConstSubOptimizer. " alt="" coords="33,243,236,328"/>
+<area shape="rect" id="node14" href="$equal__operands__sub__optimizer_8cpp.html" title="Implementation of EqualOperandsSubOptimizer. " alt="" coords="2255,250,2545,321"/>
+<area shape="rect" id="node16" href="$negative__operand__sub__optimizer_8cpp.html" title="Implementation of NegativeOperandSubOptimizer. " alt="" coords="2570,243,2779,328"/>
+<area shape="rect" id="node17" href="$one__sub__optimizer_8cpp.html" title="Implementation of a sub&#45;optimization class that optimize expression with operand which is number one..." alt="" coords="2804,250,3015,321"/>
+<area shape="rect" id="node19" href="$three__operands__sub__optimizer_8cpp.html" title="Implementation of ThreeOperandsSubOptimizer. " alt="" coords="3039,250,3327,321"/>
+<area shape="rect" id="node20" href="$zero__sub__optimizer_8cpp.html" title="Implementation of ZeroSubOptimizer. " alt="" coords="3351,250,3566,321"/>
+<area shape="rect" id="node21" href="$while__true__to__for__loop__optimizer_8cpp.html" title="Implementation of WhileTrueToForLoopOptimizer. " alt="" coords="3591,250,3777,321"/>
+<area shape="rect" id="node23" href="$value__analysis_8cpp.html" title="Implementation of ValueAnalysis. " alt="" coords="3373,124,3542,180"/>
+<area shape="rect" id="node24" href="$bracket__manager_8cpp.html" title="Implementation of BracketManager. " alt="" coords="3566,124,3733,180"/>
+<area shape="rect" id="node25" href="$c__compound__op__manager_8cpp.html" title="Implementation of CCompoundOpManager. " alt="" coords="3757,117,3979,187"/>
+<area shape="rect" id="node26" href="$hll__writer_8cpp.html" title="Implementation of HLLWriter. " alt="" coords="4003,124,4157,180"/>
+<area shape="rect" id="node27" href="$c__hll__writer_8cpp.html" title="Implementation of CHLLWriter. " alt="" coords="4181,124,4379,180"/>
+<area shape="rect" id="node28" href="$py__hll__writer_8cpp.html" title="Implementation of PyHLLWriter. " alt="" coords="4404,124,4612,180"/>
+<area shape="rect" id="node29" href="$const__int_8cpp.html" title="Implementation of ConstInt. " alt="" coords="4636,124,4799,180"/>
+<area shape="rect" id="node30" href="$const__struct_8cpp.html" title="Implementation of ConstStruct. " alt="" coords="4823,124,4985,180"/>
+<area shape="rect" id="node31" href="$struct__index__op__expr_8cpp.html" title="Implementation of StructIndexOpExpr. " alt="" coords="5009,124,5175,180"/>
+<area shape="rect" id="node32" href="$struct__type_8cpp.html" title="Implementation of StructType. " alt="" coords="5199,124,5364,180"/>
+<area shape="rect" id="node33" href="$llvm__constant__converter_8cpp.html" title="Implementation of LLVMConstantConverter. " alt="" coords="5388,109,5601,195"/>
+<area shape="rect" id="node34" href="$llvm__instruction__converter_8cpp.html" title="Implementation of LLVMInstructionConverter. " alt="" coords="5625,109,5852,195"/>
+<area shape="rect" id="node35" href="$structure__converter_8cpp.html" title="Implementation of StructureConverter. " alt="" coords="5876,109,6068,195"/>
+<area shape="rect" id="node36" href="$llvm__branch__info_8cpp.html" title="Implementation of LLVMBranchInfo. " alt="" coords="6093,109,6283,195"/>
+<area shape="rect" id="node37" href="$llvm__converter_8cpp.html" title="Implementation LLVMConverter. " alt="" coords="6307,109,6498,195"/>
+<area shape="rect" id="node38" href="$orig__llvmir2bir__converter_8cpp.html" title="Implementation of OrigLLVMIR2BIRConverter. " alt="" coords="6523,117,6739,187"/>
+<area shape="rect" id="node39" href="$bit__op__to__log__op__optimizer_8cpp.html" title="Implementation of BitOpToLogOpOptimizer. " alt="" coords="6763,117,6949,187"/>
+<area shape="rect" id="node40" href="$bit__shift__optimizer_8cpp.html" title="Implementation of BitShiftOptimizer. " alt="" coords="6974,124,7221,180"/>
+<area shape="rect" id="node41" href="$c__array__arg__optimizer_8cpp.html" title="Implementation of CArrayArgOptimizer. " alt="" coords="7245,117,7422,187"/>
+<area shape="rect" id="node42" href="$deref__to__array__index__optimizer_8cpp.html" title="Implementation of DerefToArrayIndexOptimizer. " alt="" coords="7447,117,7641,187"/>
+<area shape="rect" id="node43" href="$if__before__loop__optimizer_8cpp.html" title="Implementation of IfBeforeLoopOptimizer. " alt="" coords="7665,117,7857,187"/>
+<area shape="rect" id="node44" href="$if__to__switch__optimizer_8cpp.html" title="Implementation of IfToSwitchOptimizer. " alt="" coords="7882,117,8059,187"/>
+<area shape="rect" id="node45" href="$const__symbol__converter_8cpp.html" title="Implementation of ConstSymbolConverter. " alt="" coords="8084,124,8295,180"/>
+<area shape="rect" id="node46" href="$expr__types__fixer_8cpp.html" title="A visitor for fixing the types in the IR. " alt="" coords="8319,124,8483,180"/>
+<area shape="rect" id="node47" href="$expression__negater_8cpp.html" title="Implementation of ExpressionNegater. " alt="" coords="8507,124,8687,180"/>
+<area shape="rect" id="node48" href="$statements__counter_8cpp.html" title="Implementation of StatementsCounter. " alt="" coords="8711,124,8894,180"/>
+<area shape="rect" id="node49" href="$value__text__repr__visitor_8cpp.html" title="Implementation of ValueTextReprVisitor. " alt="" coords="8919,124,9121,180"/>
+<area shape="rect" id="node50" href="$ordered__all__visitor_8cpp.html" title="Implementation of OrderedAllVisitor. " alt="" coords="9146,124,9371,180"/>
+<area shape="rect" id="node3" href="$c__arithm__expr__evaluator_8h.html" title="Evaluates expressions with c language conditions. " alt="" coords="945,243,1140,328"/>
+<area shape="rect" id="node5" href="$strict__arithm__expr__evaluator_8h.html" title="Evaluates expressions with strict conditions. " alt="" coords="1165,243,1350,328"/>
+<area shape="rect" id="node7" href="$dead__code__optimizer_8h.html" title="Removes dead code. " alt="" coords="1601,250,1777,321"/>
+<area shape="rect" id="node9" href="$sub__optimizer_8h.html" title="A base class for all simplify arithmetical expression optimizations. " alt="" coords="260,243,425,328"/>
+<area shape="rect" id="node11" href="$arithm__expr__evaluator_8cpp.html" title="Implementation of ArithmExprEvaluator. " alt="" coords="1980,257,2180,313"/>
+<area shape="rect" id="node12" href="$change__order__of__operands__sub__optimizer_8cpp.html" title="Implementation of ChangeOrderOfOperandsSubOptimizer. " alt="" coords="449,243,687,328"/>
+<area shape="rect" id="node15" href="$negation__operator__sub__optimizer_8cpp.html" title="Implementation of NegationOperatorSubOptimizer. " alt="" coords="711,243,921,328"/>
+<area shape="rect" id="node18" href="$ternary__operator__sub__optimizer_8cpp.html" title="Implementation of TernaryOperatorSubOptimizer. " alt="" coords="1375,243,1577,328"/>
+<area shape="rect" id="node22" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="1802,257,1955,313"/>
+<area shape="rect" id="node4" href="$c__arithm__expr__evaluator_8cpp.html" title="Implementation of CArithmExprEvaluator. " alt="" coords="917,376,1131,447"/>
+<area shape="rect" id="node6" href="$strict__arithm__expr__evaluator_8cpp.html" title="Implementation of StrictArithmExprEvaluator. " alt="" coords="1156,376,1396,447"/>
+</map>

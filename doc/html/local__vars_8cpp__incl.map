@@ -1,0 +1,8 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/local_vars/local_vars.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/local_vars/local_vars.cpp">
+<area shape="rect" id="node7" href="$utils_8h.html" title="LLVM Utility functions. " alt="" coords="345,206,495,233"/>
+<area shape="rect" id="node13" href="$local__vars_8h.html" title="Register localization. " alt="" coords="1357,109,1539,151"/>
+<area shape="rect" id="node26" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="553,295,717,322"/>
+<area shape="rect" id="node28" href="$instruction_8h.html" title="LLVM instruction utilities. " alt="" coords="1741,206,1947,233"/>
+<area shape="rect" id="node16" href="$reaching__definitions_8h.html" title="Reaching definitions analysis (RDA) builds UD and DU chains. " alt="" coords="1109,199,1278,240"/>
+<area shape="rect" id="node23" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1681,288,1834,329"/>
+</map>

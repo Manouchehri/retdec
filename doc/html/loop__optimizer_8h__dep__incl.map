@@ -1,0 +1,10 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/utils/loop_optimizer.h" name="/home/retdec/retdec/include/llvmir2hll/utils/loop_optimizer.h">
+<area shape="rect" id="node2" href="$while__true__to__for__loop__optimizer_8h.html" title="Optimizes while loops into for loops. " alt="" coords="115,109,290,195"/>
+<area shape="rect" id="node4" href="$while__true__to__for__loop__optimizer_8cpp.html" title="Implementation of WhileTrueToForLoopOptimizer. " alt="" coords="5,243,192,313"/>
+<area shape="rect" id="node5" href="$while__true__to__ufor__loop__optimizer_8h.html" title="Optimizes while loops into for universal for loops. " alt="" coords="314,109,497,195"/>
+<area shape="rect" id="node6" href="$while__true__to__ufor__loop__optimizer_8cpp.html" title="Implementation of WhileTrueToUForLoopOptimizer. " alt="" coords="435,243,621,313"/>
+<area shape="rect" id="node7" href="$pre__while__true__loop__conv__optimizer_8cpp.html" title="Implementation of PreWhileTrueLoopConvOptimizer. " alt="" coords="572,117,767,187"/>
+<area shape="rect" id="node8" href="$while__true__to__while__cond__optimizer_8cpp.html" title="Implementation of WhileTrueToWhileCondOptimizer. " alt="" coords="791,117,988,187"/>
+<area shape="rect" id="node9" href="$loop__optimizer_8cpp.html" title="Implementation of the utilities for optimizers. " alt="" coords="1013,124,1166,180"/>
+<area shape="rect" id="node3" href="$optimizer__manager_8cpp.html" title="Implementation of OptimizerManager. " alt="" coords="227,250,405,306"/>
+</map>

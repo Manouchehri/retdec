@@ -1,0 +1,8 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/hll/bracket_managers/c_bracket_manager.cpp" name="/home/retdec/retdec/src/llvmir2hll/hll/bracket_managers/c_bracket_manager.cpp">
+<area shape="rect" id="node2" href="$c__bracket__manager_8h.html" title="A brackets manager of redundant brackets for the C language. " alt="" coords="109,124,347,165"/>
+<area shape="rect" id="node3" href="$bracket__manager_8h.html" title="A base class of all BracketManagers. " alt="" coords="149,213,307,255"/>
+<area shape="rect" id="node6" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="81,496,218,537"/>
+<area shape="rect" id="node9" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="343,407,481,448"/>
+<area shape="rect" id="node16" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="153,303,303,359"/>
+<area shape="rect" id="node17" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="182,407,319,448"/>
+</map>

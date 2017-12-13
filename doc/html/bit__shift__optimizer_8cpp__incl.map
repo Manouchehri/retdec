@@ -1,0 +1,29 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/bit_shift_optimizer.cpp" name="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/bit_shift_optimizer.cpp">
+<area shape="rect" id="node2" href="$bit__shl__op__expr_8h.html" title="A bit left shift operator. " alt="" coords="517,117,661,158"/>
+<area shape="rect" id="node4" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="453,310,637,337"/>
+<area shape="rect" id="node19" href="$bit__shr__op__expr_8h.html" title="A bit right shift operator. " alt="" coords="5,117,151,158"/>
+<area shape="rect" id="node20" href="$const__int_8h.html" title="An integer constant. " alt="" coords="2166,117,2302,158"/>
+<area shape="rect" id="node25" href="$div__op__expr_8h.html" title="A division operator. " alt="" coords="175,117,319,158"/>
+<area shape="rect" id="node26" href="$function_8h.html" title="A representation of a function. " alt="" coords="2561,310,2728,337"/>
+<area shape="rect" id="node32" href="$global__var__def_8h.html" title="A definition of a global variable. " alt="" coords="661,303,802,344"/>
+<area shape="rect" id="node33" href="$int__type_8h.html" title="A representation of an integer type. " alt="" coords="1605,221,1772,247"/>
+<area shape="rect" id="node35" href="$module_8h.html" title="A representation of a complete module. " alt="" coords="2907,407,3070,433"/>
+<area shape="rect" id="node38" href="$mul__op__expr_8h.html" title="A multiplication operator. " alt="" coords="343,117,493,158"/>
+<area shape="rect" id="node39" href="$variable_8h.html" title="A representation of a variable. " alt="" coords="1333,221,1500,247"/>
+<area shape="rect" id="node40" href="$bit__shift__optimizer_8h.html" title="Change bit shift to division or multiplication. " alt="" coords="846,109,998,165"/>
+<area shape="rect" id="node45" href="$debug_8h.html" title="Debugging support. " alt="" coords="1837,213,1975,255"/>
+<area shape="rect" id="node3" href="$binary__op__expr_8h.html" title="A base class for all binary operators. " alt="" coords="197,213,340,255"/>
+<area shape="rect" id="node11" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="659,585,796,627"/>
+<area shape="rect" id="node5" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="1326,407,1475,433"/>
+<area shape="rect" id="node9" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="1171,496,1308,537"/>
+<area shape="rect" id="node10" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="920,496,1057,537"/>
+<area shape="rect" id="node14" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="2145,496,2283,537"/>
+<area shape="rect" id="node17" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="1332,496,1469,537"/>
+<area shape="rect" id="node24" href="$constant_8h.html" title="A base class for all constants. " alt="" coords="924,221,1093,247"/>
+<area shape="rect" id="node27" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="2713,496,2851,537"/>
+<area shape="rect" id="node34" href="$llvmir2hll_2ir_2type_8h.html" title="A base class of all types. " alt="" coords="1677,310,1820,337"/>
+<area shape="rect" id="node41" href="$func__optimizer_8h.html" title="A base class of all function optimizers. " alt="" coords="749,213,900,255"/>
+<area shape="rect" id="node42" href="$optimizer_8h.html" title="A base class of all optimizers. " alt="" coords="827,303,977,344"/>
+<area shape="rect" id="node43" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="736,392,887,448"/>
+<area shape="rect" id="node44" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="605,496,743,537"/>
+</map>

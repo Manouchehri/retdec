@@ -1,0 +1,14 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/register/register.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/register/register.cpp">
+<area shape="rect" id="node6" href="$register_8h.html" title="Solve register pseudo functions. " alt="" coords="837,109,1019,151"/>
+<area shape="rect" id="node23" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="365,385,529,411"/>
+<area shape="rect" id="node40" href="$asm__instruction_8h.html" title="Mapping of LLVM instructions to underlying ASM instructions. " alt="" coords="2606,288,2759,329"/>
+<area shape="rect" id="node42" href="$utils_8h.html" title="LLVM Utility functions. " alt="" coords="2720,385,2869,411"/>
+<area shape="rect" id="node48" href="$bin2llvmir_2utils_2type_8h.html" title="LLVM type utilities. " alt="" coords="2189,206,2355,233"/>
+<area shape="rect" id="node10" href="$symbolic__tree_8h.html" title="Construction of symbolic tree from the given node. " alt="" coords="771,199,922,240"/>
+<area shape="rect" id="node20" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1109,377,1262,419"/>
+<area shape="rect" id="node17" href="$reaching__definitions_8h.html" title="Reaching definitions analysis (RDA) builds UD and DU chains. " alt="" coords="762,288,931,329"/>
+<area shape="rect" id="node26" href="$fileimage_8h.html" title="File image provider for bin2llvmirl. " alt="" coords="1531,288,1685,329"/>
+<area shape="rect" id="node29" href="$bin2llvmir_2providers_2debugformat_8h.html" title="Debug format provider for bin2llvmirl. " alt="" coords="1286,377,1439,419"/>
+<area shape="rect" id="node30" href="$debugformat_2debugformat_8h.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="1338,467,1545,493"/>
+<area shape="rect" id="node36" href="$dwarf__file_8h.html" title="Declarations of DwarfFile class which provides high&#45;level access to DWARF debugging informations..." alt="" coords="719,541,899,568"/>
+</map>

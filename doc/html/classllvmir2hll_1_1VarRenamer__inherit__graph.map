@@ -1,0 +1,9 @@
+<map id="llvmir2hll::VarRenamer" name="llvmir2hll::VarRenamer">
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1AddressVarRenamer.html" title="A renamer of variable names which extracts and uses the original addresses of the variables..." alt="" coords="661,5,884,32"/>
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1HungarianVarRenamer.html" title="A renamer of variable names by using the Hungarian notation. " alt="" coords="683,57,863,98"/>
+<area shape="rect" id="node6" href="$classllvmir2hll_1_1ReadableVarRenamer.html" title="A renamer of variable names which names them to make the code as readable as possible. " alt="" coords="657,123,888,149"/>
+<area shape="rect" id="node7" href="$classllvmir2hll_1_1SimpleVarRenamer.html" title="A renamer of variable names which names them simply by using the given variable name generator..." alt="" coords="665,173,881,200"/>
+<area shape="rect" id="node8" href="$classllvmir2hll_1_1UnifiedVarRenamer.html" title="A renamer of variable names which names the variables gX (global variables), aX (parameters), and vX (local variables). " alt="" coords="664,224,881,251"/>
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1OrderedAllVisitor.html" title="A visitor that visits everything in an ordered way. " alt="" coords="188,123,391,149"/>
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1Visitor.html" title="A base class of all visitors. " alt="" coords="5,123,140,149"/>
+</map>

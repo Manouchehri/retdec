@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/graphs/cg/cg_writer.h" name="/home/retdec/retdec/include/llvmir2hll/graphs/cg/cg_writer.h">
+<area shape="rect" id="node2" href="$graphviz__cg__writer_8h.html" title="A CG writer in the dot format (graphviz). " alt="" coords="11,109,171,180"/>
+<area shape="rect" id="node4" href="$cg__writer_8cpp.html" title="Implementation of CGWriter. " alt="" coords="196,117,355,173"/>
+<area shape="rect" id="node5" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="379,117,532,173"/>
+<area shape="rect" id="node3" href="$graphviz__cg__writer_8cpp.html" title="Implementation of GraphvizCGWriter. " alt="" coords="5,228,177,299"/>
+</map>

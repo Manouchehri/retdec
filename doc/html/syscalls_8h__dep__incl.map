@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/optimizations/syscalls/syscalls.h" name="/home/retdec/retdec/include/bin2llvmir/optimizations/syscalls/syscalls.h">
+<area shape="rect" id="node2" href="$syscalls_2arm_8cpp.html" title="Implement ARM syscall identification and fixing pass SyscallFixer. " alt="" coords="5,124,213,180"/>
+<area shape="rect" id="node3" href="$syscalls_2mips_8cpp.html" title="Implement MIPS syscall identification and fixing pass SyscallFixer. " alt="" coords="237,124,445,180"/>
+<area shape="rect" id="node4" href="$syscalls_8cpp.html" title="Implement syscall identification and fixing pass SyscallFixer. " alt="" coords="469,124,677,180"/>
+<area shape="rect" id="node5" href="$syscalls_2x86_8cpp.html" title="Implement x86 syscall identification and fixing pass SyscallFixer. " alt="" coords="701,124,909,180"/>
+</map>

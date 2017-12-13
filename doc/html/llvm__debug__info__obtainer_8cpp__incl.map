@@ -1,0 +1,16 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/llvm/llvm_debug_info_obtainer.cpp" name="/home/retdec/retdec/src/llvmir2hll/llvm/llvm_debug_info_obtainer.cpp">
+<area shape="rect" id="node3" href="$function_8h.html" title="A representation of a function. " alt="" coords="1224,206,1391,233"/>
+<area shape="rect" id="node24" href="$global__var__def_8h.html" title="A definition of a global variable. " alt="" coords="1031,199,1173,240"/>
+<area shape="rect" id="node25" href="$module_8h.html" title="A representation of a complete module. " alt="" coords="159,206,322,233"/>
+<area shape="rect" id="node28" href="$variable_8h.html" title="A representation of a variable. " alt="" coords="815,117,981,143"/>
+<area shape="rect" id="node30" href="$llvm__debug__info__obtainer_8h.html" title="Obtainer of debug information from an LLVM module. " alt="" coords="665,199,838,240"/>
+<area shape="rect" id="node31" href="$debug_8h.html" title="Debugging support. " alt="" coords="1887,109,2024,151"/>
+<area shape="rect" id="node6" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="1246,295,1395,322"/>
+<area shape="rect" id="node11" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1033,467,1171,508"/>
+<area shape="rect" id="node18" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="661,288,799,329"/>
+<area shape="rect" id="node9" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="1391,377,1528,419"/>
+<area shape="rect" id="node10" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="1552,377,1689,419"/>
+<area shape="rect" id="node13" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="1816,377,1953,419"/>
+<area shape="rect" id="node16" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="1140,377,1277,419"/>
+<area shape="rect" id="node29" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="457,206,641,233"/>
+</map>

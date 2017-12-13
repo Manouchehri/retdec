@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/optimizer/optimizers/simplify_arithm_expr/sub_optimizer_factory.h" name="/home/retdec/retdec/include/llvmir2hll/optimizer/optimizers/simplify_arithm_expr/sub_optimizer_factory.h">
+<area shape="rect" id="node3" href="$factory_8h.html" title="Implementation of the Object Factory design pattern. " alt="" coords="89,139,226,180"/>
+<area shape="rect" id="node6" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="205,228,342,269"/>
+<area shape="rect" id="node9" href="$singleton_8h.html" title="Implementation of the Singleton design pattern. " alt="" coords="302,139,439,180"/>
+</map>

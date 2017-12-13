@@ -1,0 +1,6 @@
+<map id="llvmir2hll::DefaultSemantics" name="llvmir2hll::DefaultSemantics">
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1GCCGeneralSemantics.html" title="A general semantics for the GCC compiler. " alt="" coords="627,5,865,32"/>
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1LibcSemantics.html" title="Semantics for the standard C library. " alt="" coords="653,56,839,83"/>
+<area shape="rect" id="node6" href="$classllvmir2hll_1_1WinAPISemantics.html" title="Semantics for Windows API. " alt="" coords="643,107,849,133"/>
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1Semantics.html" title="A base class for all descriptions of function semantics. " alt="" coords="163,56,323,83"/>
+</map>

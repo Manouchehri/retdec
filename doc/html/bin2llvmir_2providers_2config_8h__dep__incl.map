@@ -1,0 +1,51 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/providers/config.h" name="/home/retdec/retdec/include/bin2llvmir/providers/config.h">
+<area shape="rect" id="node2" href="$reaching__definitions_8h.html" title="Reaching definitions analysis (RDA) builds UD and DU chains. " alt="" coords="893,124,1123,180"/>
+<area shape="rect" id="node4" href="$control__flow_8h.html" title="Reconstruct control flow. " alt="" coords="466,361,630,432"/>
+<area shape="rect" id="node5" href="$register_8h.html" title="Solve register pseudo functions. " alt="" coords="1398,361,1567,432"/>
+<area shape="rect" id="node6" href="$stack_8h.html" title="Reconstruct stack. " alt="" coords="1639,361,1793,432"/>
+<area shape="rect" id="node7" href="$symbolic__tree_8cpp.html" title="Construction of symbolic tree from the given node. " alt="" coords="2001,369,2178,425"/>
+<area shape="rect" id="node8" href="$constants_8h.html" title="Composite type reconstruction analysis. " alt="" coords="763,243,946,313"/>
+<area shape="rect" id="node9" href="$local__vars_8h.html" title="Register localization. " alt="" coords="357,243,510,313"/>
+<area shape="rect" id="node10" href="$param__return_8h.html" title="Detect functions&#39; parameters and returns. " alt="" coords="890,361,1062,432"/>
+<area shape="rect" id="node13" href="$adapter__methods_8h.html" title="Detection of C++ adapter metods created by compiler. " alt="" coords="4079,117,4295,187"/>
+<area shape="rect" id="node14" href="$asm__inst__remover_8h.html" title="Remove all special instructions used to map LLVM instructions to ASM instructions. " alt="" coords="4319,117,4539,187"/>
+<area shape="rect" id="node15" href="$cfg__function__detection_8h.html" title="Detect functions using control flow graph. " alt="" coords="1542,243,1797,313"/>
+<area shape="rect" id="node16" href="$hierarchy_8h.html" title="Represents class hierarchy. " alt="" coords="3685,480,3851,551"/>
+<area shape="rect" id="node17" href="$hierarchy__analysis_8h.html" title="Analyse results of other analyses to reconstruct class hierarchy. " alt="" coords="3751,599,3979,669"/>
+<area shape="rect" id="node18" href="$cond__branch__opt_8h.html" title="Conditional branch optimization. " alt="" coords="4563,117,4765,187"/>
+<area shape="rect" id="node19" href="$ctor__dtor_8h.html" title="Constructor and destructor detection analysis. " alt="" coords="3875,480,4053,551"/>
+<area shape="rect" id="node20" href="$data__references_8h.html" title="Search for references in input file. " alt="" coords="3627,243,3851,313"/>
+<area shape="rect" id="node21" href="$vtable_8h.html" title="Search for vtables in input file. " alt="" coords="3792,361,3952,432"/>
+<area shape="rect" id="node22" href="$data__references_8cpp.html" title="Search for references in input file. " alt="" coords="3501,369,3768,425"/>
+<area shape="rect" id="node23" href="$decoder_8h.html" title="Decode input binary into LLVM IR. " alt="" coords="60,243,231,313"/>
+<area shape="rect" id="node24" href="$dsm__generator_8h.html" title="Produce DSM output. " alt="" coords="2603,243,2821,313"/>
+<area shape="rect" id="node25" href="$global__to__local__and__dead__global__assign_8h.html" title="Converts global variables to local variables and removes dead assigns. " alt="" coords="4789,109,4984,195"/>
+<area shape="rect" id="node26" href="$idioms_8h.html" title="Instruction idioms analysis. " alt="" coords="5059,361,5221,432"/>
+<area shape="rect" id="node27" href="$idioms__abstract_8h.html" title="Instruction idioms analysis abstract class. " alt="" coords="5109,117,5272,187"/>
+<area shape="rect" id="node28" href="$idioms__analysis_8h.html" title="Instruction idioms analysis. " alt="" coords="5059,243,5221,313"/>
+<area shape="rect" id="node29" href="$idioms__libgcc_8h.html" title="Idioms produced by libgcc. " alt="" coords="2947,243,3119,313"/>
+<area shape="rect" id="node30" href="$inst__opt_8h.html" title="Instruction optimizations which we want to do ourselves. " alt="" coords="5296,117,5467,187"/>
+<area shape="rect" id="node31" href="$main__detection_8h.html" title="Detect main function. " alt="" coords="1821,243,2041,313"/>
+<area shape="rect" id="node32" href="$select__functions_8h.html" title="If ranges or functions are selected in config, remove bodies of all functions that are not selected..." alt="" coords="5491,117,5701,187"/>
+<area shape="rect" id="node33" href="$stack__pointer__ops_8h.html" title="Remove the remaining stack pointer operations. " alt="" coords="5726,117,5965,187"/>
+<area shape="rect" id="node34" href="$stack__protect_8h.html" title="Protect stack variables from LLVM optimization passes. " alt="" coords="5989,117,6168,187"/>
+<area shape="rect" id="node35" href="$syscalls_8h.html" title="Implement syscall identification and fixing pass SyscallFixer. " alt="" coords="655,361,825,432"/>
+<area shape="rect" id="node36" href="$unreachable__funcs_8h.html" title="Removes unreachable functions from main. " alt="" coords="6192,117,6395,187"/>
+<area shape="rect" id="node37" href="$fileimage_8h.html" title="File image provider for bin2llvmirl. " alt="" coords="1289,124,1453,180"/>
+<area shape="rect" id="node38" href="$lti_8h.html" title="Library type information provider for bin2llvmirl. " alt="" coords="586,250,739,306"/>
+<area shape="rect" id="node39" href="$provider__init_8cpp.html" title="One time providers initialization. " alt="" coords="1107,369,1328,425"/>
+<area shape="rect" id="node40" href="$global__var_8h.html" title="LLVM global variable utilities. " alt="" coords="2426,250,2579,306"/>
+<area shape="rect" id="node41" href="$global__var_8cpp.html" title="LLVM global variable utilities. " alt="" coords="2738,369,2891,425"/>
+<area shape="rect" id="node42" href="$bin2llvmir_2utils_2type_8h.html" title="LLVM type utilities. " alt="" coords="3195,250,3349,306"/>
+<area shape="rect" id="node43" href="$asm__instruction_8cpp.html" title="Mapping of LLVM instructions to underlying ASM instructions. " alt="" coords="3297,369,3477,425"/>
+<area shape="rect" id="node44" href="$bin2llvmir_2providers_2config_8cpp.html" title="Config DB provider for bin2llvmirl. " alt="" coords="2915,369,3095,425"/>
+<area shape="rect" id="node45" href="$bin2llvmir_2utils_2type_8cpp.html" title="LLVM type utilities. " alt="" coords="3119,369,3273,425"/>
+<area shape="rect" id="node46" href="$instruction_8h.html" title="LLVM instruction utilities. " alt="" coords="2833,124,2986,180"/>
+<area shape="rect" id="node47" href="$ir__modifier_8h.html" title="Modify both LLVM IR and config. " alt="" coords="26,124,179,180"/>
+<area shape="rect" id="node48" href="$idioms__gcc_8cpp.html" title="GNU/GCC instruction idioms. " alt="" coords="6419,124,6627,180"/>
+<area shape="rect" id="node49" href="$never__returning__funcs_8cpp.html" title="Implementation of NeverReturningFuncs optimizer. " alt="" coords="6651,117,6863,187"/>
+<area shape="rect" id="node50" href="$phi2seq_8cpp.html" title="Implementation of PHI2seq. " alt="" coords="6888,124,7096,180"/>
+<area shape="rect" id="node3" href="$symbolic__tree_8h.html" title="Construction of symbolic tree from the given node. " alt="" coords="1275,250,1467,306"/>
+<area shape="rect" id="node11" href="$reaching__definitions_8cpp.html" title="Reaching definitions analysis builds UD and DU chains. " alt="" coords="2217,250,2401,306"/>
+<area shape="rect" id="node12" href="$idioms__libgcc_8cpp.html" title="Idioms produced by libgcc. " alt="" coords="2480,369,2715,425"/>
+</map>

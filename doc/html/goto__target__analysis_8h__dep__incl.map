@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/analysis/goto_target_analysis.h" name="/home/retdec/retdec/include/llvmir2hll/analysis/goto_target_analysis.h">
+<area shape="rect" id="node2" href="$goto__target__analysis_8cpp.html" title="Implementation of GotoTargetAnalysis. " alt="" coords="5,131,195,187"/>
+<area shape="rect" id="node3" href="$dead__code__optimizer_8cpp.html" title="Implementation of DeadCodeOptimizer. " alt="" coords="219,131,483,187"/>
+<area shape="rect" id="node4" href="$unreachable__code__in__cfg__remover_8cpp.html" title="Implementation of UnreachableCodeInCFGRemover. " alt="" coords="507,124,698,195"/>
+</map>

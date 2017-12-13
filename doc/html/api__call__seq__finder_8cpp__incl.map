@@ -1,0 +1,16 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/pattern/pattern_finders/api_call/api_call_seq_finder.cpp" name="/home/retdec/retdec/src/llvmir2hll/pattern/pattern_finders/api_call/api_call_seq_finder.cpp">
+<area shape="rect" id="node2" href="$value__analysis_8h.html" title="An analysis for obtaining information about a value. " alt="" coords="354,235,497,277"/>
+<area shape="rect" id="node19" href="$call__info__obtainer_8h.html" title="A base class of all obtainers of information about functions and function calls. " alt="" coords="976,235,1129,277"/>
+<area shape="rect" id="node22" href="$api__call__seq__finder_8h.html" title="A base class for all API calls finders. " alt="" coords="1090,124,1281,180"/>
+<area shape="rect" id="node27" href="$debug_8h.html" title="Debugging support. " alt="" coords="1478,525,1616,567"/>
+<area shape="rect" id="node5" href="$caching_8h.html" title="A mixin for enabling caching of computed results. " alt="" coords="24,436,161,477"/>
+<area shape="rect" id="node7" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="474,525,612,567"/>
+<area shape="rect" id="node9" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="686,436,824,477"/>
+<area shape="rect" id="node15" href="$valid__state_8h.html" title="A mixin providing support for keeping the validity of an object. " alt="" coords="357,339,494,381"/>
+<area shape="rect" id="node16" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="130,332,281,388"/>
+<area shape="rect" id="node17" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="185,436,322,477"/>
+<area shape="rect" id="node21" href="$cg_8h.html" title="A representation of a call graph (CG). " alt="" coords="773,347,956,373"/>
+<area shape="rect" id="node23" href="$api__call__info__seq_8h.html" title="A sequence of information about API calls. " alt="" coords="1286,228,1466,284"/>
+<area shape="rect" id="node24" href="$api__call__info_8h.html" title="A representation of information about an API call. " alt="" coords="1320,332,1470,388"/>
+<area shape="rect" id="node25" href="$maybe_8h.html" title="A simple implementation of the Maybe monad from Haskell. " alt="" coords="1372,436,1509,477"/>
+</map>

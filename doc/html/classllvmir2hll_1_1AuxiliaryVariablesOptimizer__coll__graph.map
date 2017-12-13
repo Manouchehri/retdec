@@ -1,0 +1,6 @@
+<map id="llvmir2hll::AuxiliaryVariablesOptimizer" name="llvmir2hll::AuxiliaryVariablesOptimizer">
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1FuncOptimizer.html" title="A base class of all function optimizers. " alt="" coords="813,99,999,125"/>
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1Optimizer.html" title="A base class of all optimizers. " alt="" coords="592,99,748,125"/>
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1OrderedAllVisitor.html" title="A visitor that visits everything in an ordered way. " alt="" coords="340,64,543,91"/>
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1Visitor.html" title="A base class of all visitors. " alt="" coords="30,5,165,32"/>
+</map>

@@ -1,0 +1,43 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/llvm/llvmir2bir_converters/new_llvmir2bir_converter/llvm_instruction_converter.cpp" name="/home/retdec/retdec/src/llvmir2hll/llvm/llvmir2bir_converters/new_llvmir2bir_converter/llvm_instruction_converter.cpp">
+<area shape="rect" id="node10" href="$add__op__expr_8h.html" title="An addition operator. " alt="" coords="1399,153,1547,195"/>
+<area shape="rect" id="node12" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="4236,376,4420,403"/>
+<area shape="rect" id="node14" href="$address__op__expr_8h.html" title="An address operator. " alt="" coords="4405,153,4557,195"/>
+<area shape="rect" id="node16" href="$array__index__op__expr_8h.html" title="An array subscript operator. " alt="" coords="1571,153,1706,195"/>
+<area shape="rect" id="node17" href="$bit__and__op__expr_8h.html" title="A bit&#45;and operator. " alt="" coords="1731,153,1880,195"/>
+<area shape="rect" id="node18" href="$bit__cast__expr_8h.html" title="The casting of LLVM instruction BitCast. " alt="" coords="4545,369,4697,410"/>
+<area shape="rect" id="node19" href="$bit__or__op__expr_8h.html" title="A bit&#45;or operator. " alt="" coords="1904,153,2043,195"/>
+<area shape="rect" id="node20" href="$bit__shl__op__expr_8h.html" title="A bit left shift operator. " alt="" coords="2067,153,2211,195"/>
+<area shape="rect" id="node21" href="$bit__shr__op__expr_8h.html" title="A bit right shift operator. " alt="" coords="2235,153,2381,195"/>
+<area shape="rect" id="node22" href="$bit__xor__op__expr_8h.html" title="A bit&#45;xor operator. " alt="" coords="2405,153,2552,195"/>
+<area shape="rect" id="node23" href="$call__expr_8h.html" title="A call expression. " alt="" coords="4503,265,4627,306"/>
+<area shape="rect" id="node24" href="$const__int_8h.html" title="An integer constant. " alt="" coords="4721,369,4857,410"/>
+<area shape="rect" id="node25" href="$const__string_8h.html" title="A generic string constant. " alt="" coords="4881,369,5017,410"/>
+<area shape="rect" id="node26" href="$deref__op__expr_8h.html" title="A dereference operator. " alt="" coords="4582,153,4717,195"/>
+<area shape="rect" id="node27" href="$div__op__expr_8h.html" title="A division operator. " alt="" coords="2576,153,2720,195"/>
+<area shape="rect" id="node28" href="$eq__op__expr_8h.html" title="An equality operator. " alt="" coords="2745,153,2885,195"/>
+<area shape="rect" id="node29" href="$ext__cast__expr_8h.html" title="The casting of LLVM instructions: FPExt, SExt, ZExt. " alt="" coords="4977,265,5133,306"/>
+<area shape="rect" id="node30" href="$fp__to__int__cast__expr_8h.html" title="The casting of LLVM instructions FPtoSI/FPtoUI. " alt="" coords="5093,369,5227,410"/>
+<area shape="rect" id="node31" href="$gt__eq__op__expr_8h.html" title="A greater&#45;than&#45;or&#45;equal operator. " alt="" coords="2909,153,3046,195"/>
+<area shape="rect" id="node32" href="$gt__op__expr_8h.html" title="A greater&#45;than operator. " alt="" coords="3070,153,3207,195"/>
+<area shape="rect" id="node33" href="$int__to__fp__cast__expr_8h.html" title="The casting of LLVM instructions SItoFP/UItoFP. " alt="" coords="5259,265,5397,306"/>
+<area shape="rect" id="node34" href="$int__to__ptr__cast__expr_8h.html" title="The casting of LLVM instruction IntToPtr. " alt="" coords="5361,369,5500,410"/>
+<area shape="rect" id="node35" href="$lt__eq__op__expr_8h.html" title="A less&#45;than&#45;or&#45;equal operator. " alt="" coords="3232,153,3365,195"/>
+<area shape="rect" id="node36" href="$lt__op__expr_8h.html" title="A less&#45;than operator. " alt="" coords="3389,153,3523,195"/>
+<area shape="rect" id="node37" href="$mod__op__expr_8h.html" title="A modulo operator. " alt="" coords="3547,153,3701,195"/>
+<area shape="rect" id="node38" href="$mul__op__expr_8h.html" title="A multiplication operator. " alt="" coords="3725,153,3875,195"/>
+<area shape="rect" id="node39" href="$neq__op__expr_8h.html" title="A non&#45;equality operator. " alt="" coords="3899,153,4047,195"/>
+<area shape="rect" id="node40" href="$ptr__to__int__cast__expr_8h.html" title="The casting of LLVM instruction PtrToInt. " alt="" coords="5472,265,5611,306"/>
+<area shape="rect" id="node41" href="$struct__index__op__expr_8h.html" title="A struct index operator. " alt="" coords="4072,153,4211,195"/>
+<area shape="rect" id="node42" href="$sub__op__expr_8h.html" title="A subtraction operator. " alt="" coords="4235,153,4381,195"/>
+<area shape="rect" id="node43" href="$ternary__op__expr_8h.html" title="A ternary operator. " alt="" coords="4651,265,4799,306"/>
+<area shape="rect" id="node44" href="$trunc__cast__expr_8h.html" title="The casting of LLVM instructions FPTrunc/Trunc. " alt="" coords="5578,369,5713,410"/>
+<area shape="rect" id="node45" href="$llvm__support_8h.html" title="Supportive functions regarding LLVM IR. " alt="" coords="6057,153,6207,195"/>
+<area shape="rect" id="node46" href="$llvm__fcmp__converter_8h.html" title="A converter from LLVM fcmp instruction to expression in BIR. " alt="" coords="5686,257,5930,313"/>
+<area shape="rect" id="node47" href="$llvm__instruction__converter_8h.html" title="A converter from LLVM instruction to expression in BIR. " alt="" coords="5147,139,5347,209"/>
+<area shape="rect" id="node48" href="$llvm__value__converter_8h.html" title="A converter from LLVM values to values in BIR. " alt="" coords="5798,361,6045,417"/>
+<area shape="rect" id="node49" href="$string__conversions_8h.html" title="Conversions of strings stored in LLVM IR. " alt="" coords="6006,265,6165,306"/>
+<area shape="rect" id="node50" href="$debug_8h.html" title="Debugging support. " alt="" coords="6231,153,6369,195"/>
+<area shape="rect" id="node11" href="$binary__op__expr_8h.html" title="A base class for all binary operators. " alt="" coords="3059,265,3202,306"/>
+<area shape="rect" id="node13" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="4003,465,4141,507"/>
+<area shape="rect" id="node15" href="$unary__op__expr_8h.html" title="A base class for all unary operators. " alt="" coords="4135,265,4273,306"/>
+</map>

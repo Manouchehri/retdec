@@ -1,0 +1,16 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/utils/ir_modifier.cpp" name="/home/retdec/retdec/src/bin2llvmir/utils/ir_modifier.cpp">
+<area shape="rect" id="node4" href="$utils_8h.html" title="LLVM Utility functions. " alt="" coords="301,281,450,307"/>
+<area shape="rect" id="node11" href="$asm__instruction_8h.html" title="Mapping of LLVM instructions to underlying ASM instructions. " alt="" coords="755,184,908,225"/>
+<area shape="rect" id="node16" href="$instruction_8h.html" title="LLVM instruction utilities. " alt="" coords="1306,191,1511,218"/>
+<area shape="rect" id="node23" href="$ir__modifier_8h.html" title="Modify both LLVM IR and config. " alt="" coords="1051,184,1185,225"/>
+<area shape="rect" id="node24" href="$bin2llvmir_2utils_2type_8h.html" title="LLVM type utilities. " alt="" coords="1566,109,1731,136"/>
+<area shape="rect" id="node21" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1173,273,1327,315"/>
+<area shape="rect" id="node27" href="$fileimage_8h.html" title="File image provider for bin2llvmirl. " alt="" coords="1781,184,1935,225"/>
+<area shape="rect" id="node46" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="2484,191,2648,218"/>
+<area shape="rect" id="node28" href="$bin2llvmir_2providers_2debugformat_8h.html" title="Debug format provider for bin2llvmirl. " alt="" coords="2136,273,2289,315"/>
+<area shape="rect" id="node29" href="$debugformat_2debugformat_8h.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="1744,363,1951,389"/>
+<area shape="rect" id="node35" href="$dwarf__file_8h.html" title="Declarations of DwarfFile class which provides high&#45;level access to DWARF debugging informations..." alt="" coords="429,437,609,464"/>
+<area shape="rect" id="node39" href="$dwarf__cu_8h.html" title="Declaration of classes representing Compilation Units. " alt="" coords="535,519,709,546"/>
+<area shape="rect" id="node40" href="$dwarf__functions_8h.html" title="Declaration of classes representing functions. " alt="" coords="733,519,953,546"/>
+<area shape="rect" id="node41" href="$dwarf__linenumbers_8h.html" title="Declaration of classes representing linenumbers. " alt="" coords="977,519,1219,546"/>
+</map>

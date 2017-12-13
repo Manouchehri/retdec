@@ -1,0 +1,8 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/var_renamer/var_renamer_factory.h" name="/home/retdec/retdec/include/llvmir2hll/var_renamer/var_renamer_factory.h">
+<area shape="rect" id="node2" href="$address__var__renamer_8cpp.html" title="Implementation of AddressVarRenamer. " alt="" coords="5,124,199,195"/>
+<area shape="rect" id="node3" href="$hungarian__var__renamer_8cpp.html" title="Implementation of HungarianVarRenamer. " alt="" coords="223,124,429,195"/>
+<area shape="rect" id="node4" href="$readable__var__renamer_8cpp.html" title="Implementation of ReadableVarRenamer. " alt="" coords="453,124,652,195"/>
+<area shape="rect" id="node5" href="$simple__var__renamer_8cpp.html" title="Implementation of SimpleVarRenamer. " alt="" coords="677,124,863,195"/>
+<area shape="rect" id="node6" href="$unified__var__renamer_8cpp.html" title="Implementation of UnifiedVarRenamer. " alt="" coords="887,124,1074,195"/>
+<area shape="rect" id="node7" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="1099,131,1252,187"/>
+</map>

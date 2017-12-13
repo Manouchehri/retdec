@@ -1,0 +1,37 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/analysis/value_analysis.h" name="/home/retdec/retdec/include/llvmir2hll/analysis/value_analysis.h">
+<area shape="rect" id="node2" href="$var__uses__visitor_8h.html" title="A visitor for obtaining the uses of variables in a function. " alt="" coords="665,124,867,180"/>
+<area shape="rect" id="node3" href="$def__use__analysis_8cpp.html" title="Implementation of DefUseAnalysis. " alt="" coords="5,250,175,306"/>
+<area shape="rect" id="node5" href="$copy__propagation__optimizer_8cpp.html" title="Implementation of CopyPropagationOptimizer. " alt="" coords="199,243,413,313"/>
+<area shape="rect" id="node6" href="$dead__local__assign__optimizer_8cpp.html" title="Implementation of DeadLocalAssignOptimizer. " alt="" coords="438,243,657,313"/>
+<area shape="rect" id="node7" href="$global__to__local__optimizer_8cpp.html" title="Implementation of GlobalToLocalOptimizer. " alt="" coords="875,243,1073,313"/>
+<area shape="rect" id="node8" href="$pre__while__true__loop__conv__optimizer_8cpp.html" title="Implementation of PreWhileTrueLoopConvOptimizer. " alt="" coords="1097,243,1291,313"/>
+<area shape="rect" id="node9" href="$simple__copy__propagation__optimizer_8cpp.html" title="Implementation of SimpleCopyPropagationOptimizer. " alt="" coords="1315,243,1518,313"/>
+<area shape="rect" id="node10" href="$value__analysis_8cpp.html" title="Implementation of ValueAnalysis. " alt="" coords="1044,124,1213,180"/>
+<area shape="rect" id="node11" href="$auxiliary__variables__cfg__traversal_8cpp.html" title="Implementation of AuxiliaryVariablesCFGTraversal. " alt="" coords="1238,117,1446,187"/>
+<area shape="rect" id="node12" href="$lhs__rhs__uses__cfg__traversal_8cpp.html" title="Implementation of LhsRhsUsesCFGTraversal. " alt="" coords="1470,117,1675,187"/>
+<area shape="rect" id="node13" href="$modified__before__read__cfg__traversal_8cpp.html" title="Implementation of ModifiedBeforeReadCFGTraversal. " alt="" coords="1699,117,1926,187"/>
+<area shape="rect" id="node14" href="$no__var__def__cfg__traversal_8cpp.html" title="Implementation of NoVarDefCFGTraversal. " alt="" coords="1950,117,2147,187"/>
+<area shape="rect" id="node15" href="$nodes__of__var__use__cfg__traversal_8cpp.html" title="Implementation of NodesOfVarUseCFGTraversal. " alt="" coords="2171,117,2390,187"/>
+<area shape="rect" id="node16" href="$optim__func__info__cfg__traversal_8cpp.html" title="Implementation of OptimFuncInfoCFGTraversal. " alt="" coords="2414,117,2622,187"/>
+<area shape="rect" id="node17" href="$unneeded__global__vars__cfg__traversal_8cpp.html" title="Implementation of UnneededGlobalVarsCFGTraversal. " alt="" coords="2647,117,2869,187"/>
+<area shape="rect" id="node18" href="$var__def__cfg__traversal_8cpp.html" title="Implementation of VarDefCFGTraversal. " alt="" coords="2893,117,3063,187"/>
+<area shape="rect" id="node19" href="$var__use__cfg__traversal_8cpp.html" title="Implementation of VarUseCFGTraversal. " alt="" coords="3087,117,3258,187"/>
+<area shape="rect" id="node20" href="$call__info__obtainer_8cpp.html" title="Implementation of CallInfoObtainer. " alt="" coords="3283,124,3452,180"/>
+<area shape="rect" id="node21" href="$optimizer__manager_8cpp.html" title="Implementation of OptimizerManager. " alt="" coords="3477,124,3655,180"/>
+<area shape="rect" id="node22" href="$auxiliary__variables__optimizer_8cpp.html" title="Implementation of AuxiliaryVariablesOptimizer. " alt="" coords="3680,117,3903,187"/>
+<area shape="rect" id="node23" href="$bit__op__to__log__op__optimizer_8cpp.html" title="Implementation of BitOpToLogOpOptimizer. " alt="" coords="3927,117,4114,187"/>
+<area shape="rect" id="node24" href="$dead__global__assign__optimizer_8cpp.html" title="Implementation of DeadGlobalAssignOptimizer. " alt="" coords="4138,117,4317,187"/>
+<area shape="rect" id="node25" href="$if__before__loop__optimizer_8cpp.html" title="Implementation of IfBeforeLoopOptimizer. " alt="" coords="4341,117,4533,187"/>
+<area shape="rect" id="node26" href="$if__to__switch__optimizer_8cpp.html" title="Implementation of IfToSwitchOptimizer. " alt="" coords="4557,117,4735,187"/>
+<area shape="rect" id="node27" href="$unreachable__code__optimizer_8cpp.html" title="Implementation of UnreachableCodeOptimizer. " alt="" coords="4759,117,4938,187"/>
+<area shape="rect" id="node28" href="$var__def__stmt__optimizer_8cpp.html" title="Implementation of VarDefStmtOptimizer. " alt="" coords="4963,117,5148,187"/>
+<area shape="rect" id="node29" href="$while__true__to__for__loop__optimizer_8cpp.html" title="Implementation of WhileTrueToForLoopOptimizer. " alt="" coords="5173,117,5359,187"/>
+<area shape="rect" id="node30" href="$while__true__to__ufor__loop__optimizer_8cpp.html" title="Implementation of WhileTrueToUForLoopOptimizer. " alt="" coords="5383,117,5570,187"/>
+<area shape="rect" id="node31" href="$pattern__finder_8cpp.html" title="Implementation of PatternFinder. " alt="" coords="5594,124,5757,180"/>
+<area shape="rect" id="node32" href="$api__call__seq__finder_8cpp.html" title="Implementation of APICallSeqFinder. " alt="" coords="5781,117,5959,187"/>
+<area shape="rect" id="node33" href="$basic__block__api__call__seq__finder_8cpp.html" title="Implementation of BasicBlockAPICallSeqFinder. " alt="" coords="5983,109,6205,195"/>
+<area shape="rect" id="node34" href="$api__call__pattern__finder_8cpp.html" title="Implementation of APICallPatternFinder. " alt="" coords="6229,117,6407,187"/>
+<area shape="rect" id="node35" href="$api__call__seq__pattern__finder_8cpp.html" title="Implementation of APICallSeqPatternFinder. " alt="" coords="6431,117,6610,187"/>
+<area shape="rect" id="node36" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="6635,124,6788,180"/>
+<area shape="rect" id="node4" href="$var__uses__visitor_8cpp.html" title="Implementation of VarUsesVisitor. " alt="" coords="681,250,851,306"/>
+</map>

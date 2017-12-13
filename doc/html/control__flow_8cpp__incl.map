@@ -1,0 +1,16 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/control_flow/control_flow.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/control_flow/control_flow.cpp">
+<area shape="rect" id="node7" href="$control__flow_8h.html" title="Reconstruct control flow. " alt="" coords="1375,109,1573,151"/>
+<area shape="rect" id="node33" href="$utils_8h.html" title="LLVM Utility functions. " alt="" coords="723,385,873,411"/>
+<area shape="rect" id="node39" href="$lti_8h.html" title="Library type information provider for bin2llvmirl. " alt="" coords="2065,199,2219,240"/>
+<area shape="rect" id="node45" href="$ir__modifier_8h.html" title="Modify both LLVM IR and config. " alt="" coords="1519,288,1653,329"/>
+<area shape="rect" id="node46" href="$global__var_8h.html" title="LLVM global variable utilities. " alt="" coords="3412,199,3576,240"/>
+<area shape="rect" id="node48" href="$bin2llvmir_2utils_2type_8h.html" title="LLVM type utilities. " alt="" coords="2733,206,2898,233"/>
+<area shape="rect" id="node10" href="$reaching__definitions_8h.html" title="Reaching definitions analysis (RDA) builds UD and DU chains. " alt="" coords="1047,288,1216,329"/>
+<area shape="rect" id="node17" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="2471,377,2624,419"/>
+<area shape="rect" id="node23" href="$symbolic__tree_8h.html" title="Construction of symbolic tree from the given node. " alt="" coords="779,199,929,240"/>
+<area shape="rect" id="node25" href="$fileimage_8h.html" title="File image provider for bin2llvmirl. " alt="" coords="3113,288,3267,329"/>
+<area shape="rect" id="node31" href="$asm__instruction_8h.html" title="Mapping of LLVM instructions to underlying ASM instructions. " alt="" coords="1240,288,1393,329"/>
+<area shape="rect" id="node20" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="484,385,648,411"/>
+<area shape="rect" id="node27" href="$bin2llvmir_2providers_2debugformat_8h.html" title="Debug format provider for bin2llvmirl. " alt="" coords="3113,377,3267,419"/>
+<area shape="rect" id="node28" href="$debugformat_2debugformat_8h.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="3516,467,3723,493"/>
+</map>

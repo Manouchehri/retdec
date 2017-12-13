@@ -1,0 +1,24 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/optimizer/optimizers/simplify_arithm_expr/sub_optimizer.h" name="/home/retdec/retdec/include/llvmir2hll/optimizer/optimizers/simplify_arithm_expr/sub_optimizer.h">
+<area shape="rect" id="node3" href="$arithm__expr__evaluator_8h.html" title="A base class for all evaluators. " alt="" coords="1055,139,1240,180"/>
+<area shape="rect" id="node33" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="1987,525,2124,567"/>
+<area shape="rect" id="node38" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="1647,407,1797,463"/>
+<area shape="rect" id="node40" href="$sub__optimizer__factory_8h.html" title="Factory that creates instances of classes derived from SubOptimizer. " alt="" coords="2357,511,2561,581"/>
+<area shape="rect" id="node5" href="$cast__expr_8h.html" title="Base class for cast instructions. " alt="" coords="557,317,685,359"/>
+<area shape="rect" id="node21" href="$const__bool_8h.html" title="A bool constant. " alt="" coords="1139,228,1275,269"/>
+<area shape="rect" id="node22" href="$constant_8h.html" title="A base class for all constants. " alt="" coords="1057,325,1227,351"/>
+<area shape="rect" id="node23" href="$const__float_8h.html" title="A float constant. " alt="" coords="1299,228,1435,269"/>
+<area shape="rect" id="node26" href="$const__int_8h.html" title="An integer constant. " alt="" coords="1697,228,1833,269"/>
+<area shape="rect" id="node30" href="$maybe_8h.html" title="A simple implementation of the Maybe monad from Haskell. " alt="" coords="760,228,897,269"/>
+<area shape="rect" id="node6" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="717,421,901,448"/>
+<area shape="rect" id="node12" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1389,719,1527,760"/>
+<area shape="rect" id="node20" href="$llvmir2hll_2ir_2type_8h.html" title="A base class of all types. " alt="" coords="549,421,692,448"/>
+<area shape="rect" id="node7" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="658,533,807,559"/>
+<area shape="rect" id="node10" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="789,629,927,671"/>
+<area shape="rect" id="node11" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="487,629,624,671"/>
+<area shape="rect" id="node15" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="325,629,463,671"/>
+<area shape="rect" id="node18" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="951,629,1088,671"/>
+<area shape="rect" id="node31" href="$debug_8h.html" title="Debugging support. " alt="" coords="709,317,847,359"/>
+<area shape="rect" id="node39" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="1547,525,1684,567"/>
+<area shape="rect" id="node41" href="$factory_8h.html" title="Implementation of the Object Factory design pattern. " alt="" coords="2429,629,2567,671"/>
+<area shape="rect" id="node42" href="$singleton_8h.html" title="Implementation of the Singleton design pattern. " alt="" coords="2591,629,2728,671"/>
+</map>

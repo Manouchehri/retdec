@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/llvm/llvmir2bir_converters/new_llvmir2bir_converter/cfg_node.h" name="/home/retdec/retdec/include/llvmir2hll/llvm/llvmir2bir_converters/new_llvmir2bir_converter/cfg_node.h">
+<area shape="rect" id="node2" href="$structure__converter_8h.html" title="A converter of the LLVM function structure. " alt="" coords="117,139,315,224"/>
+<area shape="rect" id="node5" href="$cfg__node_8cpp.html" title="Implementation of CFGNode. " alt="" coords="340,139,532,224"/>
+<area shape="rect" id="node3" href="$structure__converter_8cpp.html" title="Implementation of StructureConverter. " alt="" coords="5,272,197,357"/>
+<area shape="rect" id="node4" href="$new__llvmir2bir__converter_8cpp.html" title="Implementation of NewLLVMIR2BIRConverter. " alt="" coords="221,279,440,350"/>
+</map>

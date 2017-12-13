@@ -1,0 +1,13 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/cfg_function_detection/cfg_function_detection.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/cfg_function_detection/cfg_function_detection.cpp">
+<area shape="rect" id="node11" href="$cfg__function__detection_8h.html" title="Detect functions using control flow graph. " alt="" coords="681,124,868,180"/>
+<area shape="rect" id="node17" href="$utils_8h.html" title="LLVM Utility functions. " alt="" coords="200,325,349,351"/>
+<area shape="rect" id="node40" href="$bin2llvmir_2utils_2type_8h.html" title="LLVM type utilities. " alt="" coords="1428,139,1593,165"/>
+<area shape="rect" id="node50" href="$ir__modifier_8h.html" title="Modify both LLVM IR and config. " alt="" coords="1816,228,1949,269"/>
+<area shape="rect" id="node15" href="$asm__instruction_8h.html" title="Mapping of LLVM instructions to underlying ASM instructions. " alt="" coords="641,228,794,269"/>
+<area shape="rect" id="node23" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1809,317,1962,359"/>
+<area shape="rect" id="node25" href="$fileimage_8h.html" title="File image provider for bin2llvmirl. " alt="" coords="1198,228,1351,269"/>
+<area shape="rect" id="node28" href="$bin2llvmir_2providers_2debugformat_8h.html" title="Debug format provider for bin2llvmirl. " alt="" coords="1022,317,1175,359"/>
+<area shape="rect" id="node29" href="$debugformat_2debugformat_8h.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="1119,407,1326,433"/>
+<area shape="rect" id="node35" href="$dwarf__file_8h.html" title="Declarations of DwarfFile class which provides high&#45;level access to DWARF debugging informations..." alt="" coords="1907,481,2087,508"/>
+<area shape="rect" id="node43" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="2342,235,2506,262"/>
+</map>

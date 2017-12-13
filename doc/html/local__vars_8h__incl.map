@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/optimizations/local_vars/local_vars.h" name="/home/retdec/retdec/include/bin2llvmir/optimizations/local_vars/local_vars.h">
+<area shape="rect" id="node5" href="$reaching__definitions_8h.html" title="Reaching definitions analysis (RDA) builds UD and DU chains. " alt="" coords="729,124,898,165"/>
+<area shape="rect" id="node12" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1154,213,1307,255"/>
+<area shape="rect" id="node16" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="561,221,725,247"/>
+</map>

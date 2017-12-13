@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/obtainer/call_info_obtainers/optim_call_info_obtainer.h" name="/home/retdec/retdec/include/llvmir2hll/obtainer/call_info_obtainers/optim_call_info_obtainer.h">
+<area shape="rect" id="node2" href="$optim__func__info__cfg__traversal_8h.html" title="A CFG traversal for computing OptimFuncInfos. " alt="" coords="61,124,296,195"/>
+<area shape="rect" id="node4" href="$optim__call__info__obtainer_8cpp.html" title="Implementation of OptimCallInfoObtainer. " alt="" coords="238,243,429,313"/>
+<area shape="rect" id="node3" href="$optim__func__info__cfg__traversal_8cpp.html" title="Implementation of OptimFuncInfoCFGTraversal. " alt="" coords="5,243,213,313"/>
+</map>

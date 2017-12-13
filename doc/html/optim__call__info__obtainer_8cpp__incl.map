@@ -1,0 +1,25 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/obtainer/call_info_obtainers/optim_call_info_obtainer.cpp" name="/home/retdec/retdec/src/llvmir2hll/obtainer/call_info_obtainers/optim_call_info_obtainer.cpp">
+<area shape="rect" id="node2" href="$optim__func__info__cfg__traversal_8h.html" title="A CFG traversal for computing OptimFuncInfos. " alt="" coords="110,124,303,180"/>
+<area shape="rect" id="node17" href="$optim__call__info__obtainer_8h.html" title="Obtainer of information about functions and function calls that assumes it has access to complete inf..." alt="" coords="818,228,1017,284"/>
+<area shape="rect" id="node20" href="$cg_8h.html" title="A representation of a call graph (CG). " alt="" coords="361,436,543,463"/>
+<area shape="rect" id="node21" href="$call__expr_8h.html" title="A call expression. " alt="" coords="1653,235,1777,277"/>
+<area shape="rect" id="node31" href="$function_8h.html" title="A representation of a function. " alt="" coords="1459,339,1626,366"/>
+<area shape="rect" id="node32" href="$module_8h.html" title="A representation of a complete module. " alt="" coords="904,436,1067,463"/>
+<area shape="rect" id="node35" href="$statement_8h.html" title="A representation of a program statement. " alt="" coords="1255,339,1435,366"/>
+<area shape="rect" id="node36" href="$variable_8h.html" title="A representation of a variable. " alt="" coords="2499,243,2666,269"/>
+<area shape="rect" id="node37" href="$call__info__obtainer__factory_8h.html" title="Factory that creates instances of classes derived from CallInfoObtainer. " alt="" coords="3386,421,3529,477"/>
+<area shape="rect" id="node40" href="$debug_8h.html" title="Debugging support. " alt="" coords="2303,131,2441,173"/>
+<area shape="rect" id="node3" href="$cfg_8h.html" title="A representation of a control&#45;flow graph (CFG). " alt="" coords="129,429,285,470"/>
+<area shape="rect" id="node10" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="149,525,286,567"/>
+<area shape="rect" id="node16" href="$cfg__traversal_8h.html" title="A base class of all CFG traversals. " alt="" coords="430,332,586,373"/>
+<area shape="rect" id="node8" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="2329,615,2466,656"/>
+<area shape="rect" id="node18" href="$call__info__obtainer_8h.html" title="A base class of all obtainers of information about functions and function calls. " alt="" coords="638,332,791,373"/>
+<area shape="rect" id="node22" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="2151,339,2335,366"/>
+<area shape="rect" id="node23" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="2176,436,2325,463"/>
+<area shape="rect" id="node26" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="2266,525,2403,567"/>
+<area shape="rect" id="node27" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="2589,525,2726,567"/>
+<area shape="rect" id="node28" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="1761,525,1898,567"/>
+<area shape="rect" id="node30" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="2427,525,2565,567"/>
+<area shape="rect" id="node38" href="$factory_8h.html" title="Implementation of the Object Factory design pattern. " alt="" coords="1547,525,1685,567"/>
+<area shape="rect" id="node39" href="$singleton_8h.html" title="Implementation of the Singleton design pattern. " alt="" coords="3389,525,3526,567"/>
+</map>

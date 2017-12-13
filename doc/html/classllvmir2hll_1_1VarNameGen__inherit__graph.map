@@ -1,0 +1,5 @@
+<map id="llvmir2hll::VarNameGen" name="llvmir2hll::VarNameGen">
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1FruitVarNameGen.html" title="A generator of fruit names as variable names. " alt="" coords="5,155,212,181"/>
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1NumVarNameGen.html" title="A generator of variable names of the form prefixN, where N is a number. " alt="" coords="236,155,445,181"/>
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1WordVarNameGen.html" title="A generator of words as variable names. " alt="" coords="470,155,681,181"/>
+</map>

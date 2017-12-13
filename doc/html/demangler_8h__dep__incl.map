@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/providers/demangler.h" name="/home/retdec/retdec/include/bin2llvmir/providers/demangler.h">
+<area shape="rect" id="node2" href="$hierarchy_8cpp.html" title="Represents class hierarchy. " alt="" coords="5,109,223,165"/>
+<area shape="rect" id="node3" href="$provider__init_8cpp.html" title="One time providers initialization. " alt="" coords="247,109,469,165"/>
+<area shape="rect" id="node4" href="$bin2llvmir_2providers_2config_8cpp.html" title="Config DB provider for bin2llvmirl. " alt="" coords="493,109,673,165"/>
+<area shape="rect" id="node5" href="$demangler_8cpp.html" title="Demangler provider for bin2llvmirl. " alt="" coords="697,109,877,165"/>
+</map>

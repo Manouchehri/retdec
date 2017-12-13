@@ -1,0 +1,7 @@
+<map id="llvmir2hll::BracketManager" name="llvmir2hll::BracketManager">
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1CBracketManager.html" title="A class that contains precedence table and overrided methods which decide of elimination redundant br..." alt="" coords="690,5,897,32"/>
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1NoBracketManager.html" title="A class that that turns off eleminating redundant brackets. " alt="" coords="685,56,901,83"/>
+<area shape="rect" id="node6" href="$classllvmir2hll_1_1PyBracketManager.html" title="A class that contains precedence table and overrided methods which decide of elimination redundant br..." alt="" coords="686,107,901,133"/>
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1OrderedAllVisitor.html" title="A visitor that visits everything in an ordered way. " alt="" coords="188,56,391,83"/>
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1Visitor.html" title="A base class of all visitors. " alt="" coords="5,56,140,83"/>
+</map>

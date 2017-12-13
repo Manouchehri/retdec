@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/obtainer/calls_in_module_obtainer.h" name="/home/retdec/retdec/include/llvmir2hll/obtainer/calls_in_module_obtainer.h">
+<area shape="rect" id="node2" href="$calls__in__module__obtainer_8cpp.html" title="Implementation of the obtainer of information about function calls in a module. " alt="" coords="5,131,224,187"/>
+<area shape="rect" id="node3" href="$api__call__pattern__finder_8cpp.html" title="Implementation of APICallPatternFinder. " alt="" coords="248,124,427,195"/>
+<area shape="rect" id="node4" href="$api__call__seq__pattern__finder_8cpp.html" title="Implementation of APICallSeqPatternFinder. " alt="" coords="451,124,629,195"/>
+</map>

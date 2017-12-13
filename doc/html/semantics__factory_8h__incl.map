@@ -1,0 +1,9 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/semantics/semantics_factory.h" name="/home/retdec/retdec/include/llvmir2hll/semantics/semantics_factory.h">
+<area shape="rect" id="node2" href="$semantics_8h.html" title="A base class for all descriptions of function semantics. " alt="" coords="489,124,644,165"/>
+<area shape="rect" id="node17" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="993,303,1130,344"/>
+<area shape="rect" id="node20" href="$factory_8h.html" title="Implementation of the Object Factory design pattern. " alt="" coords="877,213,1014,255"/>
+<area shape="rect" id="node21" href="$singleton_8h.html" title="Implementation of the Singleton design pattern. " alt="" coords="1090,124,1227,165"/>
+<area shape="rect" id="node4" href="$maybe_8h.html" title="A simple implementation of the Maybe monad from Haskell. " alt="" coords="186,213,323,255"/>
+<area shape="rect" id="node10" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="498,213,635,255"/>
+<area shape="rect" id="node7" href="$debug_8h.html" title="Debugging support. " alt="" coords="223,303,361,344"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/var_renamer/var_renamers/hungarian_var_renamer.cpp" name="/home/retdec/retdec/src/llvmir2hll/var_renamer/var_renamers/hungarian_var_renamer.cpp">
+<area shape="rect" id="node2" href="$float__type_8h.html" title="A representation of an floatong point types. " alt="" coords="871,131,1002,173"/>
+<area shape="rect" id="node19" href="$int__type_8h.html" title="A representation of an integer type. " alt="" coords="605,139,772,165"/>
+<area shape="rect" id="node20" href="$pointer__type_8h.html" title="A representation of a pointer type. " alt="" coords="283,131,430,173"/>
+<area shape="rect" id="node21" href="$variable_8h.html" title="A representation of a variable. " alt="" coords="1180,139,1347,165"/>
+<area shape="rect" id="node23" href="$debug_8h.html" title="Debugging support. " alt="" coords="40,131,177,173"/>
+<area shape="rect" id="node25" href="$num__var__name__gen_8h.html" title="A generator of variable names of the form &quot;prefixN&quot;, where N is a number. " alt="" coords="2379,228,2572,284"/>
+<area shape="rect" id="node27" href="$var__renamer__factory_8h.html" title="Factory that creates instances of classes derived from VarRenamer. " alt="" coords="1824,131,1996,173"/>
+<area shape="rect" id="node38" href="$hungarian__var__renamer_8h.html" title="A renamer of variable names by using the Hungarian notation. " alt="" coords="2103,124,2288,180"/>
+<area shape="rect" id="node4" href="$llvmir2hll_2ir_2type_8h.html" title="A base class of all types. " alt="" coords="285,243,428,269"/>
+<area shape="rect" id="node11" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1311,525,1448,567"/>
+<area shape="rect" id="node5" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="935,347,1085,373"/>
+<area shape="rect" id="node9" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="941,436,1079,477"/>
+<area shape="rect" id="node10" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="529,436,667,477"/>
+<area shape="rect" id="node14" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="691,436,828,477"/>
+<area shape="rect" id="node17" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="1103,436,1240,477"/>
+<area shape="rect" id="node22" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="1057,243,1241,269"/>
+<area shape="rect" id="node26" href="$var__name__gen_8h.html" title="A base class for all generators of variable names. " alt="" coords="2393,339,2558,381"/>
+<area shape="rect" id="node28" href="$factory_8h.html" title="Implementation of the Object Factory design pattern. " alt="" coords="2000,436,2137,477"/>
+<area shape="rect" id="node29" href="$singleton_8h.html" title="Implementation of the Singleton design pattern. " alt="" coords="1920,235,2057,277"/>
+<area shape="rect" id="node30" href="$var__renamer_8h.html" title="A base class for all variable renamers. " alt="" coords="2183,235,2354,277"/>
+<area shape="rect" id="node31" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="1643,332,1793,388"/>
+<area shape="rect" id="node32" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="2315,436,2452,477"/>
+<area shape="rect" id="node37" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="1787,436,1924,477"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="/home/retdec/retdec/include/llvm&#45;support/utils.h" name="/home/retdec/retdec/include/llvm&#45;support/utils.h">
+<area shape="rect" id="node2" href="$asm__instruction_8h.html" title="Mapping of LLVM instructions to underlying ASM instructions. " alt="" coords="2122,117,2329,173"/>
+<area shape="rect" id="node3" href="$reaching__definitions_8cpp.html" title="Reaching definitions analysis builds UD and DU chains. " alt="" coords="5,235,189,291"/>
+<area shape="rect" id="node4" href="$asm__inst__remover_8cpp.html" title="Remove all special instructions used to map LLVM instructions to ASM instructions. " alt="" coords="213,228,424,299"/>
+<area shape="rect" id="node5" href="$cond__branch__opt_8cpp.html" title="Conditional branch optimization. " alt="" coords="448,235,725,291"/>
+<area shape="rect" id="node6" href="$constants_8cpp.html" title="Composite type reconstruction analysis. " alt="" coords="749,235,957,291"/>
+<area shape="rect" id="node7" href="$inst__opt_8cpp.html" title="Instruction optimizations which we want to do ourselves. " alt="" coords="981,235,1189,291"/>
+<area shape="rect" id="node8" href="$main__detection_8cpp.html" title="Detect main function. " alt="" coords="1213,235,1472,291"/>
+<area shape="rect" id="node9" href="$param__return_8cpp.html" title="Detect functions&#39; parameters and returns. " alt="" coords="1497,235,1730,291"/>
+<area shape="rect" id="node10" href="$provider__init_8cpp.html" title="One time providers initialization. " alt="" coords="1755,235,1976,291"/>
+<area shape="rect" id="node11" href="$register_8cpp.html" title="Solve register pseudo functions. " alt="" coords="2000,235,2208,291"/>
+<area shape="rect" id="node12" href="$simple__types_8cpp.html" title="Simple type reconstruction analysis. " alt="" coords="2233,235,2463,291"/>
+<area shape="rect" id="node13" href="$stack_8cpp.html" title="Reconstruct stack. " alt="" coords="2488,235,2696,291"/>
+<area shape="rect" id="node14" href="$syscalls_2arm_8cpp.html" title="Implement ARM syscall identification and fixing pass SyscallFixer. " alt="" coords="2720,235,2928,291"/>
+<area shape="rect" id="node15" href="$syscalls_2mips_8cpp.html" title="Implement MIPS syscall identification and fixing pass SyscallFixer. " alt="" coords="2952,235,3160,291"/>
+<area shape="rect" id="node16" href="$syscalls_2x86_8cpp.html" title="Implement x86 syscall identification and fixing pass SyscallFixer. " alt="" coords="3184,235,3392,291"/>
+<area shape="rect" id="node17" href="$asm__instruction_8cpp.html" title="Mapping of LLVM instructions to underlying ASM instructions. " alt="" coords="3417,235,3597,291"/>
+<area shape="rect" id="node18" href="$bin2llvmir_2providers_2config_8cpp.html" title="Config DB provider for bin2llvmirl. " alt="" coords="3621,235,3801,291"/>
+<area shape="rect" id="node19" href="$instruction_8cpp.html" title="LLVM instruction utilities. " alt="" coords="3825,235,3978,291"/>
+<area shape="rect" id="node20" href="$ir__modifier_8cpp.html" title="Modify both LLVM IR and config. " alt="" coords="4002,235,4155,291"/>
+<area shape="rect" id="node21" href="$llvmir__tests_8h.html" title="A base test class for all tests which works with LLVM IR strings. " alt="" coords="2809,117,2969,173"/>
+<area shape="rect" id="node22" href="$symbolic__tree_8cpp.html" title="Construction of symbolic tree from the given node. " alt="" coords="2994,117,3171,173"/>
+<area shape="rect" id="node23" href="$adapter__methods_8cpp.html" title="Detection of C++ adapter metods created by compiler. " alt="" coords="3196,117,3481,173"/>
+<area shape="rect" id="node24" href="$cfg__function__detection_8cpp.html" title="Detect functions using control flow graph. " alt="" coords="3505,109,3713,180"/>
+<area shape="rect" id="node25" href="$hierarchy__analysis_8cpp.html" title="Analyse results of other analyses to reconstruct class hierarchy. " alt="" coords="3737,109,3945,180"/>
+<area shape="rect" id="node26" href="$control__flow_2arm_8cpp.html" title="Reconstruct control flow – ARM specific module. " alt="" coords="3969,117,4177,173"/>
+<area shape="rect" id="node27" href="$control__flow_8cpp.html" title="Reconstruct control flow. " alt="" coords="4202,117,4417,173"/>
+<area shape="rect" id="node28" href="$control__flow_2mips_8cpp.html" title="Reconstruct control flow – MIPS specific module. " alt="" coords="4441,117,4649,173"/>
+<area shape="rect" id="node29" href="$powerpc_8cpp.html" title="Reconstruct control flow – PowerPC specific module. " alt="" coords="4673,117,4881,173"/>
+<area shape="rect" id="node30" href="$control__flow_2x86_8cpp.html" title="Reconstruct control flow – x86 specific module. " alt="" coords="4905,117,5113,173"/>
+<area shape="rect" id="node31" href="$ctor__dtor_8cpp.html" title="Constructor and destructor detection analysis. " alt="" coords="5137,117,5345,173"/>
+<area shape="rect" id="node32" href="$data__references_8cpp.html" title="Search for references in input file. " alt="" coords="5369,117,5636,173"/>
+<area shape="rect" id="node33" href="$decoder_8cpp.html" title="Decode input binary into LLVM IR. " alt="" coords="5660,117,5868,173"/>
+<area shape="rect" id="node34" href="$dsm__generator_8cpp.html" title="Produce DSM output. " alt="" coords="5893,117,6145,173"/>
+<area shape="rect" id="node35" href="$dump__module_8cpp.html" title="This is a utility debug pass that only dumps the module into LLVM IR. " alt="" coords="6169,117,6412,173"/>
+<area shape="rect" id="node36" href="$idioms__gcc_8cpp.html" title="GNU/GCC instruction idioms. " alt="" coords="6436,117,6644,173"/>
+<area shape="rect" id="node37" href="$idioms__libgcc_8cpp.html" title="Idioms produced by libgcc. " alt="" coords="6668,117,6903,173"/>
+<area shape="rect" id="node38" href="$local__vars_8cpp.html" title="Register localization. " alt="" coords="6927,117,7135,173"/>
+<area shape="rect" id="node39" href="$select__functions_8cpp.html" title="If ranges or functions are selected in config, remove bodies of all functions that are not selected..." alt="" coords="7159,117,7428,173"/>
+<area shape="rect" id="node40" href="$stack__pointer__ops_8cpp.html" title="Remove the remaining stack pointer operations. " alt="" coords="7452,117,7745,173"/>
+<area shape="rect" id="node41" href="$stack__protect_8cpp.html" title="Protect stack variables from LLVM optimization passes. " alt="" coords="7770,117,8003,173"/>
+<area shape="rect" id="node42" href="$syscalls_8cpp.html" title="Implement syscall identification and fixing pass SyscallFixer. " alt="" coords="8028,117,8236,173"/>
+<area shape="rect" id="node43" href="$type__conversions_8cpp.html" title="Removes unnecessary data type conversions. " alt="" coords="8260,117,8545,173"/>
+<area shape="rect" id="node44" href="$unreachable__funcs_8cpp.html" title="Implementation of UnreachableFuncs optimizer. " alt="" coords="8569,109,8801,180"/>
+<area shape="rect" id="node45" href="$volatilize_8cpp.html" title="Make all loads and stores volatile to protected them. " alt="" coords="8825,117,9033,173"/>
+<area shape="rect" id="node46" href="$vtable_8cpp.html" title="Search for vtables in input file. " alt="" coords="9057,117,9265,173"/>
+<area shape="rect" id="node47" href="$lti_8cpp.html" title="Library type information provider for bin2llvmirl. " alt="" coords="9290,117,9470,173"/>
+<area shape="rect" id="node48" href="$global__var_8cpp.html" title="LLVM global variable utilities. " alt="" coords="9494,117,9647,173"/>
+<area shape="rect" id="node49" href="$bin2llvmir_2utils_2type_8cpp.html" title="LLVM type utilities. " alt="" coords="9671,117,9825,173"/>
+<area shape="rect" id="node50" href="$utils_8cpp.html" title="LLVM Utility functions. " alt="" coords="9849,124,10039,165"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/loop_last_continue_optimizer.cpp" name="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/loop_last_continue_optimizer.cpp">
+<area shape="rect" id="node2" href="$continue__stmt_8h.html" title="A continue statement to continue looping. " alt="" coords="961,131,1119,173"/>
+<area shape="rect" id="node24" href="$for__loop__stmt_8h.html" title="A for loop statement. " alt="" coords="1243,228,1397,269"/>
+<area shape="rect" id="node25" href="$while__loop__stmt_8h.html" title="A while loop statement. " alt="" coords="1083,228,1219,269"/>
+<area shape="rect" id="node26" href="$loop__last__continue__optimizer_8h.html" title="Optimizes redundant continue statements in loops. " alt="" coords="1803,124,1968,180"/>
+<area shape="rect" id="node31" href="$debug_8h.html" title="Debugging support. " alt="" coords="155,131,293,173"/>
+<area shape="rect" id="node3" href="$statement_8h.html" title="A representation of a program statement. " alt="" coords="950,325,1130,351"/>
+<area shape="rect" id="node7" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="669,421,819,448"/>
+<area shape="rect" id="node12" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1565,600,1702,641"/>
+<area shape="rect" id="node19" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="1194,511,1331,552"/>
+<area shape="rect" id="node10" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="441,511,578,552"/>
+<area shape="rect" id="node11" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="1407,511,1545,552"/>
+<area shape="rect" id="node14" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="815,511,953,552"/>
+<area shape="rect" id="node17" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="602,511,739,552"/>
+<area shape="rect" id="node27" href="$func__optimizer_8h.html" title="A base class of all function optimizers. " alt="" coords="1810,228,1961,269"/>
+<area shape="rect" id="node28" href="$optimizer_8h.html" title="A base class of all optimizers. " alt="" coords="1759,317,1910,359"/>
+<area shape="rect" id="node29" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="1759,407,1910,463"/>
+<area shape="rect" id="node30" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="1722,511,1859,552"/>
+</map>

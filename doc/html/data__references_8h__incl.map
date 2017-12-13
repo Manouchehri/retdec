@@ -1,0 +1,17 @@
+<map id="/home/retdec/retdec/include/bin2llvmir/optimizations/data_references/data_references.h" name="/home/retdec/retdec/include/bin2llvmir/optimizations/data_references/data_references.h">
+<area shape="rect" id="node7" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="689,213,842,255"/>
+<area shape="rect" id="node11" href="$fileimage_8h.html" title="File image provider for bin2llvmirl. " alt="" coords="1023,124,1177,165"/>
+<area shape="rect" id="node14" href="$bin2llvmir_2providers_2debugformat_8h.html" title="Debug format provider for bin2llvmirl. " alt="" coords="1425,213,1578,255"/>
+<area shape="rect" id="node15" href="$debugformat_2debugformat_8h.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="1437,303,1643,329"/>
+<area shape="rect" id="node21" href="$dwarf__file_8h.html" title="Declarations of DwarfFile class which provides high&#45;level access to DWARF debugging informations..." alt="" coords="1749,377,1929,404"/>
+<area shape="rect" id="node26" href="$dwarf__cu_8h.html" title="Declaration of classes representing Compilation Units. " alt="" coords="961,691,1135,717"/>
+<area shape="rect" id="node32" href="$dwarf__functions_8h.html" title="Declaration of classes representing functions. " alt="" coords="1581,459,1801,486"/>
+<area shape="rect" id="node33" href="$dwarf__vars_8h.html" title="Declaration of classes representing variables. " alt="" coords="1657,541,1845,568"/>
+<area shape="rect" id="node34" href="$dwarf__locations_8h.html" title="Declaration of classes representing locations. " alt="" coords="1781,691,2000,717"/>
+<area shape="rect" id="node35" href="$dwarf__resources_8h.html" title="Declaration of classes representing resources. " alt="" coords="1933,765,2155,792"/>
+<area shape="rect" id="node36" href="$dwarf__parserdefs_8h.html" title="Definitions globally used in dwarfparser library. " alt="" coords="2544,840,2773,867"/>
+<area shape="rect" id="node42" href="$dwarf__types_8h.html" title="Declaration of classes representing data types. " alt="" coords="1927,616,2123,643"/>
+<area shape="rect" id="node43" href="$dwarf__utils_8h.html" title="Declaration of utility functions and classes. " alt="" coords="2230,765,2418,792"/>
+<area shape="rect" id="node44" href="$dwarf__linenumbers_8h.html" title="Declaration of classes representing linenumbers. " alt="" coords="1262,691,1503,717"/>
+<area shape="rect" id="node29" href="$dwarf__base_8h.html" title="Declaration of base classes used in dwarfparser. " alt="" coords="1515,765,1706,792"/>
+</map>

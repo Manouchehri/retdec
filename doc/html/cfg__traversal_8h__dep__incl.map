@@ -1,0 +1,27 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/graphs/cfg/cfg_traversal.h" name="/home/retdec/retdec/include/llvmir2hll/graphs/cfg/cfg_traversal.h">
+<area shape="rect" id="node2" href="$auxiliary__variables__cfg__traversal_8h.html" title="A CFG traversal for computing auxiliary variables. " alt="" coords="261,109,452,195"/>
+<area shape="rect" id="node5" href="$lhs__rhs__uses__cfg__traversal_8h.html" title="A CFG traversal that for an assign statement S returns the uses of its left&#45;hand side such that there..." alt="" coords="707,117,921,187"/>
+<area shape="rect" id="node8" href="$modified__before__read__cfg__traversal_8h.html" title="A CFG traversal that checks whether a variable is modified prior to every read access to it starting ..." alt="" coords="1159,109,1354,195"/>
+<area shape="rect" id="node11" href="$no__var__def__cfg__traversal_8h.html" title="A CFG traversal that checks whether no variable in a given set is defined/modified between a start st..." alt="" coords="1789,117,1991,187"/>
+<area shape="rect" id="node14" href="$nodes__of__var__use__cfg__traversal_8h.html" title="A CFG traversal that returns a map where key is a VarDefStmt statement and item is the set of nodes w..." alt="" coords="1425,117,1672,187"/>
+<area shape="rect" id="node16" href="$optim__func__info__cfg__traversal_8h.html" title="A CFG traversal for computing OptimFuncInfos. " alt="" coords="2278,117,2513,187"/>
+<area shape="rect" id="node19" href="$unneeded__global__vars__cfg__traversal_8h.html" title="A CFG traversal that obtains so&#45;called ``unneeded&#39;&#39; global variables from functions. " alt="" coords="2751,109,2949,195"/>
+<area shape="rect" id="node22" href="$var__def__cfg__traversal_8h.html" title="A CFG traversal that checks whether a variable is defined/modified between two statements. " alt="" coords="2016,117,2207,187"/>
+<area shape="rect" id="node24" href="$var__use__cfg__traversal_8h.html" title="A CFG traversal that checks whether a variable is defined/modified prior to every read access to it i..." alt="" coords="2981,117,3172,187"/>
+<area shape="rect" id="node26" href="$cfg__traversal_8cpp.html" title="Implementation of CFGTraversal. " alt="" coords="3197,124,3359,180"/>
+<area shape="rect" id="node3" href="$auxiliary__variables__cfg__traversal_8cpp.html" title="Implementation of AuxiliaryVariablesCFGTraversal. " alt="" coords="253,243,461,313"/>
+<area shape="rect" id="node4" href="$auxiliary__variables__optimizer_8cpp.html" title="Implementation of AuxiliaryVariablesOptimizer. " alt="" coords="5,243,228,313"/>
+<area shape="rect" id="node6" href="$lhs__rhs__uses__cfg__traversal_8cpp.html" title="Implementation of LhsRhsUsesCFGTraversal. " alt="" coords="711,243,917,313"/>
+<area shape="rect" id="node7" href="$simple__copy__propagation__optimizer_8cpp.html" title="Implementation of SimpleCopyPropagationOptimizer. " alt="" coords="485,243,687,313"/>
+<area shape="rect" id="node9" href="$modified__before__read__cfg__traversal_8cpp.html" title="Implementation of ModifiedBeforeReadCFGTraversal. " alt="" coords="1143,243,1370,313"/>
+<area shape="rect" id="node10" href="$dead__global__assign__optimizer_8cpp.html" title="Implementation of DeadGlobalAssignOptimizer. " alt="" coords="941,243,1119,313"/>
+<area shape="rect" id="node12" href="$no__var__def__cfg__traversal_8cpp.html" title="Implementation of NoVarDefCFGTraversal. " alt="" coords="1637,243,1834,313"/>
+<area shape="rect" id="node13" href="$copy__propagation__optimizer_8cpp.html" title="Implementation of CopyPropagationOptimizer. " alt="" coords="1859,243,2073,313"/>
+<area shape="rect" id="node15" href="$nodes__of__var__use__cfg__traversal_8cpp.html" title="Implementation of NodesOfVarUseCFGTraversal. " alt="" coords="1394,243,1613,313"/>
+<area shape="rect" id="node17" href="$optim__func__info__cfg__traversal_8cpp.html" title="Implementation of OptimFuncInfoCFGTraversal. " alt="" coords="2291,243,2499,313"/>
+<area shape="rect" id="node18" href="$optim__call__info__obtainer_8cpp.html" title="Implementation of OptimCallInfoObtainer. " alt="" coords="2524,243,2715,313"/>
+<area shape="rect" id="node20" href="$unneeded__global__vars__cfg__traversal_8cpp.html" title="Implementation of UnneededGlobalVarsCFGTraversal. " alt="" coords="2739,243,2961,313"/>
+<area shape="rect" id="node21" href="$global__to__local__optimizer_8cpp.html" title="Implementation of GlobalToLocalOptimizer. " alt="" coords="2986,243,3183,313"/>
+<area shape="rect" id="node23" href="$var__def__cfg__traversal_8cpp.html" title="Implementation of VarDefCFGTraversal. " alt="" coords="2097,243,2267,313"/>
+<area shape="rect" id="node25" href="$var__use__cfg__traversal_8cpp.html" title="Implementation of VarUseCFGTraversal. " alt="" coords="3207,243,3378,313"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/llvm/llvmir2bir_converter_factory.h" name="/home/retdec/retdec/include/llvmir2hll/llvm/llvmir2bir_converter_factory.h">
+<area shape="rect" id="node2" href="$new__llvmir2bir__converter_8cpp.html" title="Implementation of NewLLVMIR2BIRConverter. " alt="" coords="5,124,224,195"/>
+<area shape="rect" id="node3" href="$orig__llvmir2bir__converter_8cpp.html" title="Implementation of OrigLLVMIR2BIRConverter. " alt="" coords="248,124,464,195"/>
+<area shape="rect" id="node4" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="489,131,642,187"/>
+</map>

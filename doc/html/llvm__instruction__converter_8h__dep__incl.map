@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/llvm/llvmir2bir_converters/new_llvmir2bir_converter/llvm_instruction_converter.h" name="/home/retdec/retdec/include/llvmir2hll/llvm/llvmir2bir_converters/new_llvmir2bir_converter/llvm_instruction_converter.h">
+<area shape="rect" id="node2" href="$llvm__constant__converter_8cpp.html" title="Implementation of LLVMConstantConverter. " alt="" coords="5,139,219,224"/>
+<area shape="rect" id="node3" href="$llvm__instruction__converter_8cpp.html" title="Implementation of LLVMInstructionConverter. " alt="" coords="243,139,469,224"/>
+<area shape="rect" id="node4" href="$llvm__value__converter_8cpp.html" title="Implementation of LLVMValueConverter. " alt="" coords="494,139,687,224"/>
+</map>

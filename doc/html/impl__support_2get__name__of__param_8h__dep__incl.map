@@ -1,0 +1,51 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/semantics/semantics/impl_support/get_name_of_param.h" name="/home/retdec/retdec/include/llvmir2hll/semantics/semantics/impl_support/get_name_of_param.h">
+<area shape="rect" id="node2" href="$a_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with A. " alt="" coords="370,139,545,224"/>
+<area shape="rect" id="node4" href="$win__api__semantics_2get__name__of__param_8cpp.html" title="Implementation of semantics::win_api::getNameOfParam() for WinAPISemantics. " alt="" coords="3195,272,3416,343"/>
+<area shape="rect" id="node5" href="$b_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with B. " alt="" coords="569,139,743,224"/>
+<area shape="rect" id="node7" href="$c1_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with C (first part). " alt="" coords="767,139,942,224"/>
+<area shape="rect" id="node9" href="$c2_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with C (second part). ..." alt="" coords="966,139,1141,224"/>
+<area shape="rect" id="node11" href="$d_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with D. " alt="" coords="1165,139,1339,224"/>
+<area shape="rect" id="node13" href="$e_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with E. " alt="" coords="1363,139,1538,224"/>
+<area shape="rect" id="node15" href="$f_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with F. " alt="" coords="1562,139,1737,224"/>
+<area shape="rect" id="node17" href="$g1_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with G (first part). " alt="" coords="1761,139,1935,224"/>
+<area shape="rect" id="node19" href="$g2_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with G (second part). ..." alt="" coords="1959,139,2134,224"/>
+<area shape="rect" id="node21" href="$h_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with H. " alt="" coords="2158,139,2333,224"/>
+<area shape="rect" id="node23" href="$i_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with I. " alt="" coords="2357,139,2531,224"/>
+<area shape="rect" id="node25" href="$j_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with J. " alt="" coords="2555,139,2730,224"/>
+<area shape="rect" id="node27" href="$k_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with K. " alt="" coords="2754,139,2929,224"/>
+<area shape="rect" id="node29" href="$l_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with L. " alt="" coords="5190,139,5365,224"/>
+<area shape="rect" id="node31" href="$m_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with M. " alt="" coords="5389,139,5563,224"/>
+<area shape="rect" id="node33" href="$n_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with N. " alt="" coords="5587,139,5762,224"/>
+<area shape="rect" id="node35" href="$o_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with O. " alt="" coords="5786,139,5961,224"/>
+<area shape="rect" id="node37" href="$p_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with P. " alt="" coords="3005,139,3179,224"/>
+<area shape="rect" id="node38" href="$q_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with Q. " alt="" coords="3203,139,3378,224"/>
+<area shape="rect" id="node39" href="$r_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with R. " alt="" coords="3402,139,3577,224"/>
+<area shape="rect" id="node40" href="$s_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with S. " alt="" coords="3601,139,3775,224"/>
+<area shape="rect" id="node41" href="$t_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with T. " alt="" coords="3799,139,3974,224"/>
+<area shape="rect" id="node42" href="$u_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with U. " alt="" coords="3998,139,4173,224"/>
+<area shape="rect" id="node43" href="$v_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with V. " alt="" coords="4197,139,4371,224"/>
+<area shape="rect" id="node44" href="$w_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with W. " alt="" coords="4395,139,4570,224"/>
+<area shape="rect" id="node45" href="$x_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with X. " alt="" coords="4594,139,4769,224"/>
+<area shape="rect" id="node46" href="$y_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with Y. " alt="" coords="4793,139,4967,224"/>
+<area shape="rect" id="node47" href="$z_8h.html" title="Initializes FuncParamNamesMap for WinAPI functions starting with Z. " alt="" coords="4991,139,5166,224"/>
+<area shape="rect" id="node48" href="$gcc__general__semantics_2get__name__of__param_8cpp.html" title="Implementation of semantics::gcc_general::getNameOfParam() for GCCGeneralSemantics. " alt="" coords="5985,146,6234,217"/>
+<area shape="rect" id="node49" href="$impl__support_2get__name__of__param_8cpp.html" title="Implementation of functions from getNameOfParam.h. " alt="" coords="6259,146,6445,217"/>
+<area shape="rect" id="node50" href="$libc__semantics_2get__name__of__param_8cpp.html" title="Implementation of semantics::libc::getNameOfParam() for LibcSemantics. " alt="" coords="6469,146,6664,217"/>
+<area shape="rect" id="node3" href="$a_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="5,272,227,343"/>
+<area shape="rect" id="node6" href="$b_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="251,272,472,343"/>
+<area shape="rect" id="node8" href="$c1_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="496,272,717,343"/>
+<area shape="rect" id="node10" href="$c2_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="741,272,963,343"/>
+<area shape="rect" id="node12" href="$d_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="987,272,1208,343"/>
+<area shape="rect" id="node14" href="$e_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="1232,272,1453,343"/>
+<area shape="rect" id="node16" href="$f_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="1477,272,1699,343"/>
+<area shape="rect" id="node18" href="$g1_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="1723,272,1944,343"/>
+<area shape="rect" id="node20" href="$g2_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="1968,272,2189,343"/>
+<area shape="rect" id="node22" href="$h_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="2213,272,2435,343"/>
+<area shape="rect" id="node24" href="$i_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="2459,272,2680,343"/>
+<area shape="rect" id="node26" href="$j_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="2704,272,2925,343"/>
+<area shape="rect" id="node28" href="$k_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="2949,272,3171,343"/>
+<area shape="rect" id="node30" href="$l_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="5096,272,5317,343"/>
+<area shape="rect" id="node32" href="$m_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="5341,272,5563,343"/>
+<area shape="rect" id="node34" href="$n_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="5587,272,5808,343"/>
+<area shape="rect" id="node36" href="$o_8cpp.html" title="Implementation of the initialization of WinAPI functions. " alt="" coords="5832,272,6053,343"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/ir/while_loop_stmt.h" name="/home/retdec/retdec/include/llvmir2hll/ir/while_loop_stmt.h">
+<area shape="rect" id="node2" href="$value__analysis_8cpp.html" title="Implementation of ValueAnalysis. " alt="" coords="5,124,175,180"/>
+<area shape="rect" id="node3" href="$var__uses__visitor_8cpp.html" title="Implementation of VarUsesVisitor. " alt="" coords="199,124,368,180"/>
+<area shape="rect" id="node4" href="$non__recursive__cfg__builder_8cpp.html" title="Implementation of NonRecursiveCFGBuilder. " alt="" coords="393,117,587,187"/>
+<area shape="rect" id="node5" href="$recursive__cfg__builder_8cpp.html" title="Implementation of RecursiveCFGBuilder. " alt="" coords="612,117,805,187"/>
+<area shape="rect" id="node6" href="$c__hll__writer_8cpp.html" title="Implementation of CHLLWriter. " alt="" coords="829,124,1028,180"/>
+<area shape="rect" id="node7" href="$py__hll__writer_8cpp.html" title="Implementation of PyHLLWriter. " alt="" coords="1053,124,1261,180"/>
+<area shape="rect" id="node8" href="$while__loop__stmt_8cpp.html" title="Implementation of WhileLoopStmt. " alt="" coords="1285,124,1447,180"/>
+<area shape="rect" id="node9" href="$structure__converter_8cpp.html" title="Implementation of StructureConverter. " alt="" coords="1471,109,1663,195"/>
+<area shape="rect" id="node10" href="$orig__llvmir2bir__converter_8cpp.html" title="Implementation of OrigLLVMIR2BIRConverter. " alt="" coords="1687,117,1903,187"/>
+<area shape="rect" id="node11" href="$bit__op__to__log__op__optimizer_8cpp.html" title="Implementation of BitOpToLogOpOptimizer. " alt="" coords="1927,117,2114,187"/>
+<area shape="rect" id="node12" href="$dead__code__optimizer_8cpp.html" title="Implementation of DeadCodeOptimizer. " alt="" coords="2138,124,2402,180"/>
+<area shape="rect" id="node13" href="$if__before__loop__optimizer_8cpp.html" title="Implementation of IfBeforeLoopOptimizer. " alt="" coords="2426,117,2618,187"/>
+<area shape="rect" id="node14" href="$loop__last__continue__optimizer_8cpp.html" title="Implementation of LoopLastContinueOptimizer. " alt="" coords="2642,117,2863,187"/>
+<area shape="rect" id="node15" href="$pre__while__true__loop__conv__optimizer_8cpp.html" title="Implementation of PreWhileTrueLoopConvOptimizer. " alt="" coords="2887,117,3082,187"/>
+<area shape="rect" id="node16" href="$simple__copy__propagation__optimizer_8cpp.html" title="Implementation of SimpleCopyPropagationOptimizer. " alt="" coords="3106,117,3309,187"/>
+<area shape="rect" id="node17" href="$var__def__stmt__optimizer_8cpp.html" title="Implementation of VarDefStmtOptimizer. " alt="" coords="3333,117,3519,187"/>
+<area shape="rect" id="node18" href="$void__return__optimizer_8cpp.html" title="Implementation of VoidReturnOptimizer. " alt="" coords="3543,117,3720,187"/>
+<area shape="rect" id="node19" href="$while__true__to__for__loop__optimizer_8cpp.html" title="Implementation of WhileTrueToForLoopOptimizer. " alt="" coords="3745,117,3931,187"/>
+<area shape="rect" id="node20" href="$while__true__to__ufor__loop__optimizer_8cpp.html" title="Implementation of WhileTrueToUForLoopOptimizer. " alt="" coords="3955,117,4142,187"/>
+<area shape="rect" id="node21" href="$while__true__to__while__cond__optimizer_8cpp.html" title="Implementation of WhileTrueToWhileCondOptimizer. " alt="" coords="4166,117,4363,187"/>
+<area shape="rect" id="node22" href="$statements__counter_8cpp.html" title="Implementation of StatementsCounter. " alt="" coords="4388,124,4571,180"/>
+<area shape="rect" id="node23" href="$value__text__repr__visitor_8cpp.html" title="Implementation of ValueTextReprVisitor. " alt="" coords="4595,124,4798,180"/>
+<area shape="rect" id="node24" href="$ordered__all__visitor_8cpp.html" title="Implementation of OrderedAllVisitor. " alt="" coords="4823,124,5048,180"/>
+<area shape="rect" id="node25" href="$ir_8cpp.html" title="Implementation of the IR utilities. " alt="" coords="5072,124,5225,180"/>
+<area shape="rect" id="node26" href="$loop__optimizer_8cpp.html" title="Implementation of the utilities for optimizers. " alt="" coords="5249,124,5403,180"/>
+</map>

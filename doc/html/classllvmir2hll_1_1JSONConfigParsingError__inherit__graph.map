@@ -1,0 +1,5 @@
+<map id="llvmir2hll::JSONConfigParsingError" name="llvmir2hll::JSONConfigParsingError">
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1JSONConfigError.html" title="Base class for all exceptions raised by JSONConfig. " alt="" coords="13,155,209,181"/>
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1ConfigError.html" title="Base class for all config&#45;related errors. " alt="" coords="29,80,193,107"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="54,5,169,32"/>
+</map>

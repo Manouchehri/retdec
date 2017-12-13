@@ -1,0 +1,22 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/validator/validators/no_global_var_def_validator.cpp" name="/home/retdec/retdec/src/llvmir2hll/validator/validators/no_global_var_def_validator.cpp">
+<area shape="rect" id="node2" href="$function_8h.html" title="A representation of a function. " alt="" coords="1248,235,1415,262"/>
+<area shape="rect" id="node23" href="$module_8h.html" title="A representation of a complete module. " alt="" coords="406,332,569,359"/>
+<area shape="rect" id="node26" href="$var__def__stmt_8h.html" title="A variable definition statement. " alt="" coords="1598,131,1748,173"/>
+<area shape="rect" id="node28" href="$debug_8h.html" title="Debugging support. " alt="" coords="2494,131,2631,173"/>
+<area shape="rect" id="node30" href="$validator__factory_8h.html" title="Factory that creates instances of classes derived from Validator. " alt="" coords="977,325,1124,366"/>
+<area shape="rect" id="node33" href="$no__global__var__def__validator_8h.html" title="A validator which checks that no global variable is defined in a VarDefStmt. " alt="" coords="2042,124,2200,180"/>
+<area shape="rect" id="node5" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="1672,332,1821,359"/>
+<area shape="rect" id="node10" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="2178,511,2315,552"/>
+<area shape="rect" id="node17" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="608,421,746,463"/>
+<area shape="rect" id="node8" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="1803,421,1940,463"/>
+<area shape="rect" id="node9" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="2178,421,2315,463"/>
+<area shape="rect" id="node12" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="1450,421,1587,463"/>
+<area shape="rect" id="node15" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="1964,421,2102,463"/>
+<area shape="rect" id="node27" href="$statement_8h.html" title="A representation of a program statement. " alt="" coords="1583,235,1763,262"/>
+<area shape="rect" id="node31" href="$factory_8h.html" title="Implementation of the Object Factory design pattern. " alt="" coords="770,421,907,463"/>
+<area shape="rect" id="node32" href="$singleton_8h.html" title="Implementation of the Singleton design pattern. " alt="" coords="983,421,1120,463"/>
+<area shape="rect" id="node34" href="$validator_8h.html" title="A base class for all validators. " alt="" coords="2624,228,2770,269"/>
+<area shape="rect" id="node35" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="2819,317,2970,373"/>
+<area shape="rect" id="node37" href="$diagnostics_8h.html" title="Functions concerning emission of diagnostics messages, like error or warning messages. " alt="" coords="2600,332,2794,359"/>
+<area shape="rect" id="node36" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="2927,421,3064,463"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/providers/lti.cpp" name="/home/retdec/retdec/src/bin2llvmir/providers/lti.cpp">
+<area shape="rect" id="node14" href="$utils_8h.html" title="LLVM Utility functions. " alt="" coords="2005,117,2154,143"/>
+<area shape="rect" id="node21" href="$lti_8h.html" title="Library type information provider for bin2llvmirl. " alt="" coords="2489,109,2643,151"/>
+<area shape="rect" id="node40" href="$bin2llvmir_2utils_2type_8h.html" title="LLVM type utilities. " alt="" coords="3254,117,3419,143"/>
+<area shape="rect" id="node27" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="3223,288,3376,329"/>
+<area shape="rect" id="node31" href="$fileimage_8h.html" title="File image provider for bin2llvmirl. " alt="" coords="2993,199,3147,240"/>
+<area shape="rect" id="node34" href="$bin2llvmir_2providers_2debugformat_8h.html" title="Debug format provider for bin2llvmirl. " alt="" coords="2436,288,2589,329"/>
+<area shape="rect" id="node35" href="$debugformat_2debugformat_8h.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="2331,377,2537,404"/>
+<area shape="rect" id="node43" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="3831,206,3995,233"/>
+</map>

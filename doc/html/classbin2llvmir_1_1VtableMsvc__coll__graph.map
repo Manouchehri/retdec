@@ -1,0 +1,11 @@
+<map id="bin2llvmir::VtableMsvc" name="bin2llvmir::VtableMsvc">
+<area shape="rect" id="node2" href="$classbin2llvmir_1_1Vtable.html" title="bin2llvmir::Vtable" alt="" coords="1843,37,1981,64"/>
+<area shape="rect" id="node4" href="$classbin2llvmir_1_1VtableItem.html" title="bin2llvmir::VtableItem" alt="" coords="1067,5,1235,32"/>
+<area shape="rect" id="node5" href="$classbin2llvmir_1_1RTTICompleteObjectLocator.html" title="bin2llvmir::RTTIComplete\lObjectLocator" alt="" coords="1819,94,2005,135"/>
+<area shape="rect" id="node6" href="$classbin2llvmir_1_1RTTIClassHierarchyDescriptor.html" title="bin2llvmir::RTTIClassHierarchy\lDescriptor" alt="" coords="1412,94,1635,135"/>
+<area shape="rect" id="node8" href="$classbin2llvmir_1_1RTTIBaseClassDescriptor.html" title="bin2llvmir::RTTIBaseClass\lDescriptor" alt="" coords="740,79,931,121"/>
+<area shape="rect" id="node9" href="$structbin2llvmir_1_1RTTIBaseClassDescriptor_1_1PMD.html" title="bin2llvmir::RTTIBaseClass\lDescriptor::PMD" alt="" coords="385,79,575,121"/>
+<area shape="rect" id="node10" href="$classbin2llvmir_1_1RTTITypeDescriptor.html" title="bin2llvmir::RTTITypeDescriptor" alt="" coords="369,167,591,193"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="193,167,280,193"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="5,159,144,201"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/ir/module.cpp" name="/home/retdec/retdec/src/llvmir2hll/ir/module.cpp">
+<area shape="rect" id="node3" href="$llvmir2hll_2config_2config_8h.html" title="Base class for all configs. " alt="" coords="472,191,654,218"/>
+<area shape="rect" id="node17" href="$empty__stmt_8h.html" title="An empty statement (like NOP). " alt="" coords="873,95,1016,136"/>
+<area shape="rect" id="node18" href="$statement_8h.html" title="A representation of a program statement. " alt="" coords="681,191,861,218"/>
+<area shape="rect" id="node26" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="1655,191,1839,218"/>
+<area shape="rect" id="node27" href="$function_8h.html" title="A representation of a function. " alt="" coords="1453,191,1620,218"/>
+<area shape="rect" id="node28" href="$global__var__def_8h.html" title="A definition of a global variable. " alt="" coords="2148,184,2290,225"/>
+<area shape="rect" id="node29" href="$module_8h.html" title="A representation of a complete module. " alt="" coords="940,191,1103,218"/>
+<area shape="rect" id="node32" href="$variable_8h.html" title="A representation of a variable. " alt="" coords="1564,102,1730,129"/>
+<area shape="rect" id="node33" href="$semantics_8h.html" title="A base class for all descriptions of function semantics. " alt="" coords="1287,95,1442,136"/>
+<area shape="rect" id="node34" href="$maybe_8h.html" title="A simple implementation of the Maybe monad from Haskell. " alt="" coords="2314,184,2452,225"/>
+<area shape="rect" id="node36" href="$debug_8h.html" title="Debugging support. " alt="" coords="2569,273,2706,315"/>
+<area shape="rect" id="node8" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="494,273,632,315"/>
+<area shape="rect" id="node14" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1446,452,1584,493"/>
+<area shape="rect" id="node19" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="1624,281,1774,307"/>
+<area shape="rect" id="node22" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="1740,363,1877,404"/>
+<area shape="rect" id="node23" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="1578,363,1716,404"/>
+<area shape="rect" id="node24" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="1314,363,1452,404"/>
+<area shape="rect" id="node25" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="1901,363,2038,404"/>
+</map>

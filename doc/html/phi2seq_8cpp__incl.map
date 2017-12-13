@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/phi2seq/phi2seq.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/phi2seq/phi2seq.cpp">
+<area shape="rect" id="node7" href="$phi2seq_8h.html" title="Solves parallel processing of PHI nodes. " alt="" coords="817,109,999,151"/>
+<area shape="rect" id="node23" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1074,109,1227,151"/>
+<area shape="rect" id="node11" href="$var__depend__analysis_8h.html" title="Analysis for variable dependency of PHINodes. " alt="" coords="446,199,621,240"/>
+<area shape="rect" id="node17" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="458,288,622,315"/>
+</map>

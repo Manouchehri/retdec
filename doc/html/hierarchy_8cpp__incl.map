@@ -1,0 +1,22 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/class_hierarchy/hierarchy.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/class_hierarchy/hierarchy.cpp">
+<area shape="rect" id="node4" href="$hierarchy_8h.html" title="Represents class hierarchy. " alt="" coords="1531,109,1733,151"/>
+<area shape="rect" id="node49" href="$demangler_8h.html" title="Demangler provider for bin2llvmirl. " alt="" coords="143,556,297,597"/>
+<area shape="rect" id="node9" href="$vtable_8h.html" title="Search for vtables in input file. " alt="" coords="1371,199,1552,240"/>
+<area shape="rect" id="node15" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="659,556,813,597"/>
+<area shape="rect" id="node13" href="$data__references_8h.html" title="Search for references in input file. " alt="" coords="1235,377,1487,419"/>
+<area shape="rect" id="node44" href="$rtti__analysis_8h.html" title="Search for RTTI in input file. " alt="" coords="1699,288,1880,329"/>
+<area shape="rect" id="node19" href="$fileimage_8h.html" title="File image provider for bin2llvmirl. " alt="" coords="1277,467,1430,508"/>
+<area shape="rect" id="node22" href="$bin2llvmir_2providers_2debugformat_8h.html" title="Debug format provider for bin2llvmirl. " alt="" coords="889,556,1042,597"/>
+<area shape="rect" id="node23" href="$debugformat_2debugformat_8h.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="995,653,1202,679"/>
+<area shape="rect" id="node28" href="$dwarf__file_8h.html" title="Declarations of DwarfFile class which provides high&#45;level access to DWARF debugging informations..." alt="" coords="1619,735,1799,761"/>
+<area shape="rect" id="node33" href="$dwarf__cu_8h.html" title="Declaration of classes representing Compilation Units. " alt="" coords="2063,817,2238,843"/>
+<area shape="rect" id="node34" href="$dwarf__functions_8h.html" title="Declaration of classes representing functions. " alt="" coords="817,817,1037,843"/>
+<area shape="rect" id="node35" href="$dwarf__linenumbers_8h.html" title="Declaration of classes representing linenumbers. " alt="" coords="1798,817,2039,843"/>
+<area shape="rect" id="node36" href="$dwarf__locations_8h.html" title="Declaration of classes representing locations. " alt="" coords="1477,899,1696,925"/>
+<area shape="rect" id="node37" href="$dwarf__resources_8h.html" title="Declaration of classes representing resources. " alt="" coords="1162,973,1385,1000"/>
+<area shape="rect" id="node38" href="$dwarf__parserdefs_8h.html" title="Definitions globally used in dwarfparser library. " alt="" coords="1136,1048,1365,1075"/>
+<area shape="rect" id="node39" href="$dwarf__types_8h.html" title="Declaration of classes representing data types. " alt="" coords="1374,817,1570,843"/>
+<area shape="rect" id="node40" href="$dwarf__utils_8h.html" title="Declaration of utility functions and classes. " alt="" coords="1265,899,1453,925"/>
+<area shape="rect" id="node45" href="$rtti__gcc_8h.html" title="Search for gcc&amp;clang RTTI in input file. " alt="" coords="2009,556,2191,597"/>
+<area shape="rect" id="node48" href="$rtti__msvc_8h.html" title="Search for msvc RTTI in input file. " alt="" coords="2215,556,2396,597"/>
+</map>

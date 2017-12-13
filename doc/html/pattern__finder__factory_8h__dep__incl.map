@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/pattern/pattern_finder_factory.h" name="/home/retdec/retdec/include/llvmir2hll/pattern/pattern_finder_factory.h">
+<area shape="rect" id="node2" href="$api__call__pattern__finder_8cpp.html" title="Implementation of APICallPatternFinder. " alt="" coords="5,124,184,195"/>
+<area shape="rect" id="node3" href="$api__call__seq__pattern__finder_8cpp.html" title="Implementation of APICallSeqPatternFinder. " alt="" coords="208,124,387,195"/>
+<area shape="rect" id="node4" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="411,131,565,187"/>
+</map>

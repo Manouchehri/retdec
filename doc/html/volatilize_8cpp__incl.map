@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/volatilize/volatilize.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/volatilize/volatilize.cpp">
+<area shape="rect" id="node6" href="$utils_8h.html" title="LLVM Utility functions. " alt="" coords="341,117,490,143"/>
+<area shape="rect" id="node11" href="$volatilize_8h.html" title="Make all loads and stores volatile to protected them. " alt="" coords="693,109,874,151"/>
+<area shape="rect" id="node14" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="941,199,1105,225"/>
+</map>

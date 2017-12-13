@@ -1,0 +1,8 @@
+<map id="llvmir2hll::SimpleVarRenamer" name="llvmir2hll::SimpleVarRenamer">
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1VarRenamer.html" title="A base class for all variable renamers. " alt="" coords="947,200,1117,227"/>
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1OrderedAllVisitor.html" title="A visitor that visits everything in an ordered way. " alt="" coords="570,79,773,105"/>
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1Visitor.html" title="A base class of all visitors. " alt="" coords="253,5,387,32"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="277,193,363,220"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="5,186,144,227"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="265,319,375,345"/>
+</map>

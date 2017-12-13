@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['negationoperatorsuboptimizer',['NegationOperatorSubOptimizer',['../classllvmir2hll_1_1NegationOperatorSubOptimizer.html',1,'llvmir2hll']]],
+  ['negativeoperandsuboptimizer',['NegativeOperandSubOptimizer',['../classllvmir2hll_1_1NegativeOperandSubOptimizer.html',1,'llvmir2hll']]],
+  ['negopexpr',['NegOpExpr',['../classllvmir2hll_1_1NegOpExpr.html',1,'llvmir2hll']]],
+  ['neqopexpr',['NeqOpExpr',['../classllvmir2hll_1_1NeqOpExpr.html',1,'llvmir2hll']]],
+  ['neverreturningfuncs',['NeverReturningFuncs',['../classbin2llvmir_1_1NeverReturningFuncs.html',1,'bin2llvmir']]],
+  ['newllvmir2birconverter',['NewLLVMIR2BIRConverter',['../classllvmir2hll_1_1NewLLVMIR2BIRConverter.html',1,'llvmir2hll']]],
+  ['nextlvlstmts',['NextLvlStmts',['../structllvmir2hll_1_1VarDefStmtOptimizer_1_1NextLvlStmts.html',1,'llvmir2hll::VarDefStmtOptimizer']]],
+  ['noactionpatternfinderrunner',['NoActionPatternFinderRunner',['../classllvmir2hll_1_1NoActionPatternFinderRunner.html',1,'llvmir2hll']]],
+  ['nobracketmanager',['NoBracketManager',['../classllvmir2hll_1_1NoBracketManager.html',1,'llvmir2hll']]],
+  ['nocompoundopmanager',['NoCompoundOpManager',['../classllvmir2hll_1_1NoCompoundOpManager.html',1,'llvmir2hll']]],
+  ['node',['Node',['../classbin2llvmir_1_1VarDependAnalysis_1_1Node.html',1,'bin2llvmir::VarDependAnalysis::Node'],['../classllvmir2hll_1_1CFG_1_1Node.html',1,'llvmir2hll::CFG::Node'],['../structbin2llvmir_1_1TraversalAnalysis_1_1Node.html',1,'bin2llvmir::TraversalAnalysis::Node']]],
+  ['nodesofvarusecfgtraversal',['NodesOfVarUseCFGTraversal',['../classllvmir2hll_1_1NodesOfVarUseCFGTraversal.html',1,'llvmir2hll']]],
+  ['noglobalvardefvalidator',['NoGlobalVarDefValidator',['../classllvmir2hll_1_1NoGlobalVarDefValidator.html',1,'llvmir2hll']]],
+  ['noinitvardefanalysis',['NoInitVarDefAnalysis',['../classllvmir2hll_1_1NoInitVarDefAnalysis.html',1,'llvmir2hll']]],
+  ['noinitvardefoptimizer',['NoInitVarDefOptimizer',['../classllvmir2hll_1_1NoInitVarDefOptimizer.html',1,'llvmir2hll']]],
+  ['nonrecursivecfgbuilder',['NonRecursiveCFGBuilder',['../classllvmir2hll_1_1NonRecursiveCFGBuilder.html',1,'llvmir2hll']]],
+  ['notopexpr',['NotOpExpr',['../classllvmir2hll_1_1NotOpExpr.html',1,'llvmir2hll']]],
+  ['novardefcfgtraversal',['NoVarDefCFGTraversal',['../classllvmir2hll_1_1NoVarDefCFGTraversal.html',1,'llvmir2hll']]],
+  ['nullpointeranalysis',['NullPointerAnalysis',['../classllvmir2hll_1_1NullPointerAnalysis.html',1,'llvmir2hll']]],
+  ['numvarnamegen',['NumVarNameGen',['../classllvmir2hll_1_1NumVarNameGen.html',1,'llvmir2hll']]]
+];

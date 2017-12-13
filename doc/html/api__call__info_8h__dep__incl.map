@@ -1,0 +1,15 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/pattern/pattern_finders/api_call/api_call_info.h" name="/home/retdec/retdec/include/llvmir2hll/pattern/pattern_finders/api_call/api_call_info.h">
+<area shape="rect" id="node2" href="$api__call__info__seq_8h.html" title="A sequence of information about API calls. " alt="" coords="359,124,563,195"/>
+<area shape="rect" id="node3" href="$api__call__info__seq__parser_8h.html" title="A parser of textual representation of API call sequences. " alt="" coords="45,243,220,328"/>
+<area shape="rect" id="node5" href="$api__call__seq__pattern__finder_8cpp.html" title="Implementation of APICallSeqPatternFinder. " alt="" coords="263,517,442,587"/>
+<area shape="rect" id="node6" href="$api__call__seq__data_8h.html" title="A storage of intermediate data when finding sequences of API calls. " alt="" coords="846,250,1054,321"/>
+<area shape="rect" id="node13" href="$c__arithm__expr__evaluator_8cpp.html" title="Implementation of CArithmExprEvaluator. " alt="" coords="639,124,853,195"/>
+<area shape="rect" id="node14" href="$api__call__info_8cpp.html" title="Implementation of APICallInfo. " alt="" coords="878,124,1057,195"/>
+<area shape="rect" id="node9" href="$api__call__seq__finder_8h.html" title="A base class for all API calls finders. " alt="" coords="499,250,713,321"/>
+<area shape="rect" id="node10" href="$basic__block__api__call__seq__finder_8h.html" title="API call finder which searches only in a basic block. " alt="" coords="644,376,888,461"/>
+<area shape="rect" id="node12" href="$api__call__info__seq_8cpp.html" title="Implementation of APICallInfoSeq. " alt="" coords="245,250,423,321"/>
+<area shape="rect" id="node4" href="$api__call__info__seq__parser_8cpp.html" title="Implementation of APICallInfoSeqParser. " alt="" coords="104,383,316,454"/>
+<area shape="rect" id="node7" href="$api__call__seq__data_8cpp.html" title="Implementation of APICallSeqData. " alt="" coords="913,383,1091,454"/>
+<area shape="rect" id="node8" href="$basic__block__api__call__seq__finder_8cpp.html" title="Implementation of BasicBlockAPICallSeqFinder. " alt="" coords="837,509,1058,595"/>
+<area shape="rect" id="node11" href="$api__call__seq__finder_8cpp.html" title="Implementation of APICallSeqFinder. " alt="" coords="390,383,569,454"/>
+</map>

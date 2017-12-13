@@ -1,0 +1,51 @@
+<map id="/home/retdec/retdec/include/dwarfparser/dwarf_parserdefs.h" name="/home/retdec/retdec/include/dwarfparser/dwarf_parserdefs.h">
+<area shape="rect" id="node2" href="$dwarf__file_8h.html" title="Declarations of DwarfFile class which provides high&#45;level access to DWARF debugging informations..." alt="" coords="2629,629,2784,685"/>
+<area shape="rect" id="node45" href="$dwarf__resources_8h.html" title="Declaration of classes representing resources. " alt="" coords="2293,109,2448,165"/>
+<area shape="rect" id="node3" href="$debugformat_2debugformat_8h.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="2158,733,2319,789"/>
+<area shape="rect" id="node36" href="$dwarf__base_8cpp.html" title="Implementation of base classes used in dwarfparser. " alt="" coords="3304,733,3472,789"/>
+<area shape="rect" id="node37" href="$dwarf__cu_8cpp.html" title="Implementaion of classes representing Compilation Units. " alt="" coords="2344,733,2512,789"/>
+<area shape="rect" id="node38" href="$dwarf__file_8cpp.html" title="Implementaion of DwarfFile class which provides high&#45;level access to DWARF debugging informations..." alt="" coords="2536,733,2704,789"/>
+<area shape="rect" id="node39" href="$dwarf__functions_8cpp.html" title="Implementation of classes representing functions. " alt="" coords="3496,733,3664,789"/>
+<area shape="rect" id="node40" href="$dwarf__linenumbers_8cpp.html" title="Implementation of classes representing linenumbers. " alt="" coords="2728,733,2896,789"/>
+<area shape="rect" id="node41" href="$dwarf__locations_8cpp.html" title="Implementaion of classes representing locations. " alt="" coords="1773,733,1941,789"/>
+<area shape="rect" id="node42" href="$dwarf__types_8cpp.html" title="Implementaion of classes representing data types. " alt="" coords="1965,733,2133,789"/>
+<area shape="rect" id="node43" href="$dwarf__utils_8cpp.html" title="Implementation of utility functions and classes. " alt="" coords="2920,733,3088,789"/>
+<area shape="rect" id="node44" href="$dwarf__vars_8cpp.html" title="Implementataion of classes representing variables. " alt="" coords="3112,733,3280,789"/>
+<area shape="rect" id="node4" href="$bin2llvmir_2providers_2debugformat_8h.html" title="Debug format provider for bin2llvmirl. " alt="" coords="1216,837,1403,893"/>
+<area shape="rect" id="node27" href="$global__var_8h.html" title="LLVM global variable utilities. " alt="" coords="2393,1053,2546,1109"/>
+<area shape="rect" id="node33" href="$debugformat_2debugformat_8cpp.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="2115,845,2363,886"/>
+<area shape="rect" id="node34" href="$dwarf_8cpp.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="2387,845,2587,886"/>
+<area shape="rect" id="node35" href="$pdb_8cpp.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="2611,845,2799,886"/>
+<area shape="rect" id="node5" href="$constants_8h.html" title="Composite type reconstruction analysis. " alt="" coords="2186,1045,2369,1116"/>
+<area shape="rect" id="node7" href="$decoder_8h.html" title="Decode input binary into LLVM IR. " alt="" coords="2621,1045,2792,1116"/>
+<area shape="rect" id="node10" href="$param__return_8h.html" title="Detect functions&#39; parameters and returns. " alt="" coords="601,1164,773,1235"/>
+<area shape="rect" id="node12" href="$stack_8h.html" title="Reconstruct stack. " alt="" coords="421,1164,576,1235"/>
+<area shape="rect" id="node14" href="$fileimage_8h.html" title="File image provider for bin2llvmirl. " alt="" coords="1227,941,1391,997"/>
+<area shape="rect" id="node26" href="$provider__init_8cpp.html" title="One time providers initialization. " alt="" coords="5,1171,227,1227"/>
+<area shape="rect" id="node32" href="$bin2llvmir_2providers_2debugformat_8cpp.html" title="Debug format provider for bin2llvmirl. " alt="" coords="1467,941,1647,997"/>
+<area shape="rect" id="node6" href="$constants_8cpp.html" title="Composite type reconstruction analysis. " alt="" coords="1867,1171,2075,1227"/>
+<area shape="rect" id="node8" href="$decoder_8cpp.html" title="Decode input binary into LLVM IR. " alt="" coords="2825,1171,3033,1227"/>
+<area shape="rect" id="node9" href="$static__code_8cpp.html" title="Decode input binary into LLVM IR. " alt="" coords="2593,1171,2801,1227"/>
+<area shape="rect" id="node11" href="$param__return_8cpp.html" title="Detect functions&#39; parameters and returns. " alt="" coords="1050,1283,1283,1339"/>
+<area shape="rect" id="node13" href="$stack_8cpp.html" title="Reconstruct stack. " alt="" coords="751,1283,959,1339"/>
+<area shape="rect" id="node15" href="$symbolic__tree_8h.html" title="Construction of symbolic tree from the given node. " alt="" coords="1213,1053,1405,1109"/>
+<area shape="rect" id="node16" href="$control__flow_8h.html" title="Reconstruct control flow. " alt="" coords="1043,1164,1207,1235"/>
+<area shape="rect" id="node19" href="$cfg__function__detection_8h.html" title="Detect functions using control flow graph. " alt="" coords="1658,1045,1913,1116"/>
+<area shape="rect" id="node20" href="$data__references_8h.html" title="Search for references in input file. " alt="" coords="1937,1045,2161,1116"/>
+<area shape="rect" id="node21" href="$dsm__generator_8h.html" title="Produce DSM output. " alt="" coords="255,1045,473,1116"/>
+<area shape="rect" id="node22" href="$main__detection_8h.html" title="Detect main function. " alt="" coords="497,1045,717,1116"/>
+<area shape="rect" id="node23" href="$simple__types_8h.html" title="Simple type reconstruction analysis. " alt="" coords="741,1045,909,1116"/>
+<area shape="rect" id="node24" href="$syscalls_8h.html" title="Implement syscall identification and fixing pass SyscallFixer. " alt="" coords="797,1164,968,1235"/>
+<area shape="rect" id="node25" href="$lti_8h.html" title="Library type information provider for bin2llvmirl. " alt="" coords="985,1053,1138,1109"/>
+<area shape="rect" id="node28" href="$fileimage_8cpp.html" title="File image provider for bin2llvmirl. " alt="" coords="2379,1171,2559,1227"/>
+<area shape="rect" id="node30" href="$bin2llvmir_2utils_2type_8h.html" title="LLVM type utilities. " alt="" coords="1481,1053,1634,1109"/>
+<area shape="rect" id="node31" href="$vtable_8cpp.html" title="Search for vtables in input file. " alt="" coords="1425,1171,1633,1227"/>
+<area shape="rect" id="node18" href="$register_8h.html" title="Solve register pseudo functions. " alt="" coords="1231,1164,1401,1235"/>
+<area shape="rect" id="node17" href="$control__flow_8cpp.html" title="Reconstruct control flow. " alt="" coords="1341,1283,1555,1339"/>
+<area shape="rect" id="node29" href="$global__var_8cpp.html" title="LLVM global variable utilities. " alt="" coords="2127,1171,2281,1227"/>
+<area shape="rect" id="node46" href="$dwarf__locations_8h.html" title="Declaration of classes representing locations. " alt="" coords="2540,213,2695,269"/>
+<area shape="rect" id="node50" href="$dwarf__resources_8cpp.html" title="Implementation of classes representing resources. " alt="" coords="2348,213,2516,269"/>
+<area shape="rect" id="node47" href="$dwarf__types_8h.html" title="Declaration of classes representing data types. " alt="" coords="2400,317,2555,373"/>
+<area shape="rect" id="node48" href="$dwarf__vars_8h.html" title="Declaration of classes representing variables. " alt="" coords="2629,421,2784,477"/>
+<area shape="rect" id="node49" href="$dwarf__functions_8h.html" title="Declaration of classes representing functions. " alt="" coords="3119,525,3273,581"/>
+</map>

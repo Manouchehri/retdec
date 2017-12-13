@@ -1,0 +1,5 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/obtainer/call_info_obtainer_factory.h" name="/home/retdec/retdec/include/llvmir2hll/obtainer/call_info_obtainer_factory.h">
+<area shape="rect" id="node2" href="$optim__call__info__obtainer_8cpp.html" title="Implementation of OptimCallInfoObtainer. " alt="" coords="5,124,196,195"/>
+<area shape="rect" id="node3" href="$pessim__call__info__obtainer_8cpp.html" title="Implementation of PessimCallInfoObtainer. " alt="" coords="221,124,421,195"/>
+<area shape="rect" id="node4" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="444,131,597,187"/>
+</map>

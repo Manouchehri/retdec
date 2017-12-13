@@ -1,0 +1,14 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/pattern/pattern_finder.h" name="/home/retdec/retdec/include/llvmir2hll/pattern/pattern_finder.h">
+<area shape="rect" id="node2" href="$pattern__finder__runner_8h.html" title="A base class for all runners of pattern finders. " alt="" coords="373,109,541,180"/>
+<area shape="rect" id="node9" href="$api__call__pattern__finder_8h.html" title="Finds interesting API calls in a module. " alt="" coords="783,109,968,180"/>
+<area shape="rect" id="node11" href="$api__call__seq__pattern__finder_8h.html" title="Finds sequences of interesting API calls in a module. " alt="" coords="992,109,1207,180"/>
+<area shape="rect" id="node13" href="$pattern__finder_8cpp.html" title="Implementation of PatternFinder. " alt="" coords="1231,117,1394,173"/>
+<area shape="rect" id="node3" href="$cli__pattern__finder__runner_8h.html" title="Runner of pattern finders for the command line interface. " alt="" coords="89,228,283,313"/>
+<area shape="rect" id="node5" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="244,376,397,432"/>
+<area shape="rect" id="node6" href="$no__action__pattern__finder__runner_8h.html" title="Runner of pattern finders that performs no additional actions. " alt="" coords="357,228,556,313"/>
+<area shape="rect" id="node8" href="$pattern__finder__runner_8cpp.html" title="Implementation of PatternFinderRunner. " alt="" coords="581,243,773,299"/>
+<area shape="rect" id="node4" href="$cli__pattern__finder__runner_8cpp.html" title="Implementation of CLIPatternFinderRunner. " alt="" coords="5,369,220,439"/>
+<area shape="rect" id="node7" href="$no__action__pattern__finder__runner_8cpp.html" title="Implementation of NoActionPatternFinderRunner. " alt="" coords="422,361,609,447"/>
+<area shape="rect" id="node10" href="$api__call__pattern__finder_8cpp.html" title="Implementation of APICallPatternFinder. " alt="" coords="797,235,975,306"/>
+<area shape="rect" id="node12" href="$api__call__seq__pattern__finder_8cpp.html" title="Implementation of APICallSeqPatternFinder. " alt="" coords="1010,235,1189,306"/>
+</map>

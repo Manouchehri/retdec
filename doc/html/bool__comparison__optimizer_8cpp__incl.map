@@ -1,0 +1,30 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/simplify_arithm_expr/bool_comparison_optimizer.cpp" name="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/simplify_arithm_expr/bool_comparison_optimizer.cpp">
+<area shape="rect" id="node2" href="$eq__op__expr_8h.html" title="An equality operator. " alt="" coords="2752,436,2892,477"/>
+<area shape="rect" id="node19" href="$neq__op__expr_8h.html" title="A non&#45;equality operator. " alt="" coords="2580,436,2728,477"/>
+<area shape="rect" id="node20" href="$bool__comparison__optimizer_8h.html" title="Simplification of comparisons with true and false. " alt="" coords="1248,124,1470,195"/>
+<area shape="rect" id="node36" href="$debug_8h.html" title="Debugging support. " alt="" coords="2108,525,2245,567"/>
+<area shape="rect" id="node45" href="$sub__optimizer__factory_8h.html" title="Factory that creates instances of classes derived from SubOptimizer. " alt="" coords="240,719,444,789"/>
+<area shape="rect" id="node48" href="$expression__negater_8h.html" title="Negation of expressions. " alt="" coords="590,622,755,663"/>
+<area shape="rect" id="node3" href="$binary__op__expr_8h.html" title="A base class for all binary operators. " alt="" coords="2721,525,2864,567"/>
+<area shape="rect" id="node11" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1502,927,1640,968"/>
+<area shape="rect" id="node4" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="2054,629,2238,656"/>
+<area shape="rect" id="node5" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="2098,741,2247,767"/>
+<area shape="rect" id="node9" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="2265,837,2402,879"/>
+<area shape="rect" id="node10" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="2104,837,2241,879"/>
+<area shape="rect" id="node14" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="1942,837,2080,879"/>
+<area shape="rect" id="node17" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="2426,837,2564,879"/>
+<area shape="rect" id="node21" href="$sub__optimizer_8h.html" title="A base class for all simplify arithmetical expression optimizations. " alt="" coords="584,243,798,299"/>
+<area shape="rect" id="node22" href="$arithm__expr__evaluator_8h.html" title="A base class for all evaluators. " alt="" coords="980,347,1165,388"/>
+<area shape="rect" id="node38" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="834,733,972,775"/>
+<area shape="rect" id="node43" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="932,615,1082,671"/>
+<area shape="rect" id="node24" href="$cast__expr_8h.html" title="Base class for cast instructions. " alt="" coords="2270,525,2398,567"/>
+<area shape="rect" id="node26" href="$const__bool_8h.html" title="A bool constant. " alt="" coords="1795,436,1931,477"/>
+<area shape="rect" id="node27" href="$constant_8h.html" title="A base class for all constants. " alt="" coords="1778,533,1948,559"/>
+<area shape="rect" id="node28" href="$const__float_8h.html" title="A float constant. " alt="" coords="1522,436,1658,477"/>
+<area shape="rect" id="node31" href="$const__int_8h.html" title="An integer constant. " alt="" coords="1162,436,1298,477"/>
+<area shape="rect" id="node35" href="$maybe_8h.html" title="A simple implementation of the Maybe monad from Haskell. " alt="" coords="1989,436,2126,477"/>
+<area shape="rect" id="node25" href="$llvmir2hll_2ir_2type_8h.html" title="A base class of all types. " alt="" coords="2262,629,2405,656"/>
+<area shape="rect" id="node44" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="996,733,1133,775"/>
+<area shape="rect" id="node46" href="$factory_8h.html" title="Implementation of the Object Factory design pattern. " alt="" coords="244,837,381,879"/>
+<area shape="rect" id="node47" href="$singleton_8h.html" title="Implementation of the Singleton design pattern. " alt="" coords="30,837,168,879"/>
+</map>

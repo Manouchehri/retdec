@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['reachablefuncsanalysis',['ReachableFuncsAnalysis',['../classbin2llvmir_1_1ReachableFuncsAnalysis.html',1,'bin2llvmir']]],
+  ['reachingdefinitionsanalysis',['ReachingDefinitionsAnalysis',['../classbin2llvmir_1_1ReachingDefinitionsAnalysis.html',1,'bin2llvmir']]],
+  ['readablevarrenamer',['ReadableVarRenamer',['../classllvmir2hll_1_1ReadableVarRenamer.html',1,'llvmir2hll']]],
+  ['realreg',['RealReg',['../structdwarfparser_1_1DwarfResources_1_1RealReg.html',1,'dwarfparser::DwarfResources']]],
+  ['recursivecfgbuilder',['RecursiveCFGBuilder',['../classllvmir2hll_1_1RecursiveCFGBuilder.html',1,'llvmir2hll']]],
+  ['referencedobject',['ReferencedObject',['../classbin2llvmir_1_1DataReferences_1_1ReferencedObject.html',1,'bin2llvmir::DataReferences']]],
+  ['registeranalysis',['RegisterAnalysis',['../classbin2llvmir_1_1RegisterAnalysis.html',1,'bin2llvmir']]],
+  ['registercouple',['RegisterCouple',['../classbin2llvmir_1_1RegisterCouple.html',1,'bin2llvmir']]],
+  ['removeallcastsoptimizer',['RemoveAllCastsOptimizer',['../classllvmir2hll_1_1RemoveAllCastsOptimizer.html',1,'llvmir2hll']]],
+  ['removeuselesscastsoptimizer',['RemoveUselessCastsOptimizer',['../classllvmir2hll_1_1RemoveUselessCastsOptimizer.html',1,'llvmir2hll']]],
+  ['replaceitem',['ReplaceItem',['../structbin2llvmir_1_1StackAnalysis_1_1ReplaceItem.html',1,'bin2llvmir::StackAnalysis']]],
+  ['returnentry',['ReturnEntry',['../classbin2llvmir_1_1ReturnEntry.html',1,'bin2llvmir']]],
+  ['returnstmt',['ReturnStmt',['../classllvmir2hll_1_1ReturnStmt.html',1,'llvmir2hll']]],
+  ['returnvalidator',['ReturnValidator',['../classllvmir2hll_1_1ReturnValidator.html',1,'llvmir2hll']]],
+  ['rttianalysis',['RttiAnalysis',['../classbin2llvmir_1_1RttiAnalysis.html',1,'bin2llvmir']]],
+  ['rttibaseclassdescriptor',['RTTIBaseClassDescriptor',['../classbin2llvmir_1_1RTTIBaseClassDescriptor.html',1,'bin2llvmir']]],
+  ['rtticlasshierarchydescriptor',['RTTIClassHierarchyDescriptor',['../classbin2llvmir_1_1RTTIClassHierarchyDescriptor.html',1,'bin2llvmir']]],
+  ['rtticompleteobjectlocator',['RTTICompleteObjectLocator',['../classbin2llvmir_1_1RTTICompleteObjectLocator.html',1,'bin2llvmir']]],
+  ['rttitypedescriptor',['RTTITypeDescriptor',['../classbin2llvmir_1_1RTTITypeDescriptor.html',1,'bin2llvmir']]]
+];

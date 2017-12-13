@@ -1,0 +1,12 @@
+<map id="dwarfparser::DwarfModifierType" name="dwarfparser::DwarfModifierType">
+<area shape="rect" id="node4" href="$classdwarfparser_1_1DwarfConstType.html" title="Constant data type modifier. " alt="" coords="817,5,1032,32"/>
+<area shape="rect" id="node5" href="$classdwarfparser_1_1DwarfPackedType.html" title="Packed data type modifier. " alt="" coords="813,56,1036,83"/>
+<area shape="rect" id="node6" href="$classdwarfparser_1_1DwarfPointerType.html" title="Pointer data type modifier. " alt="" coords="813,107,1036,133"/>
+<area shape="rect" id="node7" href="$classdwarfparser_1_1DwarfReferenceType.html" title="Reference data type modifier. " alt="" coords="803,157,1046,184"/>
+<area shape="rect" id="node8" href="$classdwarfparser_1_1DwarfRestrictType.html" title="Restrict data type modifier. " alt="" coords="811,208,1038,235"/>
+<area shape="rect" id="node9" href="$classdwarfparser_1_1DwarfRValReferenceType.html" title="Rvalue reference data type modifier. " alt="" coords="789,259,1060,285"/>
+<area shape="rect" id="node10" href="$classdwarfparser_1_1DwarfSharedType.html" title="Shared data type modifier. " alt="" coords="813,309,1036,336"/>
+<area shape="rect" id="node11" href="$classdwarfparser_1_1DwarfVolatileType.html" title="Volatile data type modifier. " alt="" coords="811,360,1038,387"/>
+<area shape="rect" id="node2" href="$classdwarfparser_1_1DwarfType.html" title="Base data type, others are derived from it. " alt="" coords="287,183,464,209"/>
+<area shape="rect" id="node3" href="$classdwarfparser_1_1DwarfBaseElement.html" title="Base element class for all objects used by dwarfparser. " alt="" coords="5,183,239,209"/>
+</map>

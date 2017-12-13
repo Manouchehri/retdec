@@ -1,0 +1,4 @@
+<map id="llvmir2hll::PatternFinder" name="llvmir2hll::PatternFinder">
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1APICallPatternFinder.html" title="Finds interesting API calls in a module. " alt="" coords="5,155,189,196"/>
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1APICallSeqPatternFinder.html" title="Finds sequences of interesting API calls in a module. " alt="" coords="213,155,421,196"/>
+</map>

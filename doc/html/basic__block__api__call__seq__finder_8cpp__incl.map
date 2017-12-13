@@ -1,0 +1,30 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/pattern/pattern_finders/api_call/api_call_seq_finders/basic_block_api_call_seq_finder.cpp" name="/home/retdec/retdec/src/llvmir2hll/pattern/pattern_finders/api_call/api_call_seq_finders/basic_block_api_call_seq_finder.cpp">
+<area shape="rect" id="node2" href="$value__analysis_8h.html" title="An analysis for obtaining information about a value. " alt="" coords="1049,383,1191,425"/>
+<area shape="rect" id="node19" href="$cfg_8h.html" title="A representation of a control&#45;flow graph (CFG). " alt="" coords="1933,487,2089,529"/>
+<area shape="rect" id="node20" href="$call__expr_8h.html" title="A call expression. " alt="" coords="522,279,646,321"/>
+<area shape="rect" id="node30" href="$statement_8h.html" title="A representation of a program statement. " alt="" coords="2243,391,2423,417"/>
+<area shape="rect" id="node31" href="$call__info__obtainer_8h.html" title="A base class of all obtainers of information about functions and function calls. " alt="" coords="2591,383,2745,425"/>
+<area shape="rect" id="node34" href="$api__call__seq__data_8h.html" title="A storage of intermediate data when finding sequences of API calls. " alt="" coords="2851,272,3035,328"/>
+<area shape="rect" id="node38" href="$debug_8h.html" title="Debugging support. " alt="" coords="3055,673,3193,715"/>
+<area shape="rect" id="node41" href="$basic__block__api__call__seq__finder_8h.html" title="API call finder which searches only in a basic block. " alt="" coords="2080,139,2269,224"/>
+<area shape="rect" id="node43" href="$stmts__pattern_8h.html" title="A pattern that is composed of zero or more statements. " alt="" coords="1645,383,1832,425"/>
+<area shape="rect" id="node45" href="$ir_8h.html" title="IR utilities. " alt="" coords="2654,168,2794,195"/>
+<area shape="rect" id="node5" href="$caching_8h.html" title="A mixin for enabling caching of computed results. " alt="" coords="1054,487,1191,529"/>
+<area shape="rect" id="node7" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1161,673,1298,715"/>
+<area shape="rect" id="node9" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="2510,584,2647,625"/>
+<area shape="rect" id="node15" href="$valid__state_8h.html" title="A mixin providing support for keeping the validity of an object. " alt="" coords="195,487,333,529"/>
+<area shape="rect" id="node16" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="459,480,610,536"/>
+<area shape="rect" id="node17" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="327,584,465,625"/>
+<area shape="rect" id="node21" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="492,391,676,417"/>
+<area shape="rect" id="node22" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="880,495,1029,521"/>
+<area shape="rect" id="node25" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="753,584,890,625"/>
+<area shape="rect" id="node26" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="591,584,729,625"/>
+<area shape="rect" id="node27" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="1521,584,1658,625"/>
+<area shape="rect" id="node29" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="914,584,1051,625"/>
+<area shape="rect" id="node33" href="$cg_8h.html" title="A representation of a call graph (CG). " alt="" coords="2215,495,2398,521"/>
+<area shape="rect" id="node35" href="$api__call__info_8h.html" title="A representation of information about an API call. " alt="" coords="2962,480,3113,536"/>
+<area shape="rect" id="node40" href="$api__call__info__seq_8h.html" title="A sequence of information about API calls. " alt="" coords="2851,376,3031,432"/>
+<area shape="rect" id="node36" href="$maybe_8h.html" title="A simple implementation of the Maybe monad from Haskell. " alt="" coords="2975,584,3113,625"/>
+<area shape="rect" id="node42" href="$api__call__seq__finder_8h.html" title="A base class for all API calls finders. " alt="" coords="2054,272,2245,328"/>
+<area shape="rect" id="node44" href="$pattern_8h.html" title="A base class for representing code patterns. " alt="" coords="1671,487,1806,529"/>
+</map>

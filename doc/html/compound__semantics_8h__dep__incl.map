@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/semantics/semantics/compound_semantics.h" name="/home/retdec/retdec/include/llvmir2hll/semantics/semantics/compound_semantics.h">
+<area shape="rect" id="node2" href="$compound__semantics__builder_8h.html" title="A class providing an easy construction of compound semantics from several different semantics..." alt="" coords="163,124,393,195"/>
+<area shape="rect" id="node3" href="$compound__semantics__builder_8cpp.html" title="Implementation of CompoundSemanticsBuilder. " alt="" coords="5,243,244,313"/>
+<area shape="rect" id="node5" href="$compound__semantics_8cpp.html" title="Implementation of CompoundSemantics. " alt="" coords="418,131,685,187"/>
+<area shape="rect" id="node4" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="268,250,421,306"/>
+</map>

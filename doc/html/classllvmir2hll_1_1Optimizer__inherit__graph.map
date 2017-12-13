@@ -1,0 +1,42 @@
+<map id="llvmir2hll::Optimizer" name="llvmir2hll::Optimizer">
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1AggressiveGlobalToLocalOptimizer.html" title="Converts all global variables without a name from debug information to local variables. " alt="" coords="643,632,849,673"/>
+<area shape="rect" id="node6" href="$classllvmir2hll_1_1BitShiftOptimizer.html" title="Change bit shift to division or multiplication. " alt="" coords="644,698,848,725"/>
+<area shape="rect" id="node7" href="$classllvmir2hll_1_1DerefToArrayIndexOptimizer.html" title="Optimizes pointer arithmetic on variables to array accesses. " alt="" coords="657,749,835,791"/>
+<area shape="rect" id="node8" href="$classllvmir2hll_1_1EmptyArrayToStringOptimizer.html" title="Optimizes global empty arrays to empty strings. " alt="" coords="655,815,837,856"/>
+<area shape="rect" id="node9" href="$classllvmir2hll_1_1FuncOptimizer.html" title="A base class of all function optimizers. " alt="" coords="653,881,839,907"/>
+<area shape="rect" id="node40" href="$classllvmir2hll_1_1GlobalToLocalOptimizer.html" title="Converts global variables to local variables wherever possible. " alt="" coords="655,932,837,973"/>
+<area shape="rect" id="node41" href="$classllvmir2hll_1_1SimplifyArithmExprOptimizer.html" title="Optimizer that optimizes expressions to a simpler form. " alt="" coords="651,997,841,1039"/>
+<area shape="rect" id="node42" href="$classllvmir2hll_1_1UnusedGlobalVarOptimizer.html" title="Removes global variables that are not used. " alt="" coords="655,1063,837,1104"/>
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1OrderedAllVisitor.html" title="A visitor that visits everything in an ordered way. " alt="" coords="188,826,391,853"/>
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1Visitor.html" title="A base class of all visitors. " alt="" coords="5,826,140,853"/>
+<area shape="rect" id="node10" href="$classllvmir2hll_1_1AggressiveDerefOptimizer.html" title="Optimizes dereferences of integer values. " alt="" coords="921,5,1121,47"/>
+<area shape="rect" id="node11" href="$classllvmir2hll_1_1AuxiliaryVariablesOptimizer.html" title="Elimination of auxiliary variables. " alt="" coords="916,71,1127,112"/>
+<area shape="rect" id="node12" href="$classllvmir2hll_1_1BitOpToLogOpOptimizer.html" title="Optimizes Optimizes BitAndExpr to AndOpExpr or BitOrExpr to OrOpExpr if fulfil conditions. " alt="" coords="930,136,1113,177"/>
+<area shape="rect" id="node13" href="$classllvmir2hll_1_1BreakContinueReturnOptimizer.html" title="Removes statements following a break, continue, or return statements. " alt="" coords="927,201,1115,243"/>
+<area shape="rect" id="node14" href="$classllvmir2hll_1_1CArrayArgOptimizer.html" title="Optimizes array arguments of function calls. " alt="" coords="910,267,1133,294"/>
+<area shape="rect" id="node15" href="$classllvmir2hll_1_1CCastOptimizer.html" title="Removes casts that are in the C language implicit. " alt="" coords="924,318,1119,345"/>
+<area shape="rect" id="node16" href="$classllvmir2hll_1_1CopyPropagationOptimizer.html" title="Copy propagation optimization. " alt="" coords="920,369,1123,411"/>
+<area shape="rect" id="node17" href="$classllvmir2hll_1_1DeadCodeOptimizer.html" title="Removes dead code. Examples are mentioned below. " alt="" coords="910,435,1133,462"/>
+<area shape="rect" id="node18" href="$classllvmir2hll_1_1DeadGlobalAssignOptimizer.html" title="Elimination of dead assignments to global variables. " alt="" coords="916,487,1127,528"/>
+<area shape="rect" id="node19" href="$classllvmir2hll_1_1DeadLocalAssignOptimizer.html" title="Elimination of dead assignments to local variables. " alt="" coords="920,552,1123,593"/>
+<area shape="rect" id="node20" href="$classllvmir2hll_1_1DerefAddressOptimizer.html" title="Optimizes dereferences of addresses. " alt="" coords="931,617,1111,659"/>
+<area shape="rect" id="node21" href="$classllvmir2hll_1_1EmptyStmtOptimizer.html" title="Removes empty statements. " alt="" coords="907,683,1136,710"/>
+<area shape="rect" id="node22" href="$classllvmir2hll_1_1IfBeforeLoopOptimizer.html" title="Optimizes if statements before loops. " alt="" coords="934,735,1109,776"/>
+<area shape="rect" id="node23" href="$classllvmir2hll_1_1IfStructureOptimizer.html" title="Optimizes the structure of if statements. " alt="" coords="909,801,1133,827"/>
+<area shape="rect" id="node24" href="$classllvmir2hll_1_1IfToSwitchOptimizer.html" title="Optimizes if statements to switch statements. " alt="" coords="910,851,1133,878"/>
+<area shape="rect" id="node25" href="$classllvmir2hll_1_1LLVMIntrinsicsOptimizer.html" title="Optimizes calls to LLVM intrinsic functions. " alt="" coords="929,903,1113,944"/>
+<area shape="rect" id="node26" href="$classllvmir2hll_1_1LoopLastContinueOptimizer.html" title="Optimizes redundant continue statements in loops. " alt="" coords="917,968,1125,1009"/>
+<area shape="rect" id="node27" href="$classllvmir2hll_1_1NoInitVarDefOptimizer.html" title="Removes variable&#45;defining statements with no initializer. " alt="" coords="934,1033,1109,1075"/>
+<area shape="rect" id="node28" href="$classllvmir2hll_1_1PreWhileTrueLoopConvOptimizer.html" title="Optimizes the bodies of while True loops to simplify other optimizations of these loops..." alt="" coords="933,1099,1110,1140"/>
+<area shape="rect" id="node29" href="$classllvmir2hll_1_1RemoveAllCastsOptimizer.html" title="Removes all casts from a module. " alt="" coords="922,1164,1121,1205"/>
+<area shape="rect" id="node30" href="$classllvmir2hll_1_1RemoveUselessCastsOptimizer.html" title="Removes useless casts from a module. " alt="" coords="923,1229,1119,1271"/>
+<area shape="rect" id="node31" href="$classllvmir2hll_1_1SelfAssignOptimizer.html" title="Removes self assignments. " alt="" coords="909,1295,1133,1322"/>
+<area shape="rect" id="node32" href="$classllvmir2hll_1_1SimpleCopyPropagationOptimizer.html" title="A simple version of the copy propagation optimization. " alt="" coords="897,1347,1145,1388"/>
+<area shape="rect" id="node33" href="$classllvmir2hll_1_1UnreachableCodeOptimizer.html" title="Elimination of unreachable code. " alt="" coords="918,1412,1125,1453"/>
+<area shape="rect" id="node34" href="$classllvmir2hll_1_1VarDefForLoopOptimizer.html" title="Optimizes VarDefStmts for induction variables of for loops. " alt="" coords="928,1477,1115,1519"/>
+<area shape="rect" id="node35" href="$classllvmir2hll_1_1VarDefStmtOptimizer.html" title="Optimizes VarDefStmt to closest place of it&#39;s variable use. " alt="" coords="906,1543,1137,1570"/>
+<area shape="rect" id="node36" href="$classllvmir2hll_1_1VoidReturnOptimizer.html" title="Optimizes redundant void returns. " alt="" coords="908,1594,1135,1621"/>
+<area shape="rect" id="node37" href="$classllvmir2hll_1_1WhileTrueToForLoopOptimizer.html" title="Optimizes while loops into for loops. " alt="" coords="926,1645,1117,1687"/>
+<area shape="rect" id="node38" href="$classllvmir2hll_1_1WhileTrueToUForLoopOptimizer.html" title="Optimizes while loops into universal for loops. " alt="" coords="921,1711,1121,1752"/>
+<area shape="rect" id="node39" href="$classllvmir2hll_1_1WhileTrueToWhileCondOptimizer.html" title="Optimizes &quot;while true&quot; loops into &quot;while cond&quot; loops. " alt="" coords="918,1776,1125,1817"/>
+</map>

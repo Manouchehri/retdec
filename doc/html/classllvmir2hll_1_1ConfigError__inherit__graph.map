@@ -1,0 +1,6 @@
+<map id="llvmir2hll::ConfigError" name="llvmir2hll::ConfigError">
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1JSONConfigError.html" title="Base class for all exceptions raised by JSONConfig. " alt="" coords="113,155,309,181"/>
+<area shape="rect" id="node2" title="STL class. " alt="" coords="153,5,268,32"/>
+<area shape="rect" id="node4" href="$classllvmir2hll_1_1JSONConfigFileNotFoundError.html" title="Exception raised when the config file does not exist. " alt="" coords="5,229,192,271"/>
+<area shape="rect" id="node5" href="$classllvmir2hll_1_1JSONConfigParsingError.html" title="Exception raised when there is a parsing error. " alt="" coords="217,229,429,271"/>
+</map>

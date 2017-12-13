@@ -1,0 +1,4 @@
+<map id="llvmir2hll::PatternFinderRunner" name="llvmir2hll::PatternFinderRunner">
+<area shape="rect" id="node2" href="$classllvmir2hll_1_1CLIPatternFinderRunner.html" title="Runner of pattern finders for the command line interface (CLI). " alt="" coords="5,95,203,136"/>
+<area shape="rect" id="node3" href="$classllvmir2hll_1_1NoActionPatternFinderRunner.html" title="Runner of pattern finders that performs no additional actions. " alt="" coords="227,95,424,136"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/stack_pointer_ops/stack_pointer_ops.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/stack_pointer_ops/stack_pointer_ops.cpp">
+<area shape="rect" id="node8" href="$utils_8h.html" title="LLVM Utility functions. " alt="" coords="316,124,465,151"/>
+<area shape="rect" id="node14" href="$stack__pointer__ops_8h.html" title="Remove the remaining stack pointer operations. " alt="" coords="1702,109,1885,165"/>
+<area shape="rect" id="node20" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="865,124,1029,151"/>
+<area shape="rect" id="node17" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="1917,213,2070,255"/>
+</map>

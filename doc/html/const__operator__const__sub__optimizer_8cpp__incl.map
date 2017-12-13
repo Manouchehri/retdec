@@ -1,0 +1,39 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/simplify_arithm_expr/const_operator_const_sub_optimizer.cpp" name="/home/retdec/retdec/src/llvmir2hll/optimizer/optimizers/simplify_arithm_expr/const_operator_const_sub_optimizer.cpp">
+<area shape="rect" id="node2" href="$arithm__expr__evaluator_8h.html" title="A base class for all evaluators. " alt="" coords="3106,361,3291,403"/>
+<area shape="rect" id="node6" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="2693,644,2877,671"/>
+<area shape="rect" id="node7" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="2852,719,3001,745"/>
+<area shape="rect" id="node21" href="$const__float_8h.html" title="A float constant. " alt="" coords="3697,458,3833,499"/>
+<area shape="rect" id="node24" href="$const__int_8h.html" title="An integer constant. " alt="" coords="2608,458,2744,499"/>
+<area shape="rect" id="node31" href="$add__op__expr_8h.html" title="An addition operator. " alt="" coords="670,458,818,499"/>
+<area shape="rect" id="node33" href="$and__op__expr_8h.html" title="A logical &quot;and&quot; operator. " alt="" coords="2049,458,2197,499"/>
+<area shape="rect" id="node34" href="$bit__and__op__expr_8h.html" title="A bit&#45;and operator. " alt="" coords="2221,458,2371,499"/>
+<area shape="rect" id="node35" href="$bit__or__op__expr_8h.html" title="A bit&#45;or operator. " alt="" coords="2395,458,2533,499"/>
+<area shape="rect" id="node36" href="$bit__xor__op__expr_8h.html" title="A bit&#45;xor operator. " alt="" coords="5,458,152,499"/>
+<area shape="rect" id="node37" href="$div__op__expr_8h.html" title="A division operator. " alt="" coords="176,458,320,499"/>
+<area shape="rect" id="node38" href="$eq__op__expr_8h.html" title="An equality operator. " alt="" coords="345,458,485,499"/>
+<area shape="rect" id="node39" href="$gt__eq__op__expr_8h.html" title="A greater&#45;than&#45;or&#45;equal operator. " alt="" coords="509,458,646,499"/>
+<area shape="rect" id="node40" href="$gt__op__expr_8h.html" title="A greater&#45;than operator. " alt="" coords="842,458,979,499"/>
+<area shape="rect" id="node41" href="$lt__eq__op__expr_8h.html" title="A less&#45;than&#45;or&#45;equal operator. " alt="" coords="1004,458,1137,499"/>
+<area shape="rect" id="node42" href="$lt__op__expr_8h.html" title="A less&#45;than operator. " alt="" coords="1161,458,1295,499"/>
+<area shape="rect" id="node43" href="$mul__op__expr_8h.html" title="A multiplication operator. " alt="" coords="1319,458,1468,499"/>
+<area shape="rect" id="node44" href="$neg__op__expr_8h.html" title="An arithmetic negation operator. " alt="" coords="4122,458,4270,499"/>
+<area shape="rect" id="node46" href="$neq__op__expr_8h.html" title="A non&#45;equality operator. " alt="" coords="1543,458,1691,499"/>
+<area shape="rect" id="node47" href="$or__op__expr_8h.html" title="A logical &quot;or&quot; operator. " alt="" coords="1715,458,1853,499"/>
+<area shape="rect" id="node48" href="$sub__op__expr_8h.html" title="A subtraction operator. " alt="" coords="1877,458,2024,499"/>
+<area shape="rect" id="node49" href="$const__operator__const__sub__optimizer_8h.html" title="A sub&#45;optimization class that optimize expression like Constant operator constant. " alt="" coords="3151,139,3361,209"/>
+<area shape="rect" id="node5" href="$cast__expr_8h.html" title="Base class for cast instructions. " alt="" coords="3044,555,3172,596"/>
+<area shape="rect" id="node19" href="$const__bool_8h.html" title="A bool constant. " alt="" coords="2819,458,2955,499"/>
+<area shape="rect" id="node20" href="$constant_8h.html" title="A base class for all constants. " alt="" coords="2799,562,2969,589"/>
+<area shape="rect" id="node28" href="$maybe_8h.html" title="A simple implementation of the Maybe monad from Haskell. " alt="" coords="3858,458,3995,499"/>
+<area shape="rect" id="node29" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="3450,555,3587,596"/>
+<area shape="rect" id="node30" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="3367,451,3518,507"/>
+<area shape="rect" id="node12" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1857,883,1994,924"/>
+<area shape="rect" id="node18" href="$llvmir2hll_2ir_2type_8h.html" title="A base class of all types. " alt="" coords="3029,644,3171,671"/>
+<area shape="rect" id="node10" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="2795,793,2933,835"/>
+<area shape="rect" id="node11" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="2403,793,2541,835"/>
+<area shape="rect" id="node15" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="2242,793,2379,835"/>
+<area shape="rect" id="node16" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="2957,793,3094,835"/>
+<area shape="rect" id="node32" href="$binary__op__expr_8h.html" title="A base class for all binary operators. " alt="" coords="1433,555,1575,596"/>
+<area shape="rect" id="node45" href="$unary__op__expr_8h.html" title="A base class for all unary operators. " alt="" coords="4121,555,4260,596"/>
+<area shape="rect" id="node50" href="$sub__optimizer_8h.html" title="A base class for all simplify arithmetical expression optimizations. " alt="" coords="3251,257,3466,313"/>
+</map>

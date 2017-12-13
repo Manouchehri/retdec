@@ -1,0 +1,14 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/var_renamer/var_renamers/unified_var_renamer.cpp" name="/home/retdec/retdec/src/llvmir2hll/var_renamer/var_renamers/unified_var_renamer.cpp">
+<area shape="rect" id="node2" href="$debug_8h.html" title="Debugging support. " alt="" coords="130,131,267,173"/>
+<area shape="rect" id="node5" href="$num__var__name__gen_8h.html" title="A generator of variable names of the form &quot;prefixN&quot;, where N is a number. " alt="" coords="942,228,1135,284"/>
+<area shape="rect" id="node12" href="$var__renamer__factory_8h.html" title="Factory that creates instances of classes derived from VarRenamer. " alt="" coords="441,131,613,173"/>
+<area shape="rect" id="node25" href="$unified__var__renamer_8h.html" title="A renamer of variable names which names the variables gX (global variables), aX (parameters), and vX (local variables). " alt="" coords="743,124,913,180"/>
+<area shape="rect" id="node7" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="614,525,751,567"/>
+<area shape="rect" id="node10" href="$var__name__gen_8h.html" title="A base class for all generators of variable names. " alt="" coords="720,339,885,381"/>
+<area shape="rect" id="node13" href="$factory_8h.html" title="Implementation of the Object Factory design pattern. " alt="" coords="67,436,205,477"/>
+<area shape="rect" id="node16" href="$singleton_8h.html" title="Implementation of the Singleton design pattern. " alt="" coords="429,235,566,277"/>
+<area shape="rect" id="node17" href="$var__renamer_8h.html" title="A base class for all variable renamers. " alt="" coords="591,235,761,277"/>
+<area shape="rect" id="node18" href="$ordered__all__visitor_8h.html" title="A visitor that visits everything in an ordered way. " alt="" coords="479,332,630,388"/>
+<area shape="rect" id="node19" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="229,436,366,477"/>
+<area shape="rect" id="node24" href="$visitor_8h.html" title="A base class of all visitors. " alt="" coords="442,436,579,477"/>
+</map>

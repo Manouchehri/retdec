@@ -1,0 +1,34 @@
+<map id="/home/retdec/retdec/include/llvmir2hll/graphs/cg/cg.h" name="/home/retdec/retdec/include/llvmir2hll/graphs/cg/cg.h">
+<area shape="rect" id="node2" href="$cg__builder_8h.html" title="A creator of call graphs (CGs) from modules. " alt="" coords="1225,109,1395,165"/>
+<area shape="rect" id="node7" href="$dead__global__assign__optimizer_8cpp.html" title="Implementation of DeadGlobalAssignOptimizer. " alt="" coords="926,221,1105,291"/>
+<area shape="rect" id="node10" href="$unreachable__funcs__remover_8cpp.html" title="Implementation of UnreachableFuncsRemover. " alt="" coords="488,228,724,284"/>
+<area shape="rect" id="node12" href="$cg__writer_8h.html" title="A base class of all call graph (CG) writers. " alt="" coords="249,109,413,165"/>
+<area shape="rect" id="node13" href="$graphviz__cg__writer_8h.html" title="A CG writer in the dot format (graphviz). " alt="" coords="70,221,230,291"/>
+<area shape="rect" id="node14" href="$graphviz__cg__writer_8cpp.html" title="Implementation of GraphvizCGWriter. " alt="" coords="5,347,177,417"/>
+<area shape="rect" id="node16" href="$call__info__obtainer_8h.html" title="A base class of all obtainers of information about functions and function calls. " alt="" coords="2818,109,3029,165"/>
+<area shape="rect" id="node19" href="$optim__func__info__cfg__traversal_8cpp.html" title="Implementation of OptimFuncInfoCFGTraversal. " alt="" coords="1451,465,1659,536"/>
+<area shape="rect" id="node20" href="$optim__call__info__obtainer_8cpp.html" title="Implementation of OptimCallInfoObtainer. " alt="" coords="2787,465,2977,536"/>
+<area shape="rect" id="node22" href="$pessim__call__info__obtainer_8cpp.html" title="Implementation of PessimCallInfoObtainer. " alt="" coords="4789,347,4989,417"/>
+<area shape="rect" id="node23" href="$auxiliary__variables__cfg__traversal_8cpp.html" title="Implementation of AuxiliaryVariablesCFGTraversal. " alt="" coords="4874,221,5082,291"/>
+<area shape="rect" id="node33" href="$cg_8cpp.html" title="Implementation of CG. " alt="" coords="5208,109,5367,165"/>
+<area shape="rect" id="node3" href="$cg__builder_8cpp.html" title="Implementation of CGBuilder. " alt="" coords="1129,228,1288,284"/>
+<area shape="rect" id="node4" href="$optimizer__manager_8cpp.html" title="Implementation of OptimizerManager. " alt="" coords="1761,228,1939,284"/>
+<area shape="rect" id="node5" href="$auxiliary__variables__optimizer_8cpp.html" title="Implementation of AuxiliaryVariablesOptimizer. " alt="" coords="1964,221,2187,291"/>
+<area shape="rect" id="node6" href="$copy__propagation__optimizer_8cpp.html" title="Implementation of CopyPropagationOptimizer. " alt="" coords="2211,221,2425,291"/>
+<area shape="rect" id="node8" href="$global__to__local__optimizer_8cpp.html" title="Implementation of GlobalToLocalOptimizer. " alt="" coords="1313,221,1510,291"/>
+<area shape="rect" id="node9" href="$simple__copy__propagation__optimizer_8cpp.html" title="Implementation of SimpleCopyPropagationOptimizer. " alt="" coords="1534,221,1737,291"/>
+<area shape="rect" id="node11" href="$llvmir2hll_8cpp.html" title="Convertor of LLVM IR into the specified target high&#45;level language. " alt="" coords="748,228,901,284"/>
+<area shape="rect" id="node15" href="$cg__writer_8cpp.html" title="Implementation of CGWriter. " alt="" coords="255,228,413,284"/>
+<area shape="rect" id="node17" href="$optim__call__info__obtainer_8h.html" title="Obtainer of information about functions and function calls that assumes it has access to complete inf..." alt="" coords="2701,221,2908,291"/>
+<area shape="rect" id="node21" href="$pessim__call__info__obtainer_8h.html" title="Obtainer of information about functions and function calls that assumes nothing. " alt="" coords="4643,221,4849,291"/>
+<area shape="rect" id="node24" href="$lhs__rhs__uses__cfg__traversal_8cpp.html" title="Implementation of LhsRhsUsesCFGTraversal. " alt="" coords="4413,221,4618,291"/>
+<area shape="rect" id="node25" href="$modified__before__read__cfg__traversal_8cpp.html" title="Implementation of ModifiedBeforeReadCFGTraversal. " alt="" coords="2450,221,2677,291"/>
+<area shape="rect" id="node26" href="$unneeded__global__vars__cfg__traversal_8cpp.html" title="Implementation of UnneededGlobalVarsCFGTraversal. " alt="" coords="2932,221,3155,291"/>
+<area shape="rect" id="node27" href="$call__info__obtainer_8cpp.html" title="Implementation of CallInfoObtainer. " alt="" coords="3179,228,3348,284"/>
+<area shape="rect" id="node28" href="$pattern__finder_8cpp.html" title="Implementation of PatternFinder. " alt="" coords="3373,228,3535,284"/>
+<area shape="rect" id="node29" href="$api__call__seq__finder_8cpp.html" title="Implementation of APICallSeqFinder. " alt="" coords="3559,221,3738,291"/>
+<area shape="rect" id="node30" href="$basic__block__api__call__seq__finder_8cpp.html" title="Implementation of BasicBlockAPICallSeqFinder. " alt="" coords="3762,213,3983,299"/>
+<area shape="rect" id="node31" href="$api__call__pattern__finder_8cpp.html" title="Implementation of APICallPatternFinder. " alt="" coords="4007,221,4186,291"/>
+<area shape="rect" id="node32" href="$api__call__seq__pattern__finder_8cpp.html" title="Implementation of APICallSeqPatternFinder. " alt="" coords="4210,221,4389,291"/>
+<area shape="rect" id="node18" href="$optim__func__info__cfg__traversal_8h.html" title="A CFG traversal for computing OptimFuncInfos. " alt="" coords="2610,347,2845,417"/>
+</map>

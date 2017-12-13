@@ -1,0 +1,28 @@
+<map id="/home/retdec/retdec/src/llvmir2hll/llvm/llvmir2bir_converters/new_llvmir2bir_converter.cpp" name="/home/retdec/retdec/src/llvmir2hll/llvm/llvmir2bir_converters/new_llvmir2bir_converter.cpp">
+<area shape="rect" id="node3" href="$expression_8h.html" title="A base class of all expressions. " alt="" coords="391,228,575,255"/>
+<area shape="rect" id="node18" href="$function_8h.html" title="A representation of a function. " alt="" coords="1073,228,1239,255"/>
+<area shape="rect" id="node25" href="$module_8h.html" title="A representation of a complete module. " alt="" coords="2448,228,2611,255"/>
+<area shape="rect" id="node28" href="$var__def__stmt_8h.html" title="A variable definition statement. " alt="" coords="1738,124,1889,165"/>
+<area shape="rect" id="node30" href="$variable_8h.html" title="A representation of a variable. " alt="" coords="1051,131,1218,158"/>
+<area shape="rect" id="node31" href="$llvmir2bir__converter__factory_8h.html" title="Factory that creates instances of classes derived from LLVMIR2BIRConverter. " alt="" coords="1876,221,2060,262"/>
+<area shape="rect" id="node35" href="$new__llvmir2bir__converter_8h.html" title="New converter of LLVM IR into BIR. " alt="" coords="1603,213,1802,269"/>
+<area shape="rect" id="node36" href="$llvm__value__converter_8h.html" title="A converter from LLVM values to values in BIR. " alt="" coords="3807,317,4054,373"/>
+<area shape="rect" id="node38" href="$structure__converter_8h.html" title="A converter of the LLVM function structure. " alt="" coords="3111,213,3345,269"/>
+<area shape="rect" id="node43" href="$variables__manager_8h.html" title="Managing of local variables created during conversion of LLVM functions to BIR. " alt="" coords="2713,213,2943,269"/>
+<area shape="rect" id="node44" href="$debug_8h.html" title="Debugging support. " alt="" coords="161,124,298,165"/>
+<area shape="rect" id="node46" href="$ir_8h.html" title="IR utilities. " alt="" coords="2095,131,2235,158"/>
+<area shape="rect" id="node47" href="$string_8h.html" title="String utilities. " alt="" coords="1481,131,1650,158"/>
+<area shape="rect" id="node48" href="$diagnostics_8h.html" title="Functions concerning emission of diagnostics messages, like error or warning messages. " alt="" coords="251,332,445,359"/>
+<area shape="rect" id="node4" href="$value_8h.html" title="A base class of all objects a module can contain. " alt="" coords="937,332,1087,359"/>
+<area shape="rect" id="node10" href="$smart__ptr_8h.html" title="Declarations, aliases, macros, etc. for the use of smart pointers. " alt="" coords="1641,511,1778,552"/>
+<area shape="rect" id="node8" href="$metadatable_8h.html" title="A mixin providing metadata attached to objects. " alt="" coords="783,421,921,463"/>
+<area shape="rect" id="node9" href="$observer_8h.html" title="Implementation of a generic typed observer (observer part). " alt="" coords="1298,421,1435,463"/>
+<area shape="rect" id="node13" href="$subject_8h.html" title="Implementation of a generic typed observer (subject part). " alt="" coords="622,421,759,463"/>
+<area shape="rect" id="node16" href="$visitable_8h.html" title="Interface for classes whose instances are visitable by a Visitor. " alt="" coords="945,421,1082,463"/>
+<area shape="rect" id="node19" href="$types_8h.html" title="Aliases for several useful types. " alt="" coords="2354,325,2491,366"/>
+<area shape="rect" id="node29" href="$statement_8h.html" title="A representation of a program statement. " alt="" coords="1399,228,1579,255"/>
+<area shape="rect" id="node32" href="$llvmir2bir__converter_8h.html" title="A base class for all converters of LLVM IR to BIR. " alt="" coords="1617,325,1801,366"/>
+<area shape="rect" id="node33" href="$factory_8h.html" title="Implementation of the Object Factory design pattern. " alt="" coords="2141,325,2278,366"/>
+<area shape="rect" id="node34" href="$singleton_8h.html" title="Implementation of the Singleton design pattern. " alt="" coords="1877,325,2014,366"/>
+<area shape="rect" id="node42" href="$cfg__node_8h.html" title="A representation of a control&#45;flow graph node. " alt="" coords="3450,317,3649,373"/>
+</map>

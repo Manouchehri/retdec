@@ -1,0 +1,13 @@
+<map id="/home/retdec/retdec/src/bin2llvmir/optimizations/idioms_libgcc/idioms_libgcc.cpp" name="/home/retdec/retdec/src/bin2llvmir/optimizations/idioms_libgcc/idioms_libgcc.cpp">
+<area shape="rect" id="node8" href="$utils_8h.html" title="LLVM Utility functions. " alt="" coords="200,206,349,233"/>
+<area shape="rect" id="node14" href="$reaching__definitions_8h.html" title="Reaching definitions analysis (RDA) builds UD and DU chains. " alt="" coords="1293,109,1462,151"/>
+<area shape="rect" id="node24" href="$defs_8h.html" title="Aliases for several useful types with LLVM IR items. " alt="" coords="1234,206,1398,233"/>
+<area shape="rect" id="node26" href="$idioms__libgcc_8h.html" title="Idioms produced by libgcc. " alt="" coords="3025,199,3245,240"/>
+<area shape="rect" id="node31" href="$instruction_8h.html" title="LLVM instruction utilities. " alt="" coords="1583,206,1788,233"/>
+<area shape="rect" id="node33" href="$bin2llvmir_2utils_2type_8h.html" title="LLVM type utilities. " alt="" coords="2296,117,2461,143"/>
+<area shape="rect" id="node21" href="$bin2llvmir_2providers_2config_8h.html" title="Config DB provider for bin2llvmirl. " alt="" coords="2187,288,2341,329"/>
+<area shape="rect" id="node36" href="$fileimage_8h.html" title="File image provider for bin2llvmirl. " alt="" coords="2302,199,2455,240"/>
+<area shape="rect" id="node37" href="$bin2llvmir_2providers_2debugformat_8h.html" title="Debug format provider for bin2llvmirl. " alt="" coords="2657,288,2810,329"/>
+<area shape="rect" id="node38" href="$debugformat_2debugformat_8h.html" title="Common (DWARF and PDB) debug information representation library. " alt="" coords="2574,377,2781,404"/>
+<area shape="rect" id="node44" href="$dwarf__file_8h.html" title="Declarations of DwarfFile class which provides high&#45;level access to DWARF debugging informations..." alt="" coords="2390,452,2570,479"/>
+</map>
